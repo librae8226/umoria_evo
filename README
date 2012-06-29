@@ -1,0 +1,64 @@
+Comment by Librae
+-----------------
+This is a classic *ancient* game MORIA, very interesting.
+If you have a character based environment, it is enough.
+I pick the essential resources of the original tarball and did a little
+modification in order to make it pass compilation, then share them here.
+NOTE: For now, UNIX or its variant only!
+
+Below is original README. Great thanks to all those excellent antecessors :)
+
+============================================================================
+
+This is the source for Umoria 5.5.2, a dungeon exploration game.  This
+is my second major release of the game.  These sources have been
+compiled successfully at least once in the following environments: UNIX
+(4.2 BSD, 4.3 BSD, SYS V, Xenix, HP-UX, and many similar systems),
+IBM-PC (MSC 5.0, Turbo C 2.0), Mac (MPW 3.0, Think C 4.0), Atari ST
+(MWC, GCC, TC 2.0), Amiga (Aztec C 5.0), and VMS.  The following ports
+have been added but not tested other than by the people who sent them:
+386BSD, HP Apollo, Linux, Lattice C.
+
+I consider these to be production sources.  They should work without trouble
+on all of the systems mentioned above.  Some minor bugs must surely remain,
+but there should be no major program bugs encountered.
+
+People who are accustomed to Umoria 4.87 MUST read the file doc/FEATURES.NEW
+which documents many of the user visible features.  Don't send me bug reports
+unless you have read the file.
+
+Umoria 5.x does not understand Umoria 4.87 savefiles.  The changes to the
+game are so great, that supporting the old savefile format is not worth
+the effort.  Implementing a savefile conversion program will be an almost
+impossible task, and at least two people have tried and not succeeded.
+
+You may distribute modified copies of this game.  However, you must clearly
+indicate the extent and purpose of the changes.  Also, if the changes are
+extensive, I request that you call your sources something other than
+`umoria' so that they won't be confused with my version of the game.
+I would also appreciate receiving a copy of your changes, so that good ideas
+can be added back into my version.
+
+David Grabiner
+Department of Mathematics
+Harvard University
+Cambridge, MA 02138
+
+Internet electronic mail addess: grabiner@math.harvard.edu
+
+Jim Wilson
+856 University Ave.
+Palo Alto, CA  94301
+USA
+
+internet electronic mail address: wilson@kithrup.com
+
+If the above addresses fail, then try contacting the alumni
+organizations of Princeton University for David Grabiner, or Case
+Western Reserve Univ (Cleveland, OH) or Univ California at Berkeley for
+Jim Wilson, for current addresses.  These addresses are expected to
+remain valid for an unknown length of time.
+
+First revision (alpha): February 28, 1990
+Second revision (beta): May 4, 1990
+Third revision (production): March 25, 1991

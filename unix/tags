@@ -1,0 +1,2884 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ATARI_ST	config.h	248;"	d
+ATTR_HILITED	io.c	229;"	d	file:
+ATTR_NORMAL	io.c	228;"	d	file:
+A_CHR	constant.h	232;"	d
+A_CON	constant.h	231;"	d
+A_DEX	constant.h	230;"	d
+A_INT	constant.h	228;"	d
+A_STR	constant.h	227;"	d
+A_WIS	constant.h	229;"	d
+BIGVTYPESIZ	types.h	19;"	d
+BINDIR	Makefile	/^BINDIR = \/home\/yrliao\/bin$/;"	m
+BL	io.c	1569;"	d	file:
+BLANK_LENGTH	misc3.c	46;"	d	file:
+BLANK_SCR	moria1.c	589;"	d	file:
+BLOCKED_FLOOR	constant.h	259;"	d
+BOUNDARY_WALL	constant.h	272;"	d
+BR	io.c	1570;"	d	file:
+BTH_PLUS_ADJ	constant.h	209;"	d
+CC	Makefile	/^CC = gcc$/;"	m
+CD_ACID	constant.h	438;"	d
+CD_ANIMAL	constant.h	431;"	d
+CD_DRAGON	constant.h	430;"	d
+CD_EVIL	constant.h	432;"	d
+CD_FIRE	constant.h	436;"	d
+CD_FROST	constant.h	435;"	d
+CD_INFRA	constant.h	443;"	d
+CD_LIGHT	constant.h	439;"	d
+CD_MAX_HP	constant.h	444;"	d
+CD_NO_SLEEP	constant.h	442;"	d
+CD_POISON	constant.h	437;"	d
+CD_STONE	constant.h	440;"	d
+CD_UNDEAD	constant.h	433;"	d
+CD_WEAKNESS	constant.h	434;"	d
+CFLAGS	Makefile	/^CFLAGS = -O$/;"	m
+CH	io.c	1577;"	d	file:
+CH	io.c	1579;"	d	file:
+CH	io.c	1582;"	d	file:
+CHARGES	desc.c	317;"	d	file:
+CH_EXPLODE	constant.h	370;"	d
+CH_LOCKED	constant.h	365;"	d
+CH_LOSE_STR	constant.h	367;"	d
+CH_PARALYSED	constant.h	369;"	d
+CH_POISON	constant.h	368;"	d
+CH_SUMMON	constant.h	371;"	d
+CH_TRAPPED	constant.h	366;"	d
+CLA_BTH	constant.h	198;"	d
+CLA_BTHB	constant.h	199;"	d
+CLA_DEVICE	constant.h	200;"	d
+CLA_DISARM	constant.h	201;"	d
+CLA_MISC_HIT	constant.h	205;"	d
+CLA_SAVE	constant.h	202;"	d
+CM_1D2_OBJ	constant.h	400;"	d
+CM_20_RANDOM	constant.h	381;"	d
+CM_2D2_OBJ	constant.h	401;"	d
+CM_40_RANDOM	constant.h	382;"	d
+CM_4D2_OBJ	constant.h	402;"	d
+CM_60_RANDOM	constant.h	398;"	d
+CM_75_RANDOM	constant.h	383;"	d
+CM_90_RANDOM	constant.h	399;"	d
+CM_ALL_MV_FLAGS	constant.h	374;"	d
+CM_ATTACK_ONLY	constant.h	375;"	d
+CM_CARRY_GOLD	constant.h	395;"	d
+CM_CARRY_OBJ	constant.h	394;"	d
+CM_EATS_OTHER	constant.h	389;"	d
+CM_INVISIBLE	constant.h	386;"	d
+CM_MOVE_NORMAL	constant.h	376;"	d
+CM_MULTIPLY	constant.h	391;"	d
+CM_ONLY_MAGIC	constant.h	378;"	d
+CM_OPEN_DOOR	constant.h	387;"	d
+CM_PHASE	constant.h	388;"	d
+CM_PICKS_UP	constant.h	390;"	d
+CM_RANDOM_MOVE	constant.h	380;"	d
+CM_SMALL_OBJ	constant.h	393;"	d
+CM_SPECIAL	constant.h	385;"	d
+CM_TREASURE	constant.h	396;"	d
+CM_TR_SHIFT	constant.h	397;"	d
+CM_WIN	constant.h	403;"	d
+CNIL	constant.h	247;"	d
+CONFIG_H_INCLUDED	config.h	9;"	d
+CONSTANT_H_INCLUDED	constant.h	24;"	d
+CORR_FLOOR	constant.h	258;"	d
+COST_ADJ	constant.h	87;"	d
+CS_BLIND	constant.h	414;"	d
+CS_BREATHE	constant.h	422;"	d
+CS_BR_ACID	constant.h	425;"	d
+CS_BR_FIRE	constant.h	427;"	d
+CS_BR_FROST	constant.h	426;"	d
+CS_BR_GAS	constant.h	424;"	d
+CS_BR_LIGHT	constant.h	423;"	d
+CS_CONFUSE	constant.h	415;"	d
+CS_DRAIN_MANA	constant.h	420;"	d
+CS_FEAR	constant.h	416;"	d
+CS_FREQ	constant.h	406;"	d
+CS_HOLD_PER	constant.h	413;"	d
+CS_LGHT_WND	constant.h	411;"	d
+CS_SER_WND	constant.h	412;"	d
+CS_SLOW_PER	constant.h	419;"	d
+CS_SPELLS	constant.h	407;"	d
+CS_SUMMON_MON	constant.h	417;"	d
+CS_SUMMON_UND	constant.h	418;"	d
+CS_TEL_LONG	constant.h	409;"	d
+CS_TEL_SHORT	constant.h	408;"	d
+CS_TEL_TO	constant.h	410;"	d
+CTRL	constant.h	235;"	d
+CTRL	constant.h	236;"	d
+CURSES	Makefile	/^CURSES = -lcurses -ltermcap$/;"	m
+CUR_VERSION_MAJ	constant.h	31;"	d
+CUR_VERSION_MIN	constant.h	32;"	d
+DARK_FLOOR	constant.h	255;"	d
+DEBUG	save.c	13;"	d	file:
+DELETE	constant.h	237;"	d
+DUN_ROO_MEA	constant.h	68;"	d
+DUN_STR_DEN	constant.h	71;"	d
+DUN_STR_MAG	constant.h	73;"	d
+DUN_STR_MC	constant.h	74;"	d
+DUN_STR_QC	constant.h	76;"	d
+DUN_STR_QUA	constant.h	75;"	d
+DUN_STR_RNG	constant.h	72;"	d
+DUN_TUN_CHG	constant.h	66;"	d
+DUN_TUN_CON	constant.h	67;"	d
+DUN_TUN_JCT	constant.h	70;"	d
+DUN_TUN_PEN	constant.h	69;"	d
+DUN_TUN_RND	constant.h	65;"	d
+DUN_UNUSUAL	constant.h	77;"	d
+EQUIP_SCR	moria1.c	590;"	d	file:
+ESCAPE	constant.h	239;"	d
+FALSE	constant.h	39;"	d
+FLAGS	desc.c	320;"	d	file:
+GF_ACID	constant.h	605;"	d
+GF_FIRE	constant.h	607;"	d
+GF_FROST	constant.h	606;"	d
+GF_HOLY_ORB	constant.h	608;"	d
+GF_LIGHTNING	constant.h	603;"	d
+GF_MAGIC_MISSILE	constant.h	602;"	d
+GF_POISON_GAS	constant.h	604;"	d
+GNRL_ALRT	files.c	66;"	d	file:
+GRADF	moria4.c	384;"	d	file:
+GRANITE_WALL	constant.h	269;"	d
+GROUP	Makefile	/^GROUP = yrliao$/;"	m
+HE	io.c	1571;"	d	file:
+HELP_SCR	moria1.c	593;"	d	file:
+HPUX	config.h	72;"	d
+ID_DAMD	constant.h	468;"	d
+ID_EMPTY	constant.h	469;"	d
+ID_KNOWN2	constant.h	470;"	d
+ID_MAGIK	constant.h	467;"	d
+ID_NOSHOW_P1	constant.h	473;"	d
+ID_SHOW_HITDAM	constant.h	472;"	d
+ID_SHOW_P1	constant.h	474;"	d
+ID_STOREBOUGHT	constant.h	471;"	d
+IGNORED	desc.c	316;"	d	file:
+INSCRIP_SIZE	types.h	113;"	d
+INVEN_ARM	constant.h	216;"	d
+INVEN_ARRAY_SIZE	constant.h	90;"	d
+INVEN_AUX	constant.h	223;"	d
+INVEN_BODY	constant.h	215;"	d
+INVEN_FEET	constant.h	220;"	d
+INVEN_HANDS	constant.h	217;"	d
+INVEN_HEAD	constant.h	213;"	d
+INVEN_LEFT	constant.h	219;"	d
+INVEN_LIGHT	constant.h	222;"	d
+INVEN_NECK	constant.h	214;"	d
+INVEN_OUTER	constant.h	221;"	d
+INVEN_RIGHT	constant.h	218;"	d
+INVEN_SCR	moria1.c	591;"	d	file:
+INVEN_WIELD	constant.h	212;"	d
+ITEM_GROUP_MAX	constant.h	457;"	d
+ITEM_GROUP_MIN	constant.h	456;"	d
+ITEM_NEVER_STACK_MAX	constant.h	449;"	d
+ITEM_NEVER_STACK_MIN	constant.h	448;"	d
+ITEM_SINGLE_STACK_MAX	constant.h	453;"	d
+ITEM_SINGLE_STACK_MIN	constant.h	452;"	d
+Ioctl	io.c	/^static Ioctl(i, l, p) char *p; { return 0; }$/;"	f	file:
+Ioctl	io.c	/^static Ioctl(i, l, p) long l; char *p; { return 0; }$/;"	f	file:
+Ioctl	unix.c	/^static Ioctl(i, l, p) char *p; { return 0; }$/;"	f	file:
+Ioctl	unix.c	/^static Ioctl(i, l, p) long l; char *p; { return 0; }$/;"	f	file:
+LFLAGS	Makefile	/^LFLAGS = $/;"	m
+LIBDIR	Makefile	/^LIBDIR = \/usr\/local\/lib$/;"	m
+LIBFILES	Makefile	/^LIBFILES = hours news origcmds.hlp owizcmds.hlp roglcmds.hlp rwizcmds.hlp \\$/;"	m
+LIGHT	desc.c	319;"	d	file:
+LIGHT_FLOOR	constant.h	256;"	d
+LINT_ARGS	externs.h	16;"	d
+LOCK_EX	death.c	178;"	d	file:
+LOCK_NB	death.c	180;"	d	file:
+LOCK_SH	death.c	179;"	d	file:
+LOCK_UN	death.c	181;"	d	file:
+L_INCR	death.c	102;"	d	file:
+L_SET	death.c	99;"	d	file:
+MAC	config.h	61;"	d
+MACGAME	config.h	298;"	d
+MACRSRC	config.h	296;"	d
+MAGE	constant.h	279;"	d
+MAGMA_WALL	constant.h	270;"	d
+MAX_AMULETS	constant.h	173;"	d
+MAX_BACKGROUND	constant.h	183;"	d
+MAX_CAVE_FLOOR	constant.h	260;"	d
+MAX_CAVE_ROOM	constant.h	257;"	d
+MAX_CLASS	constant.h	181;"	d
+MAX_COLORS	constant.h	168;"	d
+MAX_CREATURES	constant.h	140;"	d
+MAX_DUNGEON_OBJ	constant.h	97;"	d
+MAX_EXP	constant.h	179;"	d
+MAX_GOLD	constant.h	114;"	d
+MAX_HEIGHT	constant.h	55;"	d
+MAX_LEV_ADJ	constant.h	206;"	d
+MAX_LONG	constant.h	44;"	d
+MAX_MALLOC	constant.h	144;"	d
+MAX_MALLOC_CHANCE	constant.h	145;"	d
+MAX_METALS	constant.h	171;"	d
+MAX_MONS_LEVEL	constant.h	146;"	d
+MAX_MON_MULT	constant.h	149;"	d
+MAX_MON_NATTACK	constant.h	159;"	d
+MAX_MUSH	constant.h	169;"	d
+MAX_OBJECTS	constant.h	96;"	d
+MAX_OBJ_LEVEL	constant.h	91;"	d
+MAX_OPEN_SPACE	constant.h	262;"	d
+MAX_OWNERS	constant.h	80;"	d
+MAX_PLAYER_LEVEL	constant.h	178;"	d
+MAX_RACES	constant.h	180;"	d
+MAX_ROCKS	constant.h	172;"	d
+MAX_SAVE_MSG	constant.h	52;"	d
+MAX_SHORT	constant.h	43;"	d
+MAX_SIGHT	constant.h	147;"	d
+MAX_SPELL_DIS	constant.h	148;"	d
+MAX_STORES	constant.h	81;"	d
+MAX_SYLLABLES	constant.h	175;"	d
+MAX_TALLOC	constant.h	117;"	d
+MAX_TITLES	constant.h	174;"	d
+MAX_TRAP	constant.h	163;"	d
+MAX_UCHAR	constant.h	42;"	d
+MAX_WIDTH	constant.h	56;"	d
+MAX_WOODS	constant.h	170;"	d
+MIN_CAVE_WALL	constant.h	268;"	d
+MIN_CLOSED_SPACE	constant.h	263;"	d
+MIN_MALLOC_LEVEL	constant.h	152;"	d
+MIN_MALLOC_TD	constant.h	153;"	d
+MIN_MALLOC_TN	constant.h	154;"	d
+MIN_MONIX	constant.h	160;"	d
+MIN_TRIX	constant.h	118;"	d
+MON_DRAIN_LIFE	constant.h	158;"	d
+MON_MULT_ADJ	constant.h	150;"	d
+MON_NASTY	constant.h	151;"	d
+MON_SUMMON_ADJ	constant.h	157;"	d
+MORIA_CNF_NAME	config.h	97;"	d
+MORIA_HELP	config.h	98;"	d
+MORIA_MOR	config.h	94;"	d
+MORIA_ORIG_HELP	config.h	99;"	d
+MORIA_OWIZ_HELP	config.h	101;"	d
+MORIA_SAV	config.h	92;"	d
+MORIA_SAV_NAME	config.h	96;"	d
+MORIA_TOP	config.h	93;"	d
+MORIA_TOP_NAME	config.h	95;"	d
+MORIA_VER	config.h	103;"	d
+MORIA_WELCOME	config.h	102;"	d
+MORIA_WIZ_HELP	config.h	100;"	d
+MSG_LINE	constant.h	49;"	d
+NEAR	main.c	153;"	d	file:
+NEAR	main.c	155;"	d	file:
+NLS	io.c	38;"	d	file:
+NONE	constant.h	278;"	d
+NORMAL_TABLE_SD	constant.h	288;"	d
+NORMAL_TABLE_SIZE	constant.h	287;"	d
+NULL_WALL	constant.h	254;"	d
+N_MONS_ATTS	constant.h	141;"	d
+OBJECT_IDENT_SIZE	constant.h	112;"	d
+OBJS	Makefile	/^OBJS = main.o misc1.o misc2.o misc3.o misc4.o store1.o files.o io.o \\$/;"	m
+OBJ_BASE_MAGIC	constant.h	129;"	d
+OBJ_BASE_MAX	constant.h	130;"	d
+OBJ_BOLT_RANGE	constant.h	136;"	d
+OBJ_CLOSED_DOOR	constant.h	99;"	d
+OBJ_DIV_CURSED	constant.h	132;"	d
+OBJ_DIV_SPECIAL	constant.h	131;"	d
+OBJ_DOWN_STAIR	constant.h	102;"	d
+OBJ_GOLD_LIST	constant.h	108;"	d
+OBJ_GREAT	constant.h	92;"	d
+OBJ_LAMP_MAX	constant.h	135;"	d
+OBJ_MUSH	constant.h	106;"	d
+OBJ_NOTHING	constant.h	109;"	d
+OBJ_OPEN_DOOR	constant.h	98;"	d
+OBJ_RUBBLE	constant.h	105;"	d
+OBJ_RUINED_CHEST	constant.h	110;"	d
+OBJ_RUNE_PROT	constant.h	137;"	d
+OBJ_SCARE_MON	constant.h	107;"	d
+OBJ_SECRET_DOOR	constant.h	100;"	d
+OBJ_STD_ADJ	constant.h	126;"	d
+OBJ_STD_MIN	constant.h	127;"	d
+OBJ_STORE_DOOR	constant.h	103;"	d
+OBJ_TOWN_LEVEL	constant.h	128;"	d
+OBJ_TRAP_LIST	constant.h	104;"	d
+OBJ_UP_STAIR	constant.h	101;"	d
+OBJ_WIZARD	constant.h	111;"	d
+OD_KNOWN1	constant.h	464;"	d
+OD_TRIED	constant.h	463;"	d
+OWNER	Makefile	/^OWNER = yrliao$/;"	m
+PATCH_LEVEL	constant.h	33;"	d
+PLAYER_EXIT_PAUSE	constant.h	195;"	d
+PLAYER_FOOD_ALERT	constant.h	188;"	d
+PLAYER_FOOD_FAINT	constant.h	186;"	d
+PLAYER_FOOD_FULL	constant.h	184;"	d
+PLAYER_FOOD_MAX	constant.h	185;"	d
+PLAYER_FOOD_WEAK	constant.h	187;"	d
+PLAYER_NAME_SIZE	types.h	136;"	d
+PLAYER_REGEN_FAINT	constant.h	189;"	d
+PLAYER_REGEN_HPBASE	constant.h	192;"	d
+PLAYER_REGEN_MNBASE	constant.h	193;"	d
+PLAYER_REGEN_NORMAL	constant.h	191;"	d
+PLAYER_REGEN_WEAK	constant.h	190;"	d
+PLAYER_WEIGHT_CAP	constant.h	194;"	d
+PLUSSES	desc.c	318;"	d	file:
+PRAYER_OFFSET	constant.h	284;"	d
+PRIEST	constant.h	280;"	d
+PY_ARMOR	constant.h	313;"	d
+PY_BLESSED	constant.h	306;"	d
+PY_BLIND	constant.h	293;"	d
+PY_CHR	constant.h	321;"	d
+PY_CON	constant.h	320;"	d
+PY_CONFUSED	constant.h	294;"	d
+PY_DET_INV	constant.h	307;"	d
+PY_DEX	constant.h	319;"	d
+PY_FAST	constant.h	297;"	d
+PY_FEAR	constant.h	295;"	d
+PY_HERO	constant.h	304;"	d
+PY_HP	constant.h	323;"	d
+PY_HUNGRY	constant.h	291;"	d
+PY_INT	constant.h	317;"	d
+PY_INVULN	constant.h	303;"	d
+PY_MANA	constant.h	324;"	d
+PY_PARALYSED	constant.h	311;"	d
+PY_POISONED	constant.h	296;"	d
+PY_REPEAT	constant.h	312;"	d
+PY_REST	constant.h	300;"	d
+PY_SEARCH	constant.h	299;"	d
+PY_SHERO	constant.h	305;"	d
+PY_SLOW	constant.h	298;"	d
+PY_SPEED	constant.h	309;"	d
+PY_STATS	constant.h	315;"	d
+PY_STR	constant.h	316;"	d
+PY_STR_WGT	constant.h	310;"	d
+PY_STUDY	constant.h	301;"	d
+PY_TIM_INFRA	constant.h	308;"	d
+PY_WEAK	constant.h	292;"	d
+PY_WIS	constant.h	318;"	d
+QUARTZ_WALL	constant.h	271;"	d
+QUART_HEIGHT	constant.h	59;"	d
+QUART_WIDTH	constant.h	60;"	d
+RATIO	io.c	1586;"	d	file:
+RNG_A	rnd.c	64;"	d	file:
+RNG_M	rnd.c	63;"	d	file:
+RNG_Q	rnd.c	65;"	d	file:
+RNG_R	rnd.c	66;"	d	file:
+ROGUE_LIKE	config.h	227;"	d
+RTPC_NO_NLS	config.h	319;"	d
+SCARE_MONSTER	constant.h	165;"	d
+SCOREFILE_SIZE	constant.h	611;"	d
+SCREEN_HEIGHT	constant.h	57;"	d
+SCREEN_WIDTH	constant.h	58;"	d
+SCRN_COLS	config.h	305;"	d
+SCRN_ROWS	config.h	304;"	d
+SN_ARRAY_SIZE	constant.h	533;"	d
+SN_BEAUTY	constant.h	507;"	d
+SN_BLINDNESS	constant.h	512;"	d
+SN_CLUMSINESS	constant.h	493;"	d
+SN_DF	constant.h	484;"	d
+SN_DISARMED	constant.h	530;"	d
+SN_DRAGON_SLAYING	constant.h	522;"	d
+SN_DULLNESS	constant.h	511;"	d
+SN_EMPTY	constant.h	523;"	d
+SN_ENVELOPING	constant.h	519;"	d
+SN_EXPLOSION_DEVICE	constant.h	527;"	d
+SN_FB	constant.h	490;"	d
+SN_FIRE	constant.h	520;"	d
+SN_FREE_ACTION	constant.h	491;"	d
+SN_FT	constant.h	489;"	d
+SN_GAS_TRAP	constant.h	526;"	d
+SN_GREAT_MASS	constant.h	500;"	d
+SN_HA	constant.h	483;"	d
+SN_INFRAVISION	constant.h	503;"	d
+SN_INTELLIGENCE	constant.h	501;"	d
+SN_IRRITATION	constant.h	517;"	d
+SN_LOCKED	constant.h	524;"	d
+SN_LORDLINESS	constant.h	505;"	d
+SN_MAGI	constant.h	506;"	d
+SN_MIGHT	constant.h	504;"	d
+SN_MULTIPLE_TRAPS	constant.h	529;"	d
+SN_NOISE	constant.h	499;"	d
+SN_NULL	constant.h	477;"	d
+SN_POISON_NEEDLE	constant.h	525;"	d
+SN_PROTECTION	constant.h	516;"	d
+SN_R	constant.h	478;"	d
+SN_RA	constant.h	479;"	d
+SN_RC	constant.h	481;"	d
+SN_REGENERATION	constant.h	509;"	d
+SN_RF	constant.h	480;"	d
+SN_RL	constant.h	482;"	d
+SN_SA	constant.h	485;"	d
+SN_SD	constant.h	486;"	d
+SN_SE	constant.h	487;"	d
+SN_SEEING	constant.h	508;"	d
+SN_SLAYING	constant.h	492;"	d
+SN_SLAY_ANIMAL	constant.h	532;"	d
+SN_SLAY_EVIL	constant.h	521;"	d
+SN_SLOWNESS	constant.h	498;"	d
+SN_SLOW_DESCENT	constant.h	495;"	d
+SN_SPEED	constant.h	496;"	d
+SN_STEALTH	constant.h	497;"	d
+SN_STUPIDITY	constant.h	510;"	d
+SN_SU	constant.h	488;"	d
+SN_SUMMONING_RUNES	constant.h	528;"	d
+SN_TELEPORTATION	constant.h	514;"	d
+SN_TIMIDNESS	constant.h	513;"	d
+SN_UGLINESS	constant.h	515;"	d
+SN_UNLOCKED	constant.h	531;"	d
+SN_VULNERABILITY	constant.h	518;"	d
+SN_WEAKNESS	constant.h	494;"	d
+SN_WISDOM	constant.h	502;"	d
+SPELL_OFFSET	constant.h	283;"	d
+SRCS	Makefile	/^SRCS = main.c misc1.c misc2.c misc3.c misc4.c store1.c files.c io.c \\$/;"	m
+STAT_COLUMN	constant.h	275;"	d
+STDIO_LOADED	death.c	13;"	d	file:
+STDIO_LOADED	files.c	12;"	d	file:
+STDIO_LOADED	io.c	11;"	d	file:
+STDIO_LOADED	save.c	19;"	d	file:
+STORE_CHOICES	constant.h	83;"	d
+STORE_INVEN_MAX	constant.h	82;"	d
+STORE_MAX_INVEN	constant.h	84;"	d
+STORE_MIN_INVEN	constant.h	85;"	d
+STORE_TURN_AROUND	constant.h	86;"	d
+SYS_V	config.h	252;"	d
+SYS_V	config.h	66;"	d
+TL	io.c	1567;"	d	file:
+TMP1_WALL	constant.h	265;"	d
+TMP2_WALL	constant.h	266;"	d
+TR	io.c	1568;"	d	file:
+TREAS_ANY_ALLOC	constant.h	120;"	d
+TREAS_GOLD_ALLOC	constant.h	121;"	d
+TREAS_ROOM_ALLOC	constant.h	119;"	d
+TRUE	constant.h	36;"	d
+TR_AGGRAVATE	constant.h	337;"	d
+TR_BLIND	constant.h	358;"	d
+TR_CHR	constant.h	333;"	d
+TR_CON	constant.h	332;"	d
+TR_CURSED	constant.h	362;"	d
+TR_DEX	constant.h	331;"	d
+TR_EGO_WEAPON	constant.h	342;"	d
+TR_FFALL	constant.h	357;"	d
+TR_FLAME_TONGUE	constant.h	348;"	d
+TR_FREE_ACT	constant.h	354;"	d
+TR_FROST_BRAND	constant.h	347;"	d
+TR_INFRA	constant.h	361;"	d
+TR_INT	constant.h	329;"	d
+TR_REGEN	constant.h	339;"	d
+TR_RES_ACID	constant.h	351;"	d
+TR_RES_COLD	constant.h	352;"	d
+TR_RES_FIRE	constant.h	350;"	d
+TR_RES_LIGHT	constant.h	356;"	d
+TR_SEARCH	constant.h	334;"	d
+TR_SEE_INVIS	constant.h	355;"	d
+TR_SLAY_ANIMAL	constant.h	344;"	d
+TR_SLAY_DRAGON	constant.h	343;"	d
+TR_SLAY_EVIL	constant.h	345;"	d
+TR_SLAY_UNDEAD	constant.h	346;"	d
+TR_SLOW_DIGEST	constant.h	335;"	d
+TR_SPEED	constant.h	340;"	d
+TR_STATS	constant.h	327;"	d
+TR_STEALTH	constant.h	336;"	d
+TR_STR	constant.h	328;"	d
+TR_SUST_STAT	constant.h	353;"	d
+TR_TELEPORT	constant.h	338;"	d
+TR_TIMID	constant.h	359;"	d
+TR_TUNNEL	constant.h	360;"	d
+TR_WIS	constant.h	330;"	d
+TV_AMULET	constant.h	565;"	d
+TV_ARROW	constant.h	548;"	d
+TV_BOLT	constant.h	547;"	d
+TV_BOOTS	constant.h	556;"	d
+TV_BOW	constant.h	551;"	d
+TV_CHEST	constant.h	539;"	d
+TV_CLOAK	constant.h	558;"	d
+TV_CLOSED_DOOR	constant.h	594;"	d
+TV_DIGGING	constant.h	555;"	d
+TV_DOWN_STAIR	constant.h	596;"	d
+TV_FLASK	constant.h	575;"	d
+TV_FOOD	constant.h	576;"	d
+TV_GLOVES	constant.h	557;"	d
+TV_GOLD	constant.h	581;"	d
+TV_HAFTED	constant.h	552;"	d
+TV_HARD_ARMOR	constant.h	561;"	d
+TV_HELM	constant.h	559;"	d
+TV_INVIS_TRAP	constant.h	584;"	d
+TV_LIGHT	constant.h	550;"	d
+TV_MAGIC_BOOK	constant.h	577;"	d
+TV_MAX_ENCHANT	constant.h	564;"	d
+TV_MAX_OBJECT	constant.h	580;"	d
+TV_MAX_PICK_UP	constant.h	583;"	d
+TV_MAX_VISIBLE	constant.h	599;"	d
+TV_MAX_WEAR	constant.h	568;"	d
+TV_MIN_DOORS	constant.h	592;"	d
+TV_MIN_ENCHANT	constant.h	545;"	d
+TV_MIN_VISIBLE	constant.h	587;"	d
+TV_MIN_WEAR	constant.h	542;"	d
+TV_MISC	constant.h	538;"	d
+TV_NEVER	constant.h	536;"	d
+TV_NOTHING	constant.h	537;"	d
+TV_OPEN_DOOR	constant.h	593;"	d
+TV_POLEARM	constant.h	553;"	d
+TV_POTION1	constant.h	573;"	d
+TV_POTION2	constant.h	574;"	d
+TV_PRAYER_BOOK	constant.h	578;"	d
+TV_RING	constant.h	566;"	d
+TV_RUBBLE	constant.h	589;"	d
+TV_SCROLL1	constant.h	571;"	d
+TV_SCROLL2	constant.h	572;"	d
+TV_SECRET_DOOR	constant.h	597;"	d
+TV_SHIELD	constant.h	560;"	d
+TV_SLING_AMMO	constant.h	546;"	d
+TV_SOFT_ARMOR	constant.h	562;"	d
+TV_SPIKE	constant.h	549;"	d
+TV_STAFF	constant.h	569;"	d
+TV_STORE_DOOR	constant.h	598;"	d
+TV_SWORD	constant.h	554;"	d
+TV_UP_STAIR	constant.h	595;"	d
+TV_VIS_TRAP	constant.h	588;"	d
+TV_WAND	constant.h	570;"	d
+USE_DEVICE	constant.h	182;"	d
+USG	config.h	243;"	d
+USG	config.h	271;"	d
+USG	config.h	276;"	d
+USING_TCIO	config.h	84;"	d
+Use_value	io.c	/^int Use_value;$/;"	v
+Use_value2	io.c	/^int Use_value2;$/;"	v
+VE	io.c	1572;"	d	file:
+VTYPESIZ	types.h	18;"	d
+WEAR_SCR	moria1.c	592;"	d	file:
+WIN_MON_APPEAR	constant.h	156;"	d
+WIN_MON_TOT	constant.h	155;"	d
+WIZARD	config.h	17;"	d
+WRONG_SCR	moria1.c	594;"	d	file:
+Z_PLUSSES	desc.c	321;"	d	file:
+_BackGroundIO	io.c	/^long _BackGroundIO = 1;$/;"	v
+_BackGroundIO	main.c	/^long NEAR _BackGroundIO = 1;$/;"	v
+__STDC__	config.h	334;"	d
+__anon1::stuff	io.c	/^typedef struct { int stuff; } fpvmach;$/;"	m	struct:__anon1	file:	access:public
+__anon2::stuff	unix.c	/^typedef struct { int stuff; } fpvmach;$/;"	m	struct:__anon2	file:	access:public
+__anon3::stuff	signals.c	/^typedef struct { int stuff; } fpvmach;$/;"	m	struct:__anon3	file:	access:public
+_get_char	save.c	/^int _get_char(generate, exit_flag)$/;"	f
+_h_IEEETRAP	io.c	69;"	d	file:
+_h_IEEETRAP	signals.c	52;"	d	file:
+_h_IEEETRAP	unix.c	26;"	d	file:
+_priority	io.c	/^long _priority = 0;$/;"	v
+_priority	main.c	/^long NEAR _priority = 0;$/;"	v
+_procname	io.c	/^char *_procname = "Moria";$/;"	v
+_procname	main.c	/^char * NEAR _procname = "Moria";$/;"	v
+_save_char	externs.h	/^int _save_char();$/;"	p	signature:()
+_save_char	externs.h	/^int _save_char(char *);$/;"	p	signature:(char *)
+_save_char	save.c	/^int _save_char(fnam)$/;"	f
+_stack	io.c	/^long _stack = 30000;$/;"	v
+_stack	main.c	/^long NEAR _stack = 30000;$/;"	v
+_stklen	main.c	/^unsigned _stklen = 0x3fff;	\/* increase stack from 4K to 16K *\/$/;"	v
+_stksize	main.c	/^long _stksize = 18000;		\/*(SAJ) for MWC	*\/$/;"	v
+aaf	types.h	/^  int8u aaf;		\/* Area affect radius	*\/$/;"	m	struct:creature_type	access:public
+ac	types.h	/^  int16 ac;		\/* Normal AC		*\/$/;"	m	struct:inven_type	access:public
+ac	types.h	/^  int16 ac;		\/* Normal AC		*\/$/;"	m	struct:treasure_type	access:public
+ac	types.h	/^  int8u ac;		\/* AC			*\/$/;"	m	struct:creature_type	access:public
+access	externs.h	/^int access ();$/;"	p	signature:()
+access	externs.h	/^int access(char * name, int dum);$/;"	p	signature:(char * name, int dum)
+acid_dam	externs.h	/^void acid_dam();$/;"	p	signature:()
+acid_dam	externs.h	/^void acid_dam(int, char *);$/;"	p	signature:(int, char *)
+acid_dam	moria2.c	/^void acid_dam(dam, kb_str)$/;"	f
+acid_resist	types.h	/^      int8u acid_resist;	\/* Resistance to acid  *\/$/;"	m	struct:player_type::flags	access:public
+add_food	externs.h	/^void add_food();$/;"	p	signature:()
+add_food	externs.h	/^void add_food(int);$/;"	p	signature:(int)
+add_food	misc1.c	/^void add_food(num)$/;"	f
+add_inscribe	externs.h	/^void add_inscribe();$/;"	p	signature:()
+add_inscribe	externs.h	/^void add_inscribe(struct inven_type *, int8u);$/;"	p	signature:(struct inven_type *, int8u)
+add_inscribe	misc4.c	/^void add_inscribe(i_ptr, type)$/;"	f
+adj_hd	types.h	/^  int8u adj_hd;		\/* Adjust hit points		*\/$/;"	m	struct:class_type	access:public
+afraid	types.h	/^      int16 afraid;		\/* Fear		       *\/$/;"	m	struct:player_type::flags	access:public
+age	types.h	/^      int16u age;	\/* Characters age	*\/$/;"	m	struct:player_type::misc	access:public
+aggravate	types.h	/^      int8u aggravate;		\/* Aggravate monsters  *\/$/;"	m	struct:player_type::flags	access:public
+aggravate_monster	externs.h	/^int aggravate_monster();$/;"	p	signature:()
+aggravate_monster	externs.h	/^int aggravate_monster(int);$/;"	p	signature:(int)
+aggravate_monster	spells.c	/^int aggravate_monster (dis_affect)$/;"	f
+aim	externs.h	/^void aim();$/;"	p	signature:()
+aim	externs.h	/^void aim(void);$/;"	p	signature:(void)
+aim	wands.c	/^void aim()$/;"	f
+alchemist	externs.h	/^int alchemist();$/;"	p	signature:()
+alchemist	externs.h	/^int alchemist(int);$/;"	p	signature:(int)
+alchemist	sets.c	/^int alchemist(element)$/;"	f
+alchemist	tables.c	/^  alchemist(), magic_shop();$/;"	p	file:
+alloc_monster	externs.h	/^void alloc_monster();$/;"	p	signature:()
+alloc_monster	externs.h	/^void alloc_monster(int, int, int);$/;"	p	signature:(int, int, int)
+alloc_monster	misc1.c	/^void alloc_monster(num, dis, slp)$/;"	f
+alloc_object	externs.h	/^void alloc_object();$/;"	p	signature:()
+alloc_object	externs.h	/^void alloc_object(int (*)(), int, int);$/;"	p	signature:(int (*)(), int, int)
+alloc_object	misc3.c	/^void alloc_object(alloc_set, typ, num)$/;"	f
+amulets	tables.c	/^char **amulets;$/;"	v
+amulets	tables.c	/^char *amulets[MAX_AMULETS] = {$/;"	v
+area_affect	externs.h	/^void area_affect();$/;"	p	signature:()
+area_affect	externs.h	/^void area_affect(int, int, int);$/;"	p	signature:(int, int, int)
+area_affect	moria2.c	/^void area_affect(dir, y, x)$/;"	f
+armory	externs.h	/^int armory();$/;"	p	signature:()
+armory	externs.h	/^int armory(int);$/;"	p	signature:(int)
+armory	sets.c	/^int armory(element)$/;"	f
+armory	tables.c	/^extern int general_store(), armory(), weaponsmith(), temple(),$/;"	p	file:
+atol	store2.c	/^long atol();$/;"	p	file:
+atol	wizard.c	/^long atol();$/;"	p	file:
+attack_blows	externs.h	/^int attack_blows();$/;"	p	signature:()
+attack_blows	externs.h	/^int attack_blows(int, int *);$/;"	p	signature:(int, int *)
+attack_blows	misc3.c	/^int attack_blows(weight, wtohit)$/;"	f
+attack_desc	types.h	/^    int8u attack_desc;$/;"	m	struct:m_attack_type	access:public
+attack_dice	types.h	/^    int8u attack_dice;$/;"	m	struct:m_attack_type	access:public
+attack_sides	types.h	/^    int8u attack_sides;$/;"	m	struct:m_attack_type	access:public
+attack_type	types.h	/^    int8u attack_type;$/;"	m	struct:m_attack_type	access:public
+au	types.h	/^      int32 au;		\/* Gold			*\/$/;"	m	struct:player_type::misc	access:public
+b_age	types.h	/^  int8u b_age;	       \/* Base age of character		*\/$/;"	m	struct:race_type	access:public
+b_dis	types.h	/^  int16 b_dis;	       \/* base chance to disarm		*\/$/;"	m	struct:race_type	access:public
+b_exp	types.h	/^  int8u b_exp;	       \/* Base experience factor	*\/$/;"	m	struct:race_type	access:public
+background	player.c	/^background_type *background;$/;"	v
+background	player.c	/^background_type background[MAX_BACKGROUND] = {$/;"	v
+background_type	types.h	/^typedef struct background_type$/;"	s
+background_type	types.h	/^} background_type;$/;"	t	typeref:struct:background_type
+background_type::bonus	types.h	/^  int8u bonus;		\/* Bonus to the Social Class+50	*\/$/;"	m	struct:background_type	access:public
+background_type::chart	types.h	/^  int8u chart;		\/* Table number			*\/$/;"	m	struct:background_type	access:public
+background_type::info	types.h	/^  char *info;		\/* History information		*\/$/;"	m	struct:background_type	access:public
+background_type::next	types.h	/^  int8u next;		\/* Pointer to next table	*\/$/;"	m	struct:background_type	access:public
+background_type::roll	types.h	/^  int8u roll;		\/* Die roll needed for history	*\/$/;"	m	struct:background_type	access:public
+bad_buy	types.h	/^  int16u bad_buy;$/;"	m	struct:store_type	access:public
+bash	externs.h	/^void bash();$/;"	p	signature:()
+bash	externs.h	/^void bash(void);$/;"	p	signature:(void)
+bash	moria4.c	/^void bash()$/;"	f
+bell	externs.h	/^void bell();$/;"	p	signature:()
+bell	externs.h	/^void bell(void);$/;"	p	signature:(void)
+bell	io.c	/^void bell()$/;"	f
+bhitdie	types.h	/^  int8u bhitdie;	       \/* Base hit points for race	*\/$/;"	m	struct:race_type	access:public
+bigvtype	types.h	/^typedef char bigvtype[BIGVTYPESIZ];$/;"	t
+bios_clear	externs.h	/^void bios_clear();$/;"	p	signature:()
+bios_clear	externs.h	/^void bios_clear(void);$/;"	p	signature:(void)
+bios_getch	externs.h	/^int bios_getch();$/;"	p	signature:()
+bios_getch	externs.h	/^int bios_getch(void);$/;"	p	signature:(void)
+birth_date	types.h	/^  int32 birth_date;$/;"	m	struct:high_scores	access:public
+birth_date	variable.c	/^int32 birth_date;$/;"	v
+bit_pos	externs.h	/^int bit_pos();$/;"	p	signature:()
+bit_pos	externs.h	/^int bit_pos(int32u *);$/;"	p	signature:(int32u *)
+bit_pos	misc1.c	/^int bit_pos(test)$/;"	f
+blank_cave	generate.c	/^static void blank_cave()$/;"	f	file:
+blank_cave	generate.c	/^static void blank_cave(void);$/;"	p	file:	signature:(void)
+blank_monster	monsters.c	/^monster_type blank_monster = {0,0,0,0,0,0,0,FALSE,0,FALSE};$/;"	v
+blank_string	misc3.c	/^static char blank_string[] = "                        ";$/;"	v	file:
+bless	externs.h	/^void bless();$/;"	p	signature:()
+bless	externs.h	/^void bless(int);$/;"	p	signature:(int)
+bless	spells.c	/^void bless(amount)$/;"	f
+blessed	types.h	/^      int16 blessed;		\/* Blessed	       *\/$/;"	m	struct:player_type::flags	access:public
+blind	types.h	/^      int16 blind;		\/* Blindness counter   *\/$/;"	m	struct:player_type::flags	access:public
+blows_table	tables.c	/^int8u blows_table[7][6] = {$/;"	v
+bonus	types.h	/^  int8u bonus;		\/* Bonus to the Social Class+50	*\/$/;"	m	struct:background_type	access:public
+bool_roff_recall	externs.h	/^int bool_roff_recall();$/;"	p	signature:()
+bool_roff_recall	externs.h	/^int bool_roff_recall(int);$/;"	p	signature:(int)
+bool_roff_recall	recall.c	/^int bool_roff_recall(mon_num)$/;"	f
+breath	externs.h	/^void breath();$/;"	p	signature:()
+breath	externs.h	/^void breath(int, int, int, int, char *, int);$/;"	p	signature:(int, int, int, int, char *, int)
+breath	spells.c	/^void breath(typ, y, x, dam_hp, ddesc, monptr)$/;"	f
+bsav	types.h	/^  int16 bsav;	       \/* Race base for saving throw	*\/$/;"	m	struct:race_type	access:public
+bst_stat	externs.h	/^void bst_stat();$/;"	p	signature:()
+bst_stat	externs.h	/^void bst_stat(int, int);$/;"	p	signature:(int, int)
+bst_stat	misc3.c	/^void bst_stat (stat, amount)$/;"	f
+bth	types.h	/^      int16 bth;	\/* Base to hit		*\/$/;"	m	struct:player_type::misc	access:public
+bth	types.h	/^  int16 bth;	       \/* adj base chance to hit	*\/$/;"	m	struct:race_type	access:public
+bthb	types.h	/^      int16 bthb;	\/* BTH with bows	*\/$/;"	m	struct:player_type::misc	access:public
+bthb	types.h	/^  int16 bthb;	       \/* adj base to hit with bows	*\/$/;"	m	struct:race_type	access:public
+build_room	generate.c	/^static void build_room(int, int);$/;"	p	file:	signature:(int, int)
+build_room	generate.c	/^static void build_room(yval, xval)$/;"	f	file:
+build_store	generate.c	/^static void build_store(int, int, int);$/;"	p	file:	signature:(int, int, int)
+build_store	generate.c	/^static void build_store(store_num, y, x)$/;"	f	file:
+build_tunnel	generate.c	/^static void build_tunnel(int, int, int, int);$/;"	p	file:	signature:(int, int, int, int)
+build_tunnel	generate.c	/^static void build_tunnel(row1, col1, row2, col2)$/;"	f	file:
+build_type1	generate.c	/^static void build_type1(int, int);$/;"	p	file:	signature:(int, int)
+build_type1	generate.c	/^static void build_type1(yval, xval)$/;"	f	file:
+build_type2	generate.c	/^static void build_type2(int, int);$/;"	p	file:	signature:(int, int)
+build_type2	generate.c	/^static void build_type2(yval, xval)$/;"	f	file:
+build_type3	generate.c	/^static void build_type3(int, int);$/;"	p	file:	signature:(int, int)
+build_type3	generate.c	/^static void build_type3(yval, xval)$/;"	f	file:
+build_wall	externs.h	/^int build_wall();$/;"	p	signature:()
+build_wall	externs.h	/^int build_wall(int, int, int);$/;"	p	signature:(int, int, int)
+build_wall	spells.c	/^int build_wall(dir, y, x)$/;"	f
+bzero	unix.c	36;"	d	file:
+c_list	monsters.c	/^creature_type *c_list;$/;"	v
+c_list	monsters.c	/^creature_type c_list[MAX_CREATURES] = {$/;"	v
+c_recall	variable.c	/^recall_type *c_recall;$/;"	v
+c_recall	variable.c	/^recall_type c_recall[MAX_CREATURES];	\/* Monster memories *\/$/;"	v
+calc_bonuses	externs.h	/^void calc_bonuses();$/;"	p	signature:()
+calc_bonuses	externs.h	/^void calc_bonuses(void);$/;"	p	signature:(void)
+calc_bonuses	moria1.c	/^void calc_bonuses()$/;"	f
+calc_hitpoints	externs.h	/^void calc_hitpoints();$/;"	p	signature:()
+calc_hitpoints	externs.h	/^void calc_hitpoints(void);$/;"	p	signature:(void)
+calc_hitpoints	misc3.c	/^void calc_hitpoints()$/;"	f
+calc_mana	externs.h	/^void calc_mana();$/;"	p	signature:()
+calc_mana	externs.h	/^void calc_mana(int);$/;"	p	signature:(int)
+calc_mana	misc3.c	/^void calc_mana(stat)$/;"	f
+calc_spells	externs.h	/^void calc_spells();$/;"	p	signature:()
+calc_spells	externs.h	/^void calc_spells(int);$/;"	p	signature:(int)
+calc_spells	misc3.c	/^void calc_spells(stat)$/;"	f
+carry	moria3.c	/^static void carry(int, int, int);$/;"	p	file:	signature:(int, int, int)
+carry	moria3.c	/^static void carry(y, x, pickup)$/;"	f	file:
+cast	externs.h	/^void cast();$/;"	p	signature:()
+cast	externs.h	/^void cast(void);$/;"	p	signature:(void)
+cast	magic.c	/^void cast()$/;"	f
+cast_spell	externs.h	/^int cast_spell();$/;"	p	signature:()
+cast_spell	externs.h	/^int cast_spell(char * ,int, int *, int *);$/;"	p	signature:(char * ,int, int *, int *)
+cast_spell	moria3.c	/^int cast_spell(prompt, item_val, sn, sc)$/;"	f
+cave	variable.c	/^cave_type (*cave)[MAX_WIDTH];$/;"	v
+cave	variable.c	/^cave_type cave[MAX_HEIGHT][MAX_WIDTH];$/;"	v
+cave_gen	generate.c	/^static void cave_gen()$/;"	f	file:
+cave_gen	generate.c	/^static void cave_gen(void);$/;"	p	file:	signature:(void)
+cave_type	types.h	/^typedef struct cave_type$/;"	s
+cave_type	types.h	/^} cave_type;$/;"	t	typeref:struct:cave_type
+cave_type::cptr	types.h	/^  unsigned int cptr : 8;$/;"	m	struct:cave_type	access:public
+cave_type::fm	types.h	/^  unsigned char fm : 1;$/;"	m	struct:cave_type	access:public
+cave_type::fm	types.h	/^  unsigned fm : 1;$/;"	m	struct:cave_type	access:public
+cave_type::fm	types.h	/^  unsigned int fm : 1;	\/* field mark, used for traps\/doors\/stairs, object is$/;"	m	struct:cave_type	access:public
+cave_type::fval	types.h	/^  unsigned int fval : 8;$/;"	m	struct:cave_type	access:public
+cave_type::lr	types.h	/^  unsigned char lr : 1;$/;"	m	struct:cave_type	access:public
+cave_type::lr	types.h	/^  unsigned int lr : 1;  \/* room should be lit with perm light, walls with$/;"	m	struct:cave_type	access:public
+cave_type::lr	types.h	/^  unsigned lr : 1;$/;"	m	struct:cave_type	access:public
+cave_type::pl	types.h	/^  unsigned char pl : 1;$/;"	m	struct:cave_type	access:public
+cave_type::pl	types.h	/^  unsigned int pl : 1;	\/* permanent light, used for walls and lighted rooms *\/$/;"	m	struct:cave_type	access:public
+cave_type::pl	types.h	/^  unsigned pl : 1;$/;"	m	struct:cave_type	access:public
+cave_type::tl	types.h	/^  unsigned char tl : 1;$/;"	m	struct:cave_type	access:public
+cave_type::tl	types.h	/^  unsigned int tl : 1;	\/* temporary light, used for player's lamp light,etc.*\/$/;"	m	struct:cave_type	access:public
+cave_type::tl	types.h	/^  unsigned tl : 1;$/;"	m	struct:cave_type	access:public
+cave_type::tptr	types.h	/^  unsigned int tptr : 8;$/;"	m	struct:cave_type	access:public
+cchar	types.h	/^  int8u cchar;		\/* Character rep.	*\/$/;"	m	struct:creature_type	access:public
+cdefense	types.h	/^  int16u cdefense;	\/* Bit field		*\/$/;"	m	struct:creature_type	access:public
+cdis	types.h	/^  int8u cdis;		\/* Cur dis from player	*\/$/;"	m	struct:monster_type	access:public
+center_string	death.c	/^static char *center_string(centered_str, in_str)$/;"	f	file:
+center_string	death.c	/^static char *center_string(char *, char *);$/;"	p	file:	signature:(char *, char *)
+change_character	externs.h	/^void change_character();$/;"	p	signature:()
+change_character	externs.h	/^void change_character(void);$/;"	p	signature:(void)
+change_character	wizard.c	/^void change_character()$/;"	f
+change_name	externs.h	/^void change_name();$/;"	p	signature:()
+change_name	externs.h	/^void change_name(void);$/;"	p	signature:(void)
+change_name	misc3.c	/^void change_name()$/;"	f
+change_speed	externs.h	/^void change_speed();$/;"	p	signature:()
+change_speed	externs.h	/^void change_speed(int);$/;"	p	signature:(int)
+change_speed	moria1.c	/^void change_speed(num)$/;"	f
+change_stat	create.c	/^static void change_stat(int, int16);$/;"	p	file:	signature:(int, int16)
+change_stat	create.c	/^static void change_stat(stat, amount)$/;"	f	file:
+change_trap	externs.h	/^void change_trap();$/;"	p	signature:()
+change_trap	externs.h	/^void change_trap(int, int);$/;"	p	signature:(int, int)
+change_trap	moria2.c	/^void change_trap(y, x)$/;"	f
+char_col	player.c	/^int16 char_col;$/;"	v
+char_inven_init	main.c	/^static void char_inven_init()$/;"	f	file:
+char_inven_init	main.c	/^static void char_inven_init();$/;"	p	file:
+char_inven_init	main.c	/^static void char_inven_init(void);$/;"	p	file:	signature:(void)
+char_row	player.c	/^int16 char_row;$/;"	v
+character_generated	variable.c	/^int character_generated = 0;	\/* don't save score until char gen finished *\/$/;"	v
+character_saved	variable.c	/^int character_saved = 0;	\/* prevents save on kill after save_char() *\/$/;"	v
+chart	types.h	/^  int8u chart;		\/* Table number			*\/$/;"	m	struct:background_type	access:public
+check_input	externs.h	/^int check_input ();$/;"	p	signature:()
+check_input	externs.h	/^int check_input();$/;"	p	signature:()
+check_input	externs.h	/^int check_input(int microsec);$/;"	p	signature:(int microsec)
+check_input	externs.h	/^int check_input(int);$/;"	p	signature:(int)
+check_input	unix.c	/^int check_input(microsec)$/;"	f
+check_mon_lite	creature.c	/^static int check_mon_lite(int, int);$/;"	p	file:	signature:(int, int)
+check_mon_lite	creature.c	/^static int check_mon_lite(y, x)$/;"	f	file:
+check_strength	externs.h	/^void check_strength();$/;"	p	signature:()
+check_strength	externs.h	/^void check_strength(void);$/;"	p	signature:(void)
+check_strength	misc3.c	/^void check_strength()$/;"	f
+check_time	externs.h	/^int check_time();$/;"	p	signature:()
+check_time	externs.h	/^int check_time(void);$/;"	p	signature:(void)
+check_time	misc1.c	/^int check_time()$/;"	f
+check_view	externs.h	/^void check_view();$/;"	p	signature:()
+check_view	externs.h	/^void check_view(void);$/;"	p	signature:(void)
+check_view	misc4.c	/^void check_view()$/;"	f
+chest_trap	externs.h	/^void chest_trap();$/;"	p	signature:()
+chest_trap	externs.h	/^void chest_trap(int, int);$/;"	p	signature:(int, int)
+chest_trap	moria3.c	/^void chest_trap(y, x)$/;"	f
+chmod	externs.h	/^void chmod ();$/;"	p	signature:()
+chmod	externs.h	/^void chmod(char * name, int mode); \/* dummy function *\/$/;"	p	signature:(char * name, int mode)
+chome	moria2.c	/^static int chome[] = { -1, 8, 9, 10, 7, -1, 11, 6, 5, 4 };$/;"	v	file:
+choose_race	create.c	/^static void choose_race()$/;"	f	file:
+choose_race	create.c	/^static void choose_race(void);$/;"	p	file:	signature:(void)
+chp	types.h	/^      int16 chp;	\/* Cur hit pts		*\/$/;"	m	struct:player_type::misc	access:public
+chp	types.h	/^  int16 chp;$/;"	m	struct:high_scores	access:public
+chp_frac	types.h	/^      int16u chp_frac;	\/* Cur hit fraction * 2^16 *\/$/;"	m	struct:player_type::misc	access:public
+chr_adj	externs.h	/^int chr_adj();$/;"	p	signature:()
+chr_adj	externs.h	/^int chr_adj(void);$/;"	p	signature:(void)
+chr_adj	misc3.c	/^int chr_adj()$/;"	f
+chr_adj	types.h	/^  int16 chr_adj;$/;"	m	struct:race_type	access:public
+class	player.c	/^class_type class[MAX_CLASS] = {$/;"	v
+class_level_adj	player.c	/^int16 class_level_adj[MAX_CLASS][MAX_LEV_ADJ] = {$/;"	v
+class_type	types.h	/^typedef struct class_type$/;"	s
+class_type	types.h	/^} class_type;$/;"	t	typeref:struct:class_type
+class_type::adj_hd	types.h	/^  int8u adj_hd;		\/* Adjust hit points		*\/$/;"	m	struct:class_type	access:public
+class_type::first_spell_lev	types.h	/^  int8u first_spell_lev;\/* First level where class can use spells. *\/$/;"	m	struct:class_type	access:public
+class_type::m_exp	types.h	/^  int8u m_exp;		\/* Class experience factor	*\/$/;"	m	struct:class_type	access:public
+class_type::madj_chr	types.h	/^  int16 madj_chr;	\/* Class modifier for charisma	*\/$/;"	m	struct:class_type	access:public
+class_type::madj_con	types.h	/^  int16 madj_con;	\/* Class modifier for constitution*\/$/;"	m	struct:class_type	access:public
+class_type::madj_dex	types.h	/^  int16 madj_dex;	\/* Class modifier for dexterity *\/$/;"	m	struct:class_type	access:public
+class_type::madj_int	types.h	/^  int16 madj_int;	\/* Class modifier for intelligence*\/$/;"	m	struct:class_type	access:public
+class_type::madj_str	types.h	/^  int16 madj_str;	\/* Class modifier for strength	*\/$/;"	m	struct:class_type	access:public
+class_type::madj_wis	types.h	/^  int16 madj_wis;	\/* Class modifier for wisdom	*\/$/;"	m	struct:class_type	access:public
+class_type::mbth	types.h	/^  int8u mbth;		\/* modifier to base to hit	*\/$/;"	m	struct:class_type	access:public
+class_type::mbthb	types.h	/^  int8u mbthb;		\/* modifier to base to hit - bows*\/$/;"	m	struct:class_type	access:public
+class_type::mdis	types.h	/^  int8u mdis;		\/* mod disarming traps		*\/$/;"	m	struct:class_type	access:public
+class_type::mfos	types.h	/^  int8u mfos;		\/* modifier to freq-of-search	*\/$/;"	m	struct:class_type	access:public
+class_type::msav	types.h	/^  int8u msav;		\/* Class modifier to save	*\/$/;"	m	struct:class_type	access:public
+class_type::msrh	types.h	/^  int8u msrh;		\/* modifier to searching	*\/$/;"	m	struct:class_type	access:public
+class_type::mstl	types.h	/^  int8u mstl;		\/* modifier to stealth		*\/$/;"	m	struct:class_type	access:public
+class_type::spell	types.h	/^  int8u spell;		\/* class use mage spells	*\/$/;"	m	struct:class_type	access:public
+class_type::title	types.h	/^  char *title;		\/* type of class		*\/$/;"	m	struct:class_type	access:public
+clear_empty	desc.c	/^void clear_empty(i_ptr)$/;"	f
+clear_empty	externs.h	/^void clear_empty();$/;"	p	signature:()
+clear_empty	externs.h	/^void clear_empty(inven_type *);$/;"	p	signature:(inven_type *)
+clear_from	externs.h	/^void clear_from();$/;"	p	signature:()
+clear_from	externs.h	/^void clear_from(int);$/;"	p	signature:(int)
+clear_from	io.c	/^void clear_from (row)$/;"	f
+clear_known2	desc.c	/^void clear_known2(i_ptr)$/;"	f
+clear_known2	externs.h	/^void clear_known2();$/;"	p	signature:()
+clear_known2	externs.h	/^void clear_known2(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+clear_screen	externs.h	/^void clear_screen();$/;"	p	signature:()
+clear_screen	externs.h	/^void clear_screen(void);$/;"	p	signature:(void)
+clear_screen	io.c	/^void clear_screen()$/;"	f
+clone_monster	externs.h	/^int clone_monster();$/;"	p	signature:()
+clone_monster	externs.h	/^int clone_monster(int, int, int);$/;"	p	signature:(int, int, int)
+clone_monster	spells.c	/^int clone_monster(dir, y, x)$/;"	f
+closegetch	externs.h	/^int closegetch ();$/;"	p	signature:()
+closegetch	externs.h	/^int closegetch (void);$/;"	p	signature:(void)
+closeobject	externs.h	/^void closeobject();$/;"	p	signature:()
+closeobject	externs.h	/^void closeobject(void);$/;"	p	signature:(void)
+closeobject	moria3.c	/^void closeobject()$/;"	f
+closing_flag	variable.c	/^int closing_flag = FALSE;	\/* Used for closing   *\/$/;"	v
+cmana	types.h	/^      int16 cmana;	\/* Cur mana pts		*\/$/;"	m	struct:player_type::misc	access:public
+cmana_frac	types.h	/^      int16u cmana_frac; \/* Cur mana fraction * 2^16 *\/$/;"	m	struct:player_type::misc	access:public
+cmove	types.h	/^  int32u cmove;		\/* Bit field		*\/$/;"	m	struct:creature_type	access:public
+cnv_stat	externs.h	/^void cnv_stat();$/;"	p	signature:()
+cnv_stat	externs.h	/^void cnv_stat(int8u, char *);$/;"	p	signature:(int8u, char *)
+cnv_stat	misc3.c	/^void cnv_stat(stat, out_val)$/;"	f
+cold_dam	externs.h	/^void cold_dam();$/;"	p	signature:()
+cold_dam	externs.h	/^void cold_dam(int, char *);$/;"	p	signature:(int, char *)
+cold_dam	moria2.c	/^void cold_dam(dam, kb_str)$/;"	f
+cold_resist	types.h	/^      int8u cold_resist;	\/* Resistance to cold  *\/$/;"	m	struct:player_type::flags	access:public
+colors	tables.c	/^char **colors;$/;"	v
+colors	tables.c	/^char *colors[MAX_COLORS] = {$/;"	v
+command_count	variable.c	/^int command_count;		\/* Gives repetition of commands. -CJS- *\/$/;"	v
+comment1	store2.c	/^static char *comment1[14] = {$/;"	v	file:
+comment2a	store2.c	/^static char *comment2a[3] = {$/;"	v	file:
+comment2b	store2.c	/^static char *comment2b[16] = {$/;"	v	file:
+comment3a	store2.c	/^static char *comment3a[3] = {$/;"	v	file:
+comment3b	store2.c	/^static char *comment3b[15] = {$/;"	v	file:
+comment4a	store2.c	/^static char *comment4a[5] = {$/;"	v	file:
+comment4b	store2.c	/^static char *comment4b[5] = {$/;"	v	file:
+comment5	store2.c	/^static char *comment5[10] = {$/;"	v	file:
+comment6	store2.c	/^static char *comment6[5] = {$/;"	v	file:
+compact_monsters	externs.h	/^int compact_monsters();$/;"	p	signature:()
+compact_monsters	externs.h	/^int compact_monsters(void);$/;"	p	signature:(void)
+compact_monsters	misc1.c	/^int compact_monsters()$/;"	f
+compact_objects	misc1.c	/^static void compact_objects()$/;"	f	file:
+compact_objects	misc1.c	/^static void compact_objects(void);$/;"	p	file:	signature:(void)
+con_adj	externs.h	/^int con_adj();$/;"	p	signature:()
+con_adj	externs.h	/^int con_adj(void);$/;"	p	signature:(void)
+con_adj	misc3.c	/^int con_adj()$/;"	f
+con_adj	types.h	/^  int16 con_adj;$/;"	m	struct:race_type	access:public
+confuse_monster	externs.h	/^int confuse_monster();$/;"	p	signature:()
+confuse_monster	externs.h	/^int confuse_monster(int, int, int);$/;"	p	signature:(int, int, int)
+confuse_monster	spells.c	/^int confuse_monster(dir, y, x)$/;"	f
+confuse_monster	types.h	/^      int8u confuse_monster;	\/* Glowing hands.    *\/$/;"	m	struct:player_type::flags	access:public
+confused	types.h	/^      int16 confused;		\/* Confusion counter   *\/$/;"	m	struct:player_type::flags	access:public
+confused	types.h	/^  int8u confused;$/;"	m	struct:monster_type	access:public
+coords	generate.c	/^typedef struct coords {$/;"	s	file:
+coords	generate.c	/^} coords;$/;"	t	typeref:struct:coords	file:
+coords::x	generate.c	/^  int x, y;$/;"	m	struct:coords	file:	access:public
+coords::y	generate.c	/^  int x, y;$/;"	m	struct:coords	file:	access:public
+copyright	variable.c	/^char *copyright[5] = {$/;"	v
+correct_dir	generate.c	/^static void correct_dir(int *, int * , int, int, int, int);$/;"	p	file:	signature:(int *, int * , int, int, int, int)
+correct_dir	generate.c	/^static void correct_dir(rdir, cdir, y1, x1, y2, x2)$/;"	f	file:
+corrode_gas	externs.h	/^void corrode_gas();$/;"	p	signature:()
+corrode_gas	externs.h	/^void corrode_gas(char *);$/;"	p	signature:(char *)
+corrode_gas	moria2.c	/^void corrode_gas(kb_str)$/;"	f
+cost	types.h	/^  int32 cost;		\/* Cost of item		*\/$/;"	m	struct:inven_type	access:public
+cost	types.h	/^  int32 cost;		\/* Cost of item		*\/$/;"	m	struct:treasure_type	access:public
+count_msg_print	externs.h	/^void count_msg_print();$/;"	p	signature:()
+count_msg_print	externs.h	/^void count_msg_print(char *);$/;"	p	signature:(char *)
+count_msg_print	io.c	/^void count_msg_print(p)$/;"	f
+cptr	types.h	/^  unsigned int cptr : 8;$/;"	m	struct:cave_type	access:public
+create_character	create.c	/^void create_character()$/;"	f
+create_character	externs.h	/^void create_character();$/;"	p	signature:()
+create_character	externs.h	/^void create_character(void);$/;"	p	signature:(void)
+create_food	externs.h	/^void create_food();$/;"	p	signature:()
+create_food	externs.h	/^void create_food(void);$/;"	p	signature:(void)
+create_food	spells.c	/^void create_food()$/;"	f
+creature_type	types.h	/^typedef struct creature_type$/;"	s
+creature_type	types.h	/^} creature_type;$/;"	t	typeref:struct:creature_type
+creature_type::aaf	types.h	/^  int8u aaf;		\/* Area affect radius	*\/$/;"	m	struct:creature_type	access:public
+creature_type::ac	types.h	/^  int8u ac;		\/* AC			*\/$/;"	m	struct:creature_type	access:public
+creature_type::cchar	types.h	/^  int8u cchar;		\/* Character rep.	*\/$/;"	m	struct:creature_type	access:public
+creature_type::cdefense	types.h	/^  int16u cdefense;	\/* Bit field		*\/$/;"	m	struct:creature_type	access:public
+creature_type::cmove	types.h	/^  int32u cmove;		\/* Bit field		*\/$/;"	m	struct:creature_type	access:public
+creature_type::damage	types.h	/^  int8u damage[4];	\/* Type attack and damage*\/$/;"	m	struct:creature_type	access:public
+creature_type::hd	types.h	/^  int8u hd[2];		\/* Creatures hit die	*\/$/;"	m	struct:creature_type	access:public
+creature_type::level	types.h	/^  int8u level;		\/* Level of creature	*\/$/;"	m	struct:creature_type	access:public
+creature_type::mexp	types.h	/^  int16u mexp;		\/* Exp value for kill	*\/$/;"	m	struct:creature_type	access:public
+creature_type::name	types.h	/^  char *name;		\/* Descrip of creature	*\/$/;"	m	struct:creature_type	access:public
+creature_type::sleep	types.h	/^  int8u sleep;		\/* Inactive counter\/10	*\/$/;"	m	struct:creature_type	access:public
+creature_type::speed	types.h	/^  int8u speed;		\/* Movement speed+10	*\/$/;"	m	struct:creature_type	access:public
+creature_type::spells	types.h	/^  int32u spells;	\/* Creature spells	*\/$/;"	m	struct:creature_type	access:public
+creatures	creature.c	/^void creatures(attack)$/;"	f
+creatures	externs.h	/^void creatures();$/;"	p	signature:()
+creatures	externs.h	/^void creatures(int);$/;"	p	signature:(int)
+critical_blow	externs.h	/^int critical_blow();$/;"	p	signature:()
+critical_blow	externs.h	/^int critical_blow(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+critical_blow	misc3.c	/^int critical_blow(weight, plus, dam, attack_type)$/;"	f
+csleep	types.h	/^  int16 csleep;		\/* Inactive counter	*\/$/;"	m	struct:monster_type	access:public
+cspeed	types.h	/^  int16 cspeed;		\/* Movement speed	*\/$/;"	m	struct:monster_type	access:public
+cur_height	variable.c	/^int16 cur_height,cur_width;	\/* Cur dungeon size    *\/$/;"	v
+cur_stat	types.h	/^      int8u cur_stat[6];	\/* What is natural *\/$/;"	m	struct:player_type::stats	access:public
+cur_width	variable.c	/^int16 cur_height,cur_width;	\/* Cur dungeon size    *\/$/;"	v
+cure_blindness	externs.h	/^int cure_blindness();$/;"	p	signature:()
+cure_blindness	externs.h	/^int cure_blindness(void);$/;"	p	signature:(void)
+cure_blindness	spells.c	/^int cure_blindness()$/;"	f
+cure_confusion	externs.h	/^int cure_confusion();$/;"	p	signature:()
+cure_confusion	externs.h	/^int cure_confusion(void);$/;"	p	signature:(void)
+cure_confusion	spells.c	/^int cure_confusion()$/;"	f
+cure_poison	externs.h	/^int cure_poison();$/;"	p	signature:()
+cure_poison	externs.h	/^int cure_poison(void);$/;"	p	signature:(void)
+cure_poison	spells.c	/^int cure_poison()$/;"	f
+curses_on	io.c	/^static int curses_on = FALSE;$/;"	v	file:
+cycle	moria2.c	/^static int cycle[] = { 1, 2, 3, 6, 9, 8, 7, 4, 1, 2, 3, 6, 9, 8, 7, 4, 1 };$/;"	v	file:
+damage	types.h	/^  int8u damage[2];	\/* Damage when hits	*\/$/;"	m	struct:inven_type	access:public
+damage	types.h	/^  int8u damage[2];	\/* Damage when hits	*\/$/;"	m	struct:treasure_type	access:public
+damage	types.h	/^  int8u damage[4];	\/* Type attack and damage*\/$/;"	m	struct:creature_type	access:public
+damroll	externs.h	/^int damroll();$/;"	p	signature:()
+damroll	externs.h	/^int damroll(int, int);$/;"	p	signature:(int, int)
+damroll	misc1.c	/^int damroll(num, sides)$/;"	f
+date	death.c	/^static void date(char *);$/;"	p	file:	signature:(char *)
+date	death.c	/^static void date(day)$/;"	f	file:
+days	tables.c	/^char  days[7][29] = { "SUN:XXXXXXXXXXXXXXXXXXXXXXXX",$/;"	v
+death	variable.c	/^int death = FALSE;		\/* True if died	      *\/$/;"	v
+dec_stat	externs.h	/^int dec_stat();$/;"	p	signature:()
+dec_stat	externs.h	/^int dec_stat(int);$/;"	p	signature:(int)
+dec_stat	misc3.c	/^int dec_stat(stat)$/;"	f
+decrease_insults	store2.c	/^static void decrease_insults(int);$/;"	p	file:	signature:(int)
+decrease_insults	store2.c	/^static void decrease_insults(store_num)$/;"	f	file:
+default_dir	variable.c	/^int default_dir = FALSE;	\/* Use last direction for repeated command *\/$/;"	v
+default_signals	externs.h	/^void default_signals();$/;"	p	signature:()
+default_signals	externs.h	/^void default_signals(void);$/;"	p	signature:(void)
+default_signals	signals.c	/^void default_signals()$/;"	f
+delete_monster	externs.h	/^void delete_monster();$/;"	p	signature:()
+delete_monster	externs.h	/^void delete_monster(int);$/;"	p	signature:(int)
+delete_monster	moria3.c	/^void delete_monster(j)$/;"	f
+delete_object	externs.h	/^int delete_object();$/;"	p	signature:()
+delete_object	externs.h	/^int delete_object(int, int);$/;"	p	signature:(int, int)
+delete_object	moria3.c	/^int delete_object(y, x)$/;"	f
+desc_amethod	recall.c	/^static char *desc_amethod[] = {$/;"	v	file:
+desc_atype	recall.c	/^static char *desc_atype[] = {$/;"	v	file:
+desc_breath	recall.c	/^static char *desc_breath[] = {$/;"	v	file:
+desc_charges	desc.c	/^void desc_charges(item_val)$/;"	f
+desc_charges	externs.h	/^void desc_charges();$/;"	p	signature:()
+desc_charges	externs.h	/^void desc_charges(int);$/;"	p	signature:(int)
+desc_howmuch	recall.c	/^static char *desc_howmuch[] = {$/;"	v	file:
+desc_move	recall.c	/^static char *desc_move[] = {$/;"	v	file:
+desc_remain	desc.c	/^void desc_remain(item_val)$/;"	f
+desc_remain	externs.h	/^void desc_remain();$/;"	p	signature:()
+desc_remain	externs.h	/^void desc_remain(int);$/;"	p	signature:(int)
+desc_spell	recall.c	/^static char *desc_spell[] = {$/;"	v	file:
+desc_weakness	recall.c	/^static char *desc_weakness[] = {$/;"	v	file:
+describe_use	externs.h	/^char *describe_use();$/;"	p	signature:()
+describe_use	externs.h	/^char *describe_use(int);$/;"	p	signature:(int)
+describe_use	moria1.c	/^char *describe_use(i)$/;"	f
+destroy_area	externs.h	/^void destroy_area();$/;"	p	signature:()
+destroy_area	externs.h	/^void destroy_area(int, int);$/;"	p	signature:(int, int)
+destroy_area	spells.c	/^void destroy_area(y, x)$/;"	f
+detect_evil	externs.h	/^int detect_evil();$/;"	p	signature:()
+detect_evil	externs.h	/^int detect_evil(void);$/;"	p	signature:(void)
+detect_evil	spells.c	/^int detect_evil()$/;"	f
+detect_inv	types.h	/^      int16 detect_inv;		\/* Timed see invisible *\/$/;"	m	struct:player_type::flags	access:public
+detect_inv2	externs.h	/^void detect_inv2();$/;"	p	signature:()
+detect_inv2	externs.h	/^void detect_inv2(int);$/;"	p	signature:(int)
+detect_inv2	spells.c	/^void detect_inv2(amount)$/;"	f
+detect_invisible	externs.h	/^int detect_invisible();$/;"	p	signature:()
+detect_invisible	externs.h	/^int detect_invisible(void);$/;"	p	signature:(void)
+detect_invisible	spells.c	/^int detect_invisible()$/;"	f
+detect_monsters	externs.h	/^int detect_monsters();$/;"	p	signature:()
+detect_monsters	externs.h	/^int detect_monsters(void);$/;"	p	signature:(void)
+detect_monsters	spells.c	/^int detect_monsters()$/;"	f
+detect_object	externs.h	/^int detect_object();$/;"	p	signature:()
+detect_object	externs.h	/^int detect_object(void);$/;"	p	signature:(void)
+detect_object	spells.c	/^int detect_object()$/;"	f
+detect_sdoor	externs.h	/^int detect_sdoor();$/;"	p	signature:()
+detect_sdoor	externs.h	/^int detect_sdoor(void);$/;"	p	signature:(void)
+detect_sdoor	spells.c	/^int detect_sdoor()$/;"	f
+detect_trap	externs.h	/^int detect_trap();$/;"	p	signature:()
+detect_trap	externs.h	/^int detect_trap(void);$/;"	p	signature:(void)
+detect_trap	spells.c	/^int detect_trap()$/;"	f
+detect_treasure	externs.h	/^int detect_treasure();$/;"	p	signature:()
+detect_treasure	externs.h	/^int detect_treasure(void);$/;"	p	signature:(void)
+detect_treasure	spells.c	/^int detect_treasure()$/;"	f
+dex_adj	types.h	/^  int16 dex_adj;$/;"	m	struct:race_type	access:public
+died_from	types.h	/^  char died_from[25];$/;"	m	struct:high_scores	access:public
+died_from	variable.c	/^vtype died_from;$/;"	v
+dis_ac	types.h	/^      int16 dis_ac;	\/* Display +ToAC	*\/$/;"	m	struct:player_type::misc	access:public
+dis_tac	types.h	/^      int16 dis_tac;	\/* Display +ToTAC	*\/$/;"	m	struct:player_type::misc	access:public
+dis_td	types.h	/^      int16 dis_td;	\/* Display +ToDam	*\/$/;"	m	struct:player_type::misc	access:public
+dis_th	types.h	/^      int16 dis_th;	\/* Display +ToHit	*\/$/;"	m	struct:player_type::misc	access:public
+disarm	types.h	/^      int16 disarm;	\/* % to Disarm		*\/$/;"	m	struct:player_type::misc	access:public
+disarm_all	externs.h	/^int disarm_all();$/;"	p	signature:()
+disarm_all	externs.h	/^int disarm_all(int, int, int);$/;"	p	signature:(int, int, int)
+disarm_all	spells.c	/^int disarm_all(dir, y, x)$/;"	f
+disarm_trap	externs.h	/^void disarm_trap();$/;"	p	signature:()
+disarm_trap	externs.h	/^void disarm_trap(void);$/;"	p	signature:(void)
+disarm_trap	moria4.c	/^void disarm_trap()$/;"	f
+dispel_creature	externs.h	/^int dispel_creature();$/;"	p	signature:()
+dispel_creature	externs.h	/^int dispel_creature(int, int);$/;"	p	signature:(int, int)
+dispel_creature	spells.c	/^int dispel_creature(cflag, damage)$/;"	f
+display_char	externs.h	/^void display_char();$/;"	p	signature:()
+display_char	externs.h	/^void display_char(void);$/;"	p	signature:(void)
+display_char	misc3.c	/^void display_char()$/;"	f
+display_commands	store2.c	/^static void display_commands()$/;"	f	file:
+display_commands	store2.c	/^static void display_commands(void);$/;"	p	file:	signature:(void)
+display_cost	store2.c	/^static void display_cost(int, int);$/;"	p	file:	signature:(int, int)
+display_cost	store2.c	/^static void display_cost(store_num, pos)$/;"	f	file:
+display_counts	variable.c	/^int display_counts = TRUE;$/;"	v
+display_inventory	store2.c	/^static void display_inventory(int, int);$/;"	p	file:	signature:(int, int)
+display_inventory	store2.c	/^static void display_inventory(store_num, start)$/;"	f	file:
+display_scores	death.c	/^void display_scores(show_player)$/;"	f
+display_scores	externs.h	/^void display_scores();$/;"	p	signature:()
+display_scores	externs.h	/^void display_scores(int);$/;"	p	signature:(int)
+display_store	store2.c	/^static void display_store(int, int);$/;"	p	file:	signature:(int, int)
+display_store	store2.c	/^static void display_store(store_num, cur_top)$/;"	f	file:
+distance	externs.h	/^int distance();$/;"	p	signature:()
+distance	externs.h	/^int distance(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+distance	misc1.c	/^int distance(y1, x1, y2, x2)$/;"	f
+disturb	externs.h	/^void disturb();$/;"	p	signature:()
+disturb	externs.h	/^void disturb(int, int);$/;"	p	signature:(int, int)
+disturb	moria1.c	/^void disturb(s, l)$/;"	f
+do_command	dungeon.c	/^static void do_command();$/;"	p	file:
+do_command	dungeon.c	/^static void do_command(char);$/;"	p	file:	signature:(char)
+do_command	dungeon.c	/^static void do_command(com_val)$/;"	f	file:
+doing_inven	variable.c	/^char doing_inven = FALSE;	\/* Track inventory commands. -CJS- *\/$/;"	v
+door_creation	externs.h	/^int door_creation();$/;"	p	signature:()
+door_creation	externs.h	/^int door_creation(void);$/;"	p	signature:(void)
+door_creation	spells.c	/^int door_creation()$/;"	f
+doorindex	generate.c	/^static int doorindex;$/;"	v	file:
+doorstk	generate.c	/^static coords doorstk[100];$/;"	v	file:
+drain_life	externs.h	/^int drain_life();$/;"	p	signature:()
+drain_life	externs.h	/^int drain_life(int, int, int);$/;"	p	signature:(int, int, int)
+drain_life	spells.c	/^int drain_life(dir, y, x)$/;"	f
+draw_cave	externs.h	/^void draw_cave();$/;"	p	signature:()
+draw_cave	externs.h	/^void draw_cave(void);$/;"	p	signature:(void)
+draw_cave	misc3.c	/^void draw_cave()$/;"	f
+drop_throw	moria4.c	/^static void drop_throw(int, int, struct inven_type *);$/;"	p	file:	signature:(int, int, struct inven_type *)
+drop_throw	moria4.c	/^static void drop_throw(y, x, t_ptr)$/;"	f	file:
+dumb	io.c	/^struct screen { int dumb; };$/;"	m	struct:screen	file:	access:public
+dumb	unix.c	/^struct screen { int dumb; };$/;"	m	struct:screen	file:	access:public
+dun_level	types.h	/^  int8u dun_level;$/;"	m	struct:high_scores	access:public
+dun_level	variable.c	/^int16 dun_level = 0;		\/* Cur dungeon level   *\/$/;"	v
+dungeon	dungeon.c	/^void dungeon()$/;"	f
+dungeon	externs.h	/^void dungeon();$/;"	p	signature:()
+dungeon	externs.h	/^void dungeon(void);$/;"	p	signature:(void)
+duplicate_character	death.c	/^int duplicate_character ()$/;"	f
+duplicate_character	externs.h	/^int duplicate_character();$/;"	p	signature:()
+duplicate_character	externs.h	/^int duplicate_character(void);$/;"	p	signature:(void)
+earthquake	externs.h	/^void earthquake();$/;"	p	signature:()
+earthquake	externs.h	/^void earthquake(void);$/;"	p	signature:(void)
+earthquake	spells.c	/^void earthquake()$/;"	f
+eat	eat.c	/^void eat()$/;"	f
+eat	externs.h	/^void eat();$/;"	p	signature:()
+eat	externs.h	/^void eat(void);$/;"	p	signature:(void)
+enchant	externs.h	/^int enchant();$/;"	p	signature:()
+enchant	externs.h	/^int enchant(int16 *, int16);$/;"	p	signature:(int16 *, int16)
+enchant	spells.c	/^int enchant(plusses, limit)$/;"	f
+enchanted	dungeon.c	/^static int enchanted (t_ptr)$/;"	f	file:
+enchanted	dungeon.c	/^static int enchanted();$/;"	p	file:
+enchanted	dungeon.c	/^static int enchanted(inven_type *);$/;"	p	file:	signature:(inven_type *)
+end_find	externs.h	/^void end_find();$/;"	p	signature:()
+end_find	externs.h	/^void end_find(void);$/;"	p	signature:(void)
+end_find	moria2.c	/^void end_find()$/;"	f
+enter_store	externs.h	/^void enter_store();$/;"	p	signature:()
+enter_store	externs.h	/^void enter_store(int);$/;"	p	signature:(int)
+enter_store	store2.c	/^void enter_store(store_num)$/;"	f
+enter_wiz_mode	externs.h	/^int enter_wiz_mode();$/;"	p	signature:()
+enter_wiz_mode	externs.h	/^int enter_wiz_mode(void);$/;"	p	signature:(void)
+enter_wiz_mode	misc3.c	/^int enter_wiz_mode()$/;"	f
+eof_flag	variable.c	/^int eof_flag = FALSE;		\/* Used to signal EOF\/HANGUP condition *\/$/;"	v
+equip_ctr	treasure.c	/^int16 equip_ctr = 0;		\/* Cur equipment ctr	*\/$/;"	v
+erase_line	externs.h	/^void erase_line();$/;"	p	signature:()
+erase_line	externs.h	/^void erase_line(int, int);$/;"	p	signature:(int, int)
+erase_line	io.c	/^void erase_line(row, col)$/;"	f
+error	externs.h	/^void error (char *fmt, ...);$/;"	p	signature:(char *fmt, ...)
+error	externs.h	/^void error(char *, ...);$/;"	p	signature:(char *, ...)
+error_sig	signals.c	/^static int error_sig = -1;$/;"	v	file:
+examine_book	dungeon.c	/^static void examine_book()$/;"	f	file:
+examine_book	dungeon.c	/^static void examine_book();$/;"	p	file:
+examine_book	dungeon.c	/^static void examine_book(void);$/;"	p	file:	signature:(void)
+exit	config.h	311;"	d
+exit	death.c	/^void exit ();$/;"	p	file:
+exit	files.c	/^void exit();$/;"	p	file:
+exit	io.c	/^void exit();$/;"	p	file:
+exit	main.c	/^void exit();$/;"	p	file:
+exit	signals.c	/^void exit();$/;"	p	file:
+exit_game	death.c	/^void exit_game ()$/;"	f
+exit_game	externs.h	/^void exit_game();$/;"	p	signature:()
+exit_game	externs.h	/^void exit_game(void);$/;"	p	signature:(void)
+exp	types.h	/^      int32 exp;	\/* Cur experience	*\/$/;"	m	struct:player_type::misc	access:public
+exp_frac	types.h	/^      int16u exp_frac;	\/* Cur exp fraction * 2^16 *\/$/;"	m	struct:player_type::misc	access:public
+expfact	types.h	/^      int8u expfact;	\/* Experience factor	*\/$/;"	m	struct:player_type::misc	access:public
+extended_file_name	variable.c	/^char extended_file_name[80];$/;"	v
+f_b_ht	types.h	/^  int8u f_b_ht;	      \/* base height females		*\/$/;"	m	struct:race_type	access:public
+f_b_wt	types.h	/^  int8u f_b_wt;	      \/* base weight for female	*\/$/;"	m	struct:race_type	access:public
+f_m_ht	types.h	/^  int8u f_m_ht;	      \/* mod height for females	*\/$/;"	m	struct:race_type	access:public
+f_m_wt	types.h	/^  int8u f_m_wt;	      \/* mod weight for females	*\/$/;"	m	struct:race_type	access:public
+facts	moria4.c	/^static void facts(i_ptr, tbth, tpth, tdam, tdis)$/;"	f	file:
+facts	moria4.c	/^static void facts(struct inven_type *, int *, int *, int *, int *);$/;"	p	file:	signature:(struct inven_type *, int *, int *, int *, int *)
+fast	types.h	/^      int16 fast;		\/* Temp speed change   *\/$/;"	m	struct:player_type::flags	access:public
+ffall	types.h	/^      int8u ffall;		\/* No damage falling   *\/$/;"	m	struct:player_type::flags	access:public
+file_character	externs.h	/^int file_character();$/;"	p	signature:()
+file_character	externs.h	/^int file_character(char *);$/;"	p	signature:(char *)
+file_character	externs.h	/^int file_character(void);$/;"	p	signature:(void)
+file_character	files.c	/^int file_character()$/;"	f
+fileptr	save.c	/^static FILE *fileptr;$/;"	v	file:
+fill_cave	generate.c	/^static void fill_cave(fval)$/;"	f	file:
+fill_cave	generate.c	/^static void fill_cave(int);$/;"	p	file:	signature:(int)
+find_bound	variable.c	/^int find_bound = FALSE;$/;"	v
+find_breakleft	moria2.c	/^static int find_openarea, find_breakright, find_breakleft, find_prevdir;$/;"	v	file:
+find_breakright	moria2.c	/^static int find_openarea, find_breakright, find_breakleft, find_prevdir;$/;"	v	file:
+find_cut	variable.c	/^int find_cut = TRUE;$/;"	v
+find_direction	moria2.c	/^static int find_direction; \/* Keep a record of which way we are going. *\/$/;"	v	file:
+find_examine	variable.c	/^int find_examine = TRUE;$/;"	v
+find_flag	variable.c	/^int find_flag;			\/* Used in MORIA for .(dir) *\/$/;"	v
+find_ignore_doors	variable.c	/^int find_ignore_doors = FALSE;$/;"	v
+find_init	externs.h	/^void find_init();$/;"	p	signature:()
+find_init	externs.h	/^void find_init(int);$/;"	p	signature:(int)
+find_init	moria2.c	/^void find_init(dir)$/;"	f
+find_openarea	moria2.c	/^static int find_openarea, find_breakright, find_breakleft, find_prevdir;$/;"	v	file:
+find_prevdir	moria2.c	/^static int find_openarea, find_breakright, find_breakleft, find_prevdir;$/;"	v	file:
+find_prself	variable.c	/^int find_prself = FALSE;$/;"	v
+find_range	externs.h	/^int find_range();$/;"	p	signature:()
+find_range	externs.h	/^int find_range(int, int, int *, int *);$/;"	p	signature:(int, int, int *, int *)
+find_range	misc3.c	/^int find_range(item1, item2, j, k)$/;"	f
+find_run	externs.h	/^void find_run();$/;"	p	signature:()
+find_run	externs.h	/^void find_run(void);$/;"	p	signature:(void)
+find_run	moria2.c	/^void find_run()$/;"	f
+fire_ball	externs.h	/^void fire_ball();$/;"	p	signature:()
+fire_ball	externs.h	/^void fire_ball(int, int, int, int, int, char *);$/;"	p	signature:(int, int, int, int, int, char *)
+fire_ball	spells.c	/^void fire_ball(typ, dir, y, x, dam_hp, descrip)$/;"	f
+fire_bolt	externs.h	/^void fire_bolt();$/;"	p	signature:()
+fire_bolt	externs.h	/^void fire_bolt(int, int, int, int, int, char *);$/;"	p	signature:(int, int, int, int, int, char *)
+fire_bolt	spells.c	/^void fire_bolt(typ, dir, y, x, dam, bolt_typ)$/;"	f
+fire_dam	externs.h	/^void fire_dam();$/;"	p	signature:()
+fire_dam	externs.h	/^void fire_dam(int, char *);$/;"	p	signature:(int, char *)
+fire_dam	moria2.c	/^void fire_dam(dam, kb_str)$/;"	f
+fire_resist	types.h	/^      int8u fire_resist;	\/* Resistance to fire  *\/$/;"	m	struct:player_type::flags	access:public
+first_spell_lev	types.h	/^  int8u first_spell_lev;\/* First level where class can use spells. *\/$/;"	m	struct:class_type	access:public
+fix1_delete_monster	externs.h	/^void fix1_delete_monster();$/;"	p	signature:()
+fix1_delete_monster	externs.h	/^void fix1_delete_monster(int);$/;"	p	signature:(int)
+fix1_delete_monster	moria3.c	/^void fix1_delete_monster(j)$/;"	f
+fix2_delete_monster	externs.h	/^void fix2_delete_monster();$/;"	p	signature:()
+fix2_delete_monster	externs.h	/^void fix2_delete_monster(int);$/;"	p	signature:(int)
+fix2_delete_monster	moria3.c	/^void fix2_delete_monster(j)$/;"	f
+flags	types.h	/^    } flags;$/;"	m	struct:player_type	typeref:struct:player_type::flags	access:public
+flags	types.h	/^  int32u flags;		\/* Special flags	*\/$/;"	m	struct:inven_type	access:public
+flags	types.h	/^  int32u flags;		\/* Special flags	*\/$/;"	m	struct:treasure_type	access:public
+flags	types.h	/^  struct flags$/;"	s	struct:player_type	access:public
+flock	death.c	/^static int flock(f, l)$/;"	f	file:
+flush	externs.h	/^void flush();$/;"	p	signature:()
+flush	externs.h	/^void flush(void);$/;"	p	signature:(void)
+flush	io.c	/^void flush()$/;"	f
+fm	types.h	/^  unsigned char fm : 1;$/;"	m	struct:cave_type	access:public
+fm	types.h	/^  unsigned fm : 1;$/;"	m	struct:cave_type	access:public
+fm	types.h	/^  unsigned int fm : 1;	\/* field mark, used for traps\/doors\/stairs, object is$/;"	m	struct:cave_type	access:public
+food	types.h	/^      int16 food;		\/* Food counter	       *\/$/;"	m	struct:player_type::flags	access:public
+food_digested	types.h	/^      int16 food_digested;	\/* Food per round      *\/$/;"	m	struct:player_type::flags	access:public
+fopen	externs.h	1287;"	d
+fopen	unix.c	335;"	d	file:
+fos	types.h	/^      int16 fos;	\/* Frenq of search	*\/$/;"	m	struct:player_type::misc	access:public
+fos	types.h	/^  int16 fos;	       \/* frequency of auto search	*\/$/;"	m	struct:race_type	access:public
+fpvmach	io.c	/^typedef struct { int stuff; } fpvmach;$/;"	t	typeref:struct:__anon1	file:
+fpvmach	signals.c	/^typedef struct { int stuff; } fpvmach;$/;"	t	typeref:struct:__anon3	file:
+fpvmach	unix.c	/^typedef struct { int stuff; } fpvmach;$/;"	t	typeref:struct:__anon2	file:
+free_act	types.h	/^      int8u free_act;		\/* Never paralyzed     *\/$/;"	m	struct:player_type::flags	access:public
+free_turn_flag	variable.c	/^int free_turn_flag;		\/* Used in MORIA, do not move creatures  *\/$/;"	v
+from_savefile	save.c	/^static int from_savefile;	\/* can overwrite old savefile when save *\/$/;"	v	file:
+fval	types.h	/^  unsigned int fval : 8;$/;"	m	struct:cave_type	access:public
+fx	types.h	/^  int8u fx;		\/* X Pointer into map	*\/$/;"	m	struct:monster_type	access:public
+fy	types.h	/^  int8u fy;		\/* Y Pointer into map	*\/$/;"	m	struct:monster_type	access:public
+gain_level	misc3.c	/^static void gain_level()$/;"	f	file:
+gain_level	misc3.c	/^static void gain_level(void);$/;"	p	file:	signature:(void)
+gain_spells	externs.h	/^void gain_spells();$/;"	p	signature:()
+gain_spells	externs.h	/^void gain_spells(void);$/;"	p	signature:(void)
+gain_spells	misc3.c	/^void gain_spells()$/;"	f
+general_store	externs.h	/^int general_store();$/;"	p	signature:()
+general_store	externs.h	/^int general_store(int);$/;"	p	signature:(int)
+general_store	sets.c	/^int general_store(element)$/;"	f
+general_store	tables.c	/^extern int general_store(), armory(), weaponsmith(), temple(),$/;"	p	file:
+generate_cave	externs.h	/^void generate_cave();$/;"	p	signature:()
+generate_cave	externs.h	/^void generate_cave(void);$/;"	p	signature:(void)
+generate_cave	generate.c	/^void generate_cave()$/;"	f
+genocide	externs.h	/^int genocide();$/;"	p	signature:()
+genocide	externs.h	/^int genocide(void);$/;"	p	signature:(void)
+genocide	spells.c	/^int genocide()$/;"	f
+get_ahw	create.c	/^static void get_ahw()$/;"	f	file:
+get_ahw	create.c	/^static void get_ahw(void);$/;"	p	file:	signature:(void)
+get_all_stats	create.c	/^static void get_all_stats ()$/;"	f	file:
+get_all_stats	create.c	/^static void get_all_stats(void);$/;"	p	file:	signature:(void)
+get_alldir	externs.h	/^int get_alldir();$/;"	p	signature:()
+get_alldir	externs.h	/^int get_alldir(char *, int *);$/;"	p	signature:(char *, int *)
+get_alldir	moria1.c	/^int get_alldir(prompt, dir)$/;"	f
+get_char	externs.h	/^int get_char();$/;"	p	signature:()
+get_char	externs.h	/^int get_char(int *);$/;"	p	signature:(int *)
+get_char	save.c	/^int get_char(generate)$/;"	f
+get_check	externs.h	/^int get_check();$/;"	p	signature:()
+get_check	externs.h	/^int get_check(char *);$/;"	p	signature:(char *)
+get_check	io.c	/^int get_check(prompt)$/;"	f
+get_class	create.c	/^static void get_class()$/;"	f	file:
+get_class	create.c	/^static void get_class(void);$/;"	p	file:	signature:(void)
+get_com	externs.h	/^int get_com();$/;"	p	signature:()
+get_com	externs.h	/^int get_com(char *, char *);$/;"	p	signature:(char *, char *)
+get_com	io.c	/^int get_com(prompt, command)$/;"	f
+get_comdir	io.c	/^int get_comdir(prompt, command)$/;"	f
+get_dir	externs.h	/^int get_dir();$/;"	p	signature:()
+get_dir	externs.h	/^int get_dir(char *, int *);$/;"	p	signature:(char *, int *)
+get_dir	moria1.c	/^int get_dir(prompt, dir)$/;"	f
+get_flags	externs.h	/^void get_flags();$/;"	p	signature:()
+get_flags	externs.h	/^void get_flags(int, int32u *, int *, int (**)());$/;"	p	signature:(int, int32u *, int *, int (**)())
+get_flags	spells.c	/^void get_flags(typ, weapon_type, harm_type, destroy)$/;"	f
+get_haggle	store2.c	/^static int get_haggle(char *, int32 *, int);$/;"	p	file:	signature:(char *, int32 *, int)
+get_haggle	store2.c	/^static int get_haggle(comment, new_offer, num_offer)$/;"	f	file:
+get_history	create.c	/^static void get_history()$/;"	f	file:
+get_history	create.c	/^static void get_history(void);$/;"	p	file:	signature:(void)
+get_item	externs.h	/^int get_item();$/;"	p	signature:()
+get_item	externs.h	/^int get_item(int *, char *, int, int, char *, char *);$/;"	p	signature:(int *, char *, int, int, char *, char *)
+get_item	moria1.c	/^int get_item(com_val, pmt, i, j, mask, message)$/;"	f
+get_money	create.c	/^static void get_money()$/;"	f	file:
+get_money	create.c	/^static void get_money(void);$/;"	p	file:	signature:(void)
+get_mons_num	externs.h	/^int get_mons_num();$/;"	p	signature:()
+get_mons_num	externs.h	/^int get_mons_num(int);$/;"	p	signature:(int)
+get_mons_num	misc1.c	/^int get_mons_num (level)$/;"	f
+get_moves	creature.c	/^static void get_moves(int, int *);$/;"	p	file:	signature:(int, int *)
+get_moves	creature.c	/^static void get_moves(monptr, mm)$/;"	f	file:
+get_name	externs.h	/^void get_name();$/;"	p	signature:()
+get_name	externs.h	/^void get_name(void);$/;"	p	signature:(void)
+get_name	misc3.c	/^void get_name()$/;"	f
+get_obj_num	externs.h	/^int get_obj_num();$/;"	p	signature:()
+get_obj_num	externs.h	/^int get_obj_num(int, int);$/;"	p	signature:(int, int)
+get_obj_num	misc3.c	/^int get_obj_num(level,must_be_small)$/;"	f
+get_panel	externs.h	/^int get_panel();$/;"	p	signature:()
+get_panel	externs.h	/^int get_panel(int, int, int);$/;"	p	signature:(int, int, int)
+get_panel	misc1.c	/^int get_panel(y, x, force)$/;"	f
+get_rnd_seed	externs.h	/^int32u get_rnd_seed();$/;"	p	signature:()
+get_rnd_seed	externs.h	/^int32u get_rnd_seed(void);$/;"	p	signature:(void)
+get_rnd_seed	rnd.c	/^int32u get_rnd_seed ()$/;"	f
+get_sex	create.c	/^static void get_sex()$/;"	f	file:
+get_sex	create.c	/^static void get_sex(void);$/;"	p	file:	signature:(void)
+get_spell	externs.h	/^int get_spell();$/;"	p	signature:()
+get_spell	externs.h	/^int get_spell(int *, int, int *, int *, char *, int);$/;"	p	signature:(int *, int, int *, int *, char *, int)
+get_spell	misc3.c	/^int get_spell(spell, num, sn, sc, prompt, first_spell)$/;"	f
+get_stats	create.c	/^static void get_stats()$/;"	f	file:
+get_stats	create.c	/^static void get_stats(void);$/;"	p	file:	signature:(void)
+get_store_item	store2.c	/^static int get_store_item(com_val, pmt, i, j)$/;"	f	file:
+get_store_item	store2.c	/^static int get_store_item(int *, char *, int, int);$/;"	p	file:	signature:(int *, char *, int, int)
+get_string	externs.h	/^int get_string();$/;"	p	signature:()
+get_string	externs.h	/^int get_string(char *, int, int, int);$/;"	p	signature:(char *, int, int, int)
+get_string	io.c	/^int get_string(in_str, row, column, slen)$/;"	f
+getenv	io.c	/^char *getenv();$/;"	p	file:
+getenv	main.c	/^char *getenv();$/;"	p	file:
+geteuid	config.h	325;"	d
+getgid	death.c	/^int getuid(), getgid();$/;"	p	file:
+getgid	death.c	/^uid_t getuid(), getgid();$/;"	p	file:
+getgid	death.c	/^unsigned int getuid(), getgid();$/;"	p	file:
+getgid	death.c	/^unsigned short getuid(), getgid();$/;"	p	file:
+getgid	main.c	/^int getuid(), getgid();$/;"	p	file:
+getgid	main.c	/^uid_t getuid(), getgid();$/;"	p	file:
+getgid	main.c	/^unsigned short getuid(), getgid();$/;"	p	file:
+getlogin	externs.h	/^char *getlogin();$/;"	p	signature:()
+getlogin	externs.h	/^char *getlogin(void);$/;"	p	signature:(void)
+getpwnam	unix.c	/^struct passwd *getpwnam();$/;"	p	file:
+getpwuid	unix.c	/^struct passwd *getpwuid();$/;"	p	file:
+getuid	config.h	324;"	d
+getuid	death.c	/^int getuid(), getgid();$/;"	p	file:
+getuid	death.c	/^uid_t getuid(), getgid();$/;"	p	file:
+getuid	death.c	/^unsigned int getuid(), getgid();$/;"	p	file:
+getuid	death.c	/^unsigned short getuid(), getgid();$/;"	p	file:
+getuid	main.c	/^int getuid(), getgid();$/;"	p	file:
+getuid	main.c	/^uid_t getuid(), getgid();$/;"	p	file:
+getuid	main.c	/^unsigned short getuid(), getgid();$/;"	p	file:
+getuid	unix.c	/^int getuid();$/;"	p	file:
+getuid	unix.c	/^uid_t getuid();$/;"	p	file:
+getuid	unix.c	/^unsigned short getuid();$/;"	p	file:
+gl_fxx	moria4.c	/^static int gl_fxx, gl_fxy, gl_fyx, gl_fyy;$/;"	v	file:
+gl_fxy	moria4.c	/^static int gl_fxx, gl_fxy, gl_fyx, gl_fyy;$/;"	v	file:
+gl_fyx	moria4.c	/^static int gl_fxx, gl_fxy, gl_fyx, gl_fyy;$/;"	v	file:
+gl_fyy	moria4.c	/^static int gl_fxx, gl_fxy, gl_fyx, gl_fyy;$/;"	v	file:
+gl_noquery	moria4.c	/^static int gl_nseen, gl_noquery;$/;"	v	file:
+gl_nseen	moria4.c	/^static int gl_nseen, gl_noquery;$/;"	v	file:
+gl_rock	moria4.c	/^static int gl_rock;$/;"	v	file:
+go_down	dungeon.c	/^static void go_down()$/;"	f	file:
+go_down	dungeon.c	/^static void go_down();$/;"	p	file:
+go_down	dungeon.c	/^static void go_down(void);$/;"	p	file:	signature:(void)
+go_up	dungeon.c	/^static void go_up()$/;"	f	file:
+go_up	dungeon.c	/^static void go_up();$/;"	p	file:
+go_up	dungeon.c	/^static void go_up(void);$/;"	p	file:	signature:(void)
+good_buy	types.h	/^  int16u good_buy;$/;"	m	struct:store_type	access:public
+hack_monptr	variable.c	/^int hack_monptr = -1;$/;"	v
+haggle_commands	store2.c	/^static void haggle_commands(int);$/;"	p	file:	signature:(int)
+haggle_commands	store2.c	/^static void haggle_commands(typ)$/;"	f	file:
+haggle_insults	store2.c	/^static int haggle_insults(int);$/;"	p	file:	signature:(int)
+haggle_insults	store2.c	/^static int haggle_insults(store_num)$/;"	f	file:
+haggle_per	types.h	/^  int8u haggle_per;$/;"	m	struct:owner_type	access:public
+hd	types.h	/^  int8u hd[2];		\/* Creatures hit die	*\/$/;"	m	struct:creature_type	access:public
+helpfile	externs.h	/^void helpfile();$/;"	p	signature:()
+helpfile	externs.h	/^void helpfile(char *);$/;"	p	signature:(char *)
+helpfile	files.c	/^void helpfile(filename)$/;"	f
+hero	types.h	/^      int16 hero;		\/* Heroism	       *\/$/;"	m	struct:player_type::flags	access:public
+high_scores	types.h	/^typedef struct high_scores$/;"	s
+high_scores	types.h	/^} high_scores;$/;"	t	typeref:struct:high_scores
+high_scores::birth_date	types.h	/^  int32 birth_date;$/;"	m	struct:high_scores	access:public
+high_scores::chp	types.h	/^  int16 chp;$/;"	m	struct:high_scores	access:public
+high_scores::died_from	types.h	/^  char died_from[25];$/;"	m	struct:high_scores	access:public
+high_scores::dun_level	types.h	/^  int8u dun_level;$/;"	m	struct:high_scores	access:public
+high_scores::lev	types.h	/^  int8u lev;$/;"	m	struct:high_scores	access:public
+high_scores::max_dlv	types.h	/^  int8u max_dlv;$/;"	m	struct:high_scores	access:public
+high_scores::mhp	types.h	/^  int16 mhp;$/;"	m	struct:high_scores	access:public
+high_scores::name	types.h	/^  char name[PLAYER_NAME_SIZE];$/;"	m	struct:high_scores	access:public
+high_scores::points	types.h	/^  int32 points;$/;"	m	struct:high_scores	access:public
+high_scores::race	types.h	/^  int8u race;$/;"	m	struct:high_scores	access:public
+high_scores::sex	types.h	/^  int8u sex;$/;"	m	struct:high_scores	access:public
+high_scores::uid	types.h	/^  int16 uid;$/;"	m	struct:high_scores	access:public
+highlight_seams	variable.c	/^int highlight_seams = FALSE;$/;"	v
+highscore_fp	variable.c	/^FILE *highscore_fp;		\/* File pointer to high score file *\/$/;"	v
+highscores	death.c	/^static void highscores()$/;"	f	file:
+history	types.h	/^      char history[4][60]; \/* History record	*\/$/;"	m	struct:player_type::misc	access:public
+hit_trap	moria3.c	/^static void hit_trap(int, int);$/;"	p	file:	signature:(int, int)
+hit_trap	moria3.c	/^static void hit_trap(y, x)$/;"	f	file:
+hitdie	types.h	/^      int8u hitdie;	\/* Char hit die		*\/$/;"	m	struct:player_type::misc	access:public
+hp	types.h	/^  int16 hp;		\/* Hit points		*\/$/;"	m	struct:monster_type	access:public
+hp_monster	externs.h	/^int hp_monster();$/;"	p	signature:()
+hp_monster	externs.h	/^int hp_monster(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+hp_monster	spells.c	/^int hp_monster(dir, y, x, dam)$/;"	f
+hp_player	externs.h	/^int hp_player();$/;"	p	signature:()
+hp_player	externs.h	/^int hp_player(int);$/;"	p	signature:(int)
+hp_player	spells.c	/^int hp_player(num)$/;"	f
+ht	types.h	/^      int16u ht;	\/* Height		*\/$/;"	m	struct:player_type::misc	access:public
+ident	types.h	/^  int8u ident;		\/* Identify information *\/$/;"	m	struct:inven_type	access:public
+ident_char	externs.h	/^void ident_char();$/;"	p	signature:()
+ident_char	externs.h	/^void ident_char(void);$/;"	p	signature:(void)
+ident_char	help.c	/^void ident_char()$/;"	f
+ident_spell	externs.h	/^int ident_spell();$/;"	p	signature:()
+ident_spell	externs.h	/^int ident_spell(void);$/;"	p	signature:(void)
+ident_spell	spells.c	/^int ident_spell()$/;"	f
+identify	desc.c	/^void identify(item)$/;"	f
+identify	externs.h	/^void identify();$/;"	p	signature:()
+identify	externs.h	/^void identify(int *);$/;"	p	signature:(int *)
+ignore_signals	externs.h	/^void ignore_signals();$/;"	p	signature:()
+ignore_signals	externs.h	/^void ignore_signals(void);$/;"	p	signature:(void)
+ignore_signals	signals.c	/^void ignore_signals()$/;"	f
+image	types.h	/^      int16 image;		\/* Hallucinate	       *\/$/;"	m	struct:player_type::flags	access:public
+in_bounds	externs.h	/^int in_bounds();$/;"	p	signature:()
+in_bounds	externs.h	/^int in_bounds(int, int);$/;"	p	signature:(int, int)
+in_bounds	misc1.c	/^int in_bounds(y, x)$/;"	f
+inc_stat	externs.h	/^int inc_stat();$/;"	p	signature:()
+inc_stat	externs.h	/^int inc_stat(int);$/;"	p	signature:(int)
+inc_stat	misc3.c	/^int inc_stat(stat)$/;"	f
+increase_insults	store2.c	/^static int increase_insults(int);$/;"	p	file:	signature:(int)
+increase_insults	store2.c	/^static int increase_insults(store_num)$/;"	f	file:
+index	config.h	/^char *index();$/;"	p	signature:()
+index	config.h	257;"	d
+index	config.h	260;"	d
+index	config.h	310;"	d
+index	misc3.c	/^char *index();$/;"	p	file:
+index	types.h	/^  int16u index;		\/* Index to object_list *\/$/;"	m	struct:inven_type	access:public
+info	types.h	/^  char *info;		\/* History information		*\/$/;"	m	struct:background_type	access:public
+infra	types.h	/^  int8u infra;	       \/* See infra-red			*\/$/;"	m	struct:race_type	access:public
+init_curses	externs.h	/^void init_curses();$/;"	p	signature:()
+init_curses	externs.h	/^void init_curses(void);$/;"	p	signature:(void)
+init_curses	io.c	/^void init_curses()$/;"	f
+init_m_level	main.c	/^static void init_m_level()$/;"	f	file:
+init_m_level	main.c	/^static void init_m_level();$/;"	p	file:
+init_m_level	main.c	/^static void init_m_level(void);$/;"	p	file:	signature:(void)
+init_scorefile	externs.h	/^void init_scorefile();$/;"	p	signature:()
+init_scorefile	externs.h	/^void init_scorefile(void);$/;"	p	signature:(void)
+init_scorefile	files.c	/^void init_scorefile()$/;"	f
+init_seeds	externs.h	/^void init_seeds();$/;"	p	signature:()
+init_seeds	externs.h	/^void init_seeds(int32u);$/;"	p	signature:(int32u)
+init_seeds	misc1.c	/^void init_seeds(seed)$/;"	f
+init_signals	externs.h	/^void init_signals();$/;"	p	signature:()
+init_signals	externs.h	/^void init_signals(void);$/;"	p	signature:(void)
+init_signals	signals.c	/^void init_signals()$/;"	f
+init_t_level	main.c	/^static void init_t_level()$/;"	f	file:
+init_t_level	main.c	/^static void init_t_level();$/;"	p	file:
+init_t_level	main.c	/^static void init_t_level(void);$/;"	p	file:	signature:(void)
+inkey	externs.h	/^char inkey();$/;"	p	signature:()
+inkey	externs.h	/^char inkey(void);$/;"	p	signature:(void)
+inkey	io.c	/^char inkey()$/;"	f
+inkeydir	io.c	/^char inkeydir()$/;"	f
+inscribe	externs.h	/^void inscribe();$/;"	p	signature:()
+inscribe	externs.h	/^void inscribe(struct inven_type *, char *);$/;"	p	signature:(struct inven_type *, char *)
+inscribe	misc4.c	/^void inscribe(i_ptr, str)$/;"	f
+inscrip	types.h	/^  char inscrip[INSCRIP_SIZE]; \/* Object inscription   *\/$/;"	m	struct:inven_type	access:public
+insert_lnum	externs.h	/^void insert_lnum();$/;"	p	signature:()
+insert_lnum	externs.h	/^void insert_lnum(char *, char *, int32, int);$/;"	p	signature:(char *, char *, int32, int)
+insert_lnum	misc3.c	/^void insert_lnum(object_str, mtc_str, number, show_sign)$/;"	f
+insert_store	store1.c	/^static void insert_store();$/;"	p	file:
+insert_store	store1.c	/^static void insert_store(int, int, int32, struct inven_type *);$/;"	p	file:	signature:(int, int, int32, struct inven_type *)
+insert_store	store1.c	/^static void insert_store(store_num, pos, icost, i_ptr)$/;"	f	file:
+insert_str	externs.h	/^void insert_str();$/;"	p	signature:()
+insert_str	externs.h	/^void insert_str(char *, char *, char *);$/;"	p	signature:(char *, char *, char *)
+insert_str	misc3.c	/^void insert_str(object_str, mtc_str, insert)$/;"	f
+insult_cur	types.h	/^  int16 insult_cur;$/;"	m	struct:store_type	access:public
+insult_max	types.h	/^  int8u insult_max;$/;"	m	struct:owner_type	access:public
+int16	types.h	/^typedef short	       int16;$/;"	t
+int16u	types.h	/^typedef unsigned short int16u;$/;"	t
+int32	types.h	/^typedef long	       int32;$/;"	t
+int32u	types.h	/^typedef unsigned long  int32u;$/;"	t
+int8u	types.h	/^typedef unsigned char  int8u;$/;"	t
+int_adj	types.h	/^  int16 int_adj;$/;"	m	struct:race_type	access:public
+invcopy	desc.c	/^void invcopy(to, from_index)$/;"	f
+invcopy	externs.h	/^void invcopy();$/;"	p	signature:()
+invcopy	externs.h	/^void invcopy(inven_type *, int);$/;"	p	signature:(inven_type *, int)
+inven_carry	externs.h	/^int inven_carry();$/;"	p	signature:()
+inven_carry	externs.h	/^int inven_carry(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+inven_carry	misc3.c	/^int inven_carry(i_ptr)$/;"	f
+inven_check_num	externs.h	/^int inven_check_num();$/;"	p	signature:()
+inven_check_num	externs.h	/^int inven_check_num(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+inven_check_num	misc3.c	/^int inven_check_num (t_ptr)$/;"	f
+inven_check_weight	externs.h	/^int inven_check_weight();$/;"	p	signature:()
+inven_check_weight	externs.h	/^int inven_check_weight(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+inven_check_weight	misc3.c	/^int inven_check_weight(i_ptr)$/;"	f
+inven_command	externs.h	/^void inven_command();$/;"	p	signature:()
+inven_command	externs.h	/^void inven_command(char);$/;"	p	signature:(char)
+inven_command	moria1.c	/^void inven_command(command)$/;"	f
+inven_ctr	treasure.c	/^int16 inven_ctr = 0;		\/* Total different obj's	*\/$/;"	v
+inven_damage	externs.h	/^int inven_damage();$/;"	p	signature:()
+inven_damage	externs.h	/^int inven_damage(int (*)(), int);$/;"	p	signature:(int (*)(), int)
+inven_damage	misc3.c	/^int inven_damage(typ, perc)$/;"	f
+inven_destroy	externs.h	/^void inven_destroy();$/;"	p	signature:()
+inven_destroy	externs.h	/^void inven_destroy(int);$/;"	p	signature:(int)
+inven_destroy	misc3.c	/^void inven_destroy(item_val)$/;"	f
+inven_drop	externs.h	/^void inven_drop();$/;"	p	signature:()
+inven_drop	externs.h	/^void inven_drop(int, int);$/;"	p	signature:(int, int)
+inven_drop	misc3.c	/^void inven_drop(item_val, drop_all)$/;"	f
+inven_record	types.h	/^typedef struct inven_record$/;"	s
+inven_record	types.h	/^} inven_record;$/;"	t	typeref:struct:inven_record
+inven_record::scost	types.h	/^  int32 scost;$/;"	m	struct:inven_record	access:public
+inven_record::sitem	types.h	/^  inven_type sitem;$/;"	m	struct:inven_record	access:public
+inven_screen	moria1.c	/^static void inven_screen(int);$/;"	p	file:	signature:(int)
+inven_screen	moria1.c	/^static void inven_screen(new_scr)$/;"	f	file:
+inven_throw	moria4.c	/^static void inven_throw(int, struct inven_type *);$/;"	p	file:	signature:(int, struct inven_type *)
+inven_throw	moria4.c	/^static void inven_throw(item_val, t_ptr)$/;"	f	file:
+inven_type	types.h	/^typedef struct inven_type$/;"	s
+inven_type	types.h	/^} inven_type;$/;"	t	typeref:struct:inven_type
+inven_type::ac	types.h	/^  int16 ac;		\/* Normal AC		*\/$/;"	m	struct:inven_type	access:public
+inven_type::cost	types.h	/^  int32 cost;		\/* Cost of item		*\/$/;"	m	struct:inven_type	access:public
+inven_type::damage	types.h	/^  int8u damage[2];	\/* Damage when hits	*\/$/;"	m	struct:inven_type	access:public
+inven_type::flags	types.h	/^  int32u flags;		\/* Special flags	*\/$/;"	m	struct:inven_type	access:public
+inven_type::ident	types.h	/^  int8u ident;		\/* Identify information *\/$/;"	m	struct:inven_type	access:public
+inven_type::index	types.h	/^  int16u index;		\/* Index to object_list *\/$/;"	m	struct:inven_type	access:public
+inven_type::inscrip	types.h	/^  char inscrip[INSCRIP_SIZE]; \/* Object inscription   *\/$/;"	m	struct:inven_type	access:public
+inven_type::level	types.h	/^  int8u level;		\/* Level item first found *\/$/;"	m	struct:inven_type	access:public
+inven_type::name2	types.h	/^  int8u name2;		\/* Object special name  *\/$/;"	m	struct:inven_type	access:public
+inven_type::number	types.h	/^  int8u number;		\/* Number of items	*\/$/;"	m	struct:inven_type	access:public
+inven_type::p1	types.h	/^  int16 p1;		\/* Misc. use variable	*\/$/;"	m	struct:inven_type	access:public
+inven_type::subval	types.h	/^  int8u subval;		\/* Sub-category number	*\/$/;"	m	struct:inven_type	access:public
+inven_type::tchar	types.h	/^  int8u tchar;		\/* Character representation*\/$/;"	m	struct:inven_type	access:public
+inven_type::toac	types.h	/^  int16 toac;		\/* Plusses to AC	*\/$/;"	m	struct:inven_type	access:public
+inven_type::todam	types.h	/^  int16 todam;		\/* Plusses to damage	*\/$/;"	m	struct:inven_type	access:public
+inven_type::tohit	types.h	/^  int16 tohit;		\/* Plusses to hit	*\/$/;"	m	struct:inven_type	access:public
+inven_type::tval	types.h	/^  int8u tval;		\/* Category number	*\/$/;"	m	struct:inven_type	access:public
+inven_type::weight	types.h	/^  int16u weight;	\/* Weight		*\/$/;"	m	struct:inven_type	access:public
+inven_weight	treasure.c	/^int16 inven_weight = 0;		\/* Cur carried weight	*\/$/;"	v
+inventory	treasure.c	/^inven_type inventory[INVEN_ARRAY_SIZE];$/;"	v
+invuln	types.h	/^      int16 invuln;		\/* Increases AC	       *\/$/;"	m	struct:player_type::flags	access:public
+ioctl	io.c	154;"	d	file:
+ioctl	unix.c	102;"	d	file:
+is_a_vowel	desc.c	/^int is_a_vowel(ch)$/;"	f
+is_a_vowel	externs.h	/^int is_a_vowel();$/;"	p	signature:()
+is_a_vowel	externs.h	/^int is_a_vowel(char);$/;"	p	signature:(char)
+item_value	externs.h	/^int32 item_value();$/;"	p	signature:()
+item_value	externs.h	/^int32 item_value(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+item_value	store1.c	/^int32 item_value(i_ptr)$/;"	f
+jamdoor	dungeon.c	/^static void jamdoor()$/;"	f	file:
+jamdoor	dungeon.c	/^static void jamdoor();$/;"	p	file:
+jamdoor	dungeon.c	/^static void jamdoor(void);$/;"	p	file:	signature:(void)
+kbhit	externs.h	/^int kbhit ();$/;"	p	signature:()
+kbhit	externs.h	/^int kbhit (void);$/;"	p	signature:(void)
+kingly	death.c	/^static void kingly()$/;"	f	file:
+kingly	death.c	/^static void kingly(void);$/;"	p	file:	signature:(void)
+knowarmor	recall.c	127;"	d	file:
+knowdamage	recall.c	130;"	d	file:
+known1	desc.c	/^void known1(i_ptr)$/;"	f
+known1	externs.h	/^void known1();$/;"	p	signature:()
+known1	externs.h	/^void known1(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+known1_p	desc.c	/^int known1_p(i_ptr)$/;"	f
+known1_p	externs.h	/^int known1_p();$/;"	p	signature:()
+known1_p	externs.h	/^int known1_p(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+known2	desc.c	/^void known2(i_ptr)$/;"	f
+known2	externs.h	/^void known2();$/;"	p	signature:()
+known2	externs.h	/^void known2(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+known2_p	desc.c	/^int known2_p(i_ptr)$/;"	f
+known2_p	externs.h	/^int known2_p();$/;"	p	signature:()
+known2_p	externs.h	/^int known2_p(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+last_command	variable.c	/^char last_command = ' ';  	\/* Memory of previous command. *\/$/;"	v
+last_msg	variable.c	/^int16 last_msg = 0;		\/* Where last is held *\/$/;"	v
+last_store_inc	variable.c	/^int16 last_store_inc;$/;"	v
+lev	types.h	/^      int16u lev;	\/* Level		*\/$/;"	m	struct:player_type::misc	access:public
+lev	types.h	/^  int8u lev;$/;"	m	struct:high_scores	access:public
+level	types.h	/^  int8u level;		\/* Level item first found *\/$/;"	m	struct:inven_type	access:public
+level	types.h	/^  int8u level;		\/* Level item first found *\/$/;"	m	struct:treasure_type	access:public
+level	types.h	/^  int8u level;		\/* Level of creature	*\/$/;"	m	struct:creature_type	access:public
+lght_resist	types.h	/^      int8u lght_resist;	\/* Resistance to light *\/$/;"	m	struct:player_type::flags	access:public
+light_area	externs.h	/^int light_area();$/;"	p	signature:()
+light_area	externs.h	/^int light_area(int, int);$/;"	p	signature:(int, int)
+light_area	spells.c	/^int light_area(y, x)$/;"	f
+light_dam	externs.h	/^void light_dam();$/;"	p	signature:()
+light_dam	externs.h	/^void light_dam(int, char *);$/;"	p	signature:(int, char *)
+light_dam	moria2.c	/^void light_dam(dam, kb_str)$/;"	f
+light_flag	variable.c	/^int light_flag = FALSE;		\/* Track if temporary light about player.  *\/$/;"	v
+light_line	externs.h	/^void light_line();$/;"	p	signature:()
+light_line	externs.h	/^void light_line(int, int, int);$/;"	p	signature:(int, int, int)
+light_line	spells.c	/^void light_line(dir, y, x)$/;"	f
+light_room	externs.h	/^void light_room();$/;"	p	signature:()
+light_room	externs.h	/^void light_room(int, int);$/;"	p	signature:(int, int)
+light_room	moria1.c	/^void light_room(y, x)$/;"	f
+likert	externs.h	/^char *likert();$/;"	p	signature:()
+likert	externs.h	/^char *likert(int, int);$/;"	p	signature:(int, int)
+likert	misc3.c	/^char *likert(x, y)$/;"	f
+lite_spot	externs.h	/^void lite_spot();$/;"	p	signature:()
+lite_spot	externs.h	/^void lite_spot(int, int);$/;"	p	signature:(int, int)
+lite_spot	moria1.c	/^void lite_spot(y, x)$/;"	f
+loc_symbol	externs.h	/^unsigned char loc_symbol();$/;"	p	signature:()
+loc_symbol	externs.h	/^unsigned char loc_symbol(int, int);$/;"	p	signature:(int, int)
+loc_symbol	misc1.c	/^unsigned char loc_symbol(y, x)$/;"	f
+localtime	misc1.c	/^struct tm *localtime();$/;"	p	file:
+look	externs.h	/^void look();$/;"	p	signature:()
+look	externs.h	/^void look(void);$/;"	p	signature:(void)
+look	moria4.c	/^void look()$/;"	f
+look_ray	moria4.c	/^static int look_ray();$/;"	p	file:
+look_ray	moria4.c	/^static int look_ray(int, int, int);$/;"	p	file:	signature:(int, int, int)
+look_ray	moria4.c	/^static int look_ray(y, from, to)$/;"	f	file:
+look_see	moria4.c	/^static int look_see();$/;"	p	file:
+look_see	moria4.c	/^static int look_see(int, int, int *);$/;"	p	file:	signature:(int, int, int *)
+look_see	moria4.c	/^static int look_see(x, y, transparent)$/;"	f	file:
+los	externs.h	/^int los();$/;"	p	signature:()
+los	externs.h	/^int los(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+los	misc1.c	/^int los(fromY, fromX, toY, toX)$/;"	f
+lose_chr	externs.h	/^void lose_chr();$/;"	p	signature:()
+lose_chr	externs.h	/^void lose_chr(void);$/;"	p	signature:(void)
+lose_chr	spells.c	/^void lose_chr()$/;"	f
+lose_con	externs.h	/^void lose_con();$/;"	p	signature:()
+lose_con	externs.h	/^void lose_con(void);$/;"	p	signature:(void)
+lose_con	spells.c	/^void lose_con()$/;"	f
+lose_dex	externs.h	/^void lose_dex();$/;"	p	signature:()
+lose_dex	externs.h	/^void lose_dex(void);$/;"	p	signature:(void)
+lose_dex	spells.c	/^void lose_dex()$/;"	f
+lose_exp	externs.h	/^void lose_exp();$/;"	p	signature:()
+lose_exp	externs.h	/^void lose_exp(int32);$/;"	p	signature:(int32)
+lose_exp	spells.c	/^void lose_exp(amount)$/;"	f
+lose_int	externs.h	/^void lose_int();$/;"	p	signature:()
+lose_int	externs.h	/^void lose_int(void);$/;"	p	signature:(void)
+lose_int	spells.c	/^void lose_int()$/;"	f
+lose_str	externs.h	/^void lose_str();$/;"	p	signature:()
+lose_str	externs.h	/^void lose_str(void);$/;"	p	signature:(void)
+lose_str	spells.c	/^void lose_str()$/;"	f
+lose_wis	externs.h	/^void lose_wis();$/;"	p	signature:()
+lose_wis	externs.h	/^void lose_wis(void);$/;"	p	signature:(void)
+lose_wis	spells.c	/^void lose_wis()$/;"	f
+lower_monster_name	externs.h	/^void lower_monster_name();$/;"	p	signature:()
+lower_monster_name	externs.h	/^void lower_monster_name(char *, struct monster_type *,$/;"	p	signature:(char *, struct monster_type *, struct creature_type *)
+lower_monster_name	spells.c	/^void lower_monster_name (m_name, m_ptr, r_ptr)$/;"	f
+lr	types.h	/^  unsigned char lr : 1;$/;"	m	struct:cave_type	access:public
+lr	types.h	/^  unsigned int lr : 1;  \/* room should be lit with perm light, walls with$/;"	m	struct:cave_type	access:public
+lr	types.h	/^  unsigned lr : 1;$/;"	m	struct:cave_type	access:public
+lseek	death.c	/^long lseek();$/;"	p	file:
+lseek	death.c	/^off_t lseek();$/;"	p	file:
+m_age	types.h	/^  int8u m_age;	       \/* Maximum age of character	*\/$/;"	m	struct:race_type	access:public
+m_attack_type	types.h	/^  } m_attack_type;$/;"	t	typeref:struct:m_attack_type
+m_attack_type	types.h	/^typedef struct m_attack_type	\/* Monster attack and damage types *\/$/;"	s
+m_attack_type::attack_desc	types.h	/^    int8u attack_desc;$/;"	m	struct:m_attack_type	access:public
+m_attack_type::attack_dice	types.h	/^    int8u attack_dice;$/;"	m	struct:m_attack_type	access:public
+m_attack_type::attack_sides	types.h	/^    int8u attack_sides;$/;"	m	struct:m_attack_type	access:public
+m_attack_type::attack_type	types.h	/^    int8u attack_type;$/;"	m	struct:m_attack_type	access:public
+m_b_ht	types.h	/^  int8u m_b_ht;	      \/* base height for males		*\/$/;"	m	struct:race_type	access:public
+m_b_wt	types.h	/^  int8u m_b_wt;	      \/* base weight for males		*\/$/;"	m	struct:race_type	access:public
+m_bonus	externs.h	/^int m_bonus();$/;"	p	signature:()
+m_bonus	externs.h	/^int m_bonus(int, int, int);$/;"	p	signature:(int, int, int)
+m_bonus	misc1.c	/^int m_bonus(base, max_std, level)$/;"	f
+m_exp	types.h	/^  int8u m_exp;		\/* Class experience factor	*\/$/;"	m	struct:class_type	access:public
+m_level	monsters.c	/^int16 m_level[MAX_MONS_LEVEL+1];$/;"	v
+m_list	monsters.c	/^monster_type m_list[MAX_MALLOC];$/;"	v
+m_m_ht	types.h	/^  int8u m_m_ht;	      \/* mod height for males		*\/$/;"	m	struct:race_type	access:public
+m_m_wt	types.h	/^  int8u m_m_wt;	      \/* mod weight for males		*\/$/;"	m	struct:race_type	access:public
+madj_chr	types.h	/^  int16 madj_chr;	\/* Class modifier for charisma	*\/$/;"	m	struct:class_type	access:public
+madj_con	types.h	/^  int16 madj_con;	\/* Class modifier for constitution*\/$/;"	m	struct:class_type	access:public
+madj_dex	types.h	/^  int16 madj_dex;	\/* Class modifier for dexterity *\/$/;"	m	struct:class_type	access:public
+madj_int	types.h	/^  int16 madj_int;	\/* Class modifier for intelligence*\/$/;"	m	struct:class_type	access:public
+madj_str	types.h	/^  int16 madj_str;	\/* Class modifier for strength	*\/$/;"	m	struct:class_type	access:public
+madj_wis	types.h	/^  int16 madj_wis;	\/* Class modifier for wisdom	*\/$/;"	m	struct:class_type	access:public
+magic_init	desc.c	/^void magic_init()$/;"	f
+magic_init	externs.h	/^void magic_init();$/;"	p	signature:()
+magic_init	externs.h	/^void magic_init(void);$/;"	p	signature:(void)
+magic_shop	externs.h	/^int magic_shop();$/;"	p	signature:()
+magic_shop	externs.h	/^int magic_shop(int);$/;"	p	signature:(int)
+magic_shop	sets.c	/^int magic_shop(element)$/;"	f
+magic_shop	tables.c	/^  alchemist(), magic_shop();$/;"	p	file:
+magic_spell	player.c	/^spell_type (*magic_spell)[31];$/;"	v
+magic_spell	player.c	/^spell_type magic_spell[MAX_CLASS-1][31] = {$/;"	v
+magic_treasure	externs.h	/^void magic_treasure();$/;"	p	signature:()
+magic_treasure	externs.h	/^void magic_treasure(int, int);$/;"	p	signature:(int, int)
+magic_treasure	misc2.c	/^void magic_treasure(x, level)$/;"	f
+magik	externs.h	/^int magik();$/;"	p	signature:()
+magik	externs.h	/^int magik(int);$/;"	p	signature:(int)
+magik	misc1.c	/^int magik(chance)$/;"	f
+main	externs.h	/^int main();$/;"	p	signature:()
+main	externs.h	/^int main(int, char **);$/;"	p	signature:(int, char **)
+main	rnd.c	/^main ()$/;"	f
+make_attack	creature.c	/^static void make_attack(int);$/;"	p	file:	signature:(int)
+make_attack	creature.c	/^static void make_attack(monptr)$/;"	f	file:
+make_move	creature.c	/^static void make_move(int, int *, int32u *);$/;"	p	file:	signature:(int, int *, int32u *)
+make_move	creature.c	/^static void make_move(monptr, mm, rcmove)$/;"	f	file:
+male	types.h	/^      int8u male;	\/* Sex of character	*\/$/;"	m	struct:player_type::misc	access:public
+malloc	save.c	/^char *malloc();$/;"	p	file:
+mana	types.h	/^      int16 mana;	\/* Mana points		*\/$/;"	m	struct:player_type::misc	access:public
+map_area	externs.h	/^void map_area();$/;"	p	signature:()
+map_area	externs.h	/^void map_area(void);$/;"	p	signature:(void)
+map_area	spells.c	/^void map_area()$/;"	f
+map_diag1	moria4.c	/^static int map_diag1[] = { 1, 3, 0, 2, 4 };$/;"	v	file:
+map_diag2	moria4.c	/^static int map_diag2[] = { 2, 1, 0, 4, 3 };$/;"	v	file:
+map_roguedir	moria1.c	/^static char map_roguedir(char);$/;"	p	file:	signature:(char)
+map_roguedir	moria1.c	/^static char map_roguedir(comval)$/;"	f	file:
+mask	signals.c	/^static int mask;$/;"	v	file:
+mass_genocide	externs.h	/^int mass_genocide();$/;"	p	signature:()
+mass_genocide	externs.h	/^int mass_genocide(void);$/;"	p	signature:(void)
+mass_genocide	spells.c	/^int mass_genocide()$/;"	f
+mass_poly	externs.h	/^int mass_poly();$/;"	p	signature:()
+mass_poly	externs.h	/^int mass_poly(void);$/;"	p	signature:(void)
+mass_poly	spells.c	/^int mass_poly()$/;"	f
+max_cost	types.h	/^  int16 max_cost;$/;"	m	struct:owner_type	access:public
+max_dlv	types.h	/^      int16u max_dlv;	\/* Max level explored	*\/$/;"	m	struct:player_type::misc	access:public
+max_dlv	types.h	/^  int8u max_dlv;$/;"	m	struct:high_scores	access:public
+max_exp	types.h	/^      int32 max_exp;	\/* Max experience	*\/$/;"	m	struct:player_type::misc	access:public
+max_hp	externs.h	/^int max_hp();$/;"	p	signature:()
+max_hp	externs.h	/^int max_hp(unsigned char *);$/;"	p	signature:(unsigned char *)
+max_hp	misc1.c	/^int max_hp(array)$/;"	f
+max_inflate	types.h	/^  int8u max_inflate;$/;"	m	struct:owner_type	access:public
+max_panel_cols	variable.c	/^int16 max_panel_rows,max_panel_cols;$/;"	v
+max_panel_rows	variable.c	/^int16 max_panel_rows,max_panel_cols;$/;"	v
+max_score	variable.c	/^int32 max_score = 0;$/;"	v
+max_stat	types.h	/^      int8u max_stat[6];	\/* What is restored *\/$/;"	m	struct:player_type::stats	access:public
+mbth	types.h	/^  int8u mbth;		\/* modifier to base to hit	*\/$/;"	m	struct:class_type	access:public
+mbthb	types.h	/^  int8u mbthb;		\/* modifier to base to hit - bows*\/$/;"	m	struct:class_type	access:public
+mdis	types.h	/^  int8u mdis;		\/* mod disarming traps		*\/$/;"	m	struct:class_type	access:public
+metals	tables.c	/^char **metals;$/;"	v
+metals	tables.c	/^char *metals[MAX_METALS] = {$/;"	v
+mexp	types.h	/^  int16u mexp;		\/* Exp value for kill	*\/$/;"	m	struct:creature_type	access:public
+mfos	types.h	/^  int8u mfos;		\/* modifier to freq-of-search	*\/$/;"	m	struct:class_type	access:public
+mfptr	monsters.c	/^int16 mfptr;			\/* Cur free monster ptr	*\/$/;"	v
+mhp	types.h	/^      int16 mhp;	\/* Max hit pts		*\/$/;"	m	struct:player_type::misc	access:public
+mhp	types.h	/^  int16 mhp;$/;"	m	struct:high_scores	access:public
+min_inflate	types.h	/^  int8u min_inflate;$/;"	m	struct:owner_type	access:public
+minus_ac	externs.h	/^int minus_ac();$/;"	p	signature:()
+minus_ac	externs.h	/^int minus_ac(int32u);$/;"	p	signature:(int32u)
+minus_ac	moria2.c	/^int minus_ac(typ_dam)$/;"	f
+misc	types.h	/^    } misc;$/;"	m	struct:player_type	typeref:struct:player_type::misc	access:public
+misc	types.h	/^  struct misc$/;"	s	struct:player_type	access:public
+missile_ctr	variable.c	/^int16 missile_ctr = 0;		\/* Counter for missiles *\/$/;"	v
+ml	types.h	/^  int8u ml;$/;"	m	struct:monster_type	access:public
+mlink	generate.c	/^static void mlink()$/;"	f	file:
+mlink	generate.c	/^static void mlink(void);$/;"	p	file:	signature:(void)
+mmove	externs.h	/^int mmove();$/;"	p	signature:()
+mmove	externs.h	/^int mmove(int, int *, int *);$/;"	p	signature:(int, int *, int *)
+mmove	misc3.c	/^int mmove(dir, y, x)$/;"	f
+mod_stat	types.h	/^      int16 mod_stat[6];	\/* What is modified, may be +\/- *\/$/;"	m	struct:player_type::stats	access:public
+modify_stat	externs.h	/^int8u modify_stat();$/;"	p	signature:()
+modify_stat	externs.h	/^int8u modify_stat(int, int16);$/;"	p	signature:(int, int16)
+modify_stat	misc3.c	/^int8u modify_stat (stat, amount)$/;"	f
+mon_cast_spell	creature.c	/^static void mon_cast_spell(int, int *);$/;"	p	file:	signature:(int, int *)
+mon_cast_spell	creature.c	/^static void mon_cast_spell(monptr, took_turn)$/;"	f	file:
+mon_move	creature.c	/^static void mon_move(int, int32u *);$/;"	p	file:	signature:(int, int32u *)
+mon_move	creature.c	/^static void mon_move(monptr, rcmove)$/;"	f	file:
+mon_take_hit	externs.h	/^int mon_take_hit();$/;"	p	signature:()
+mon_take_hit	externs.h	/^int mon_take_hit(int, int);$/;"	p	signature:(int, int)
+mon_take_hit	moria3.c	/^int mon_take_hit(monptr, dam)$/;"	f
+mon_tot_mult	monsters.c	/^int16 mon_tot_mult;		\/* # of repro's of creature	*\/$/;"	v
+monster_attacks	monsters.c	/^struct m_attack_type monster_attacks[N_MONS_ATTS] = {$/;"	v	typeref:struct:m_attack_type
+monster_death	externs.h	/^int32u monster_death();$/;"	p	signature:()
+monster_death	externs.h	/^int32u monster_death(int, int, int32u);$/;"	p	signature:(int, int, int32u)
+monster_death	moria3.c	/^int32u monster_death(y, x, flags)$/;"	f
+monster_name	externs.h	/^void monster_name();$/;"	p	signature:()
+monster_name	externs.h	/^void monster_name(char *, struct monster_type *, struct creature_type *);$/;"	p	signature:(char *, struct monster_type *, struct creature_type *)
+monster_name	spells.c	/^void monster_name (m_name, m_ptr, r_ptr)$/;"	f
+monster_type	types.h	/^typedef struct monster_type$/;"	s
+monster_type	types.h	/^} monster_type;$/;"	t	typeref:struct:monster_type
+monster_type::cdis	types.h	/^  int8u cdis;		\/* Cur dis from player	*\/$/;"	m	struct:monster_type	access:public
+monster_type::confused	types.h	/^  int8u confused;$/;"	m	struct:monster_type	access:public
+monster_type::csleep	types.h	/^  int16 csleep;		\/* Inactive counter	*\/$/;"	m	struct:monster_type	access:public
+monster_type::cspeed	types.h	/^  int16 cspeed;		\/* Movement speed	*\/$/;"	m	struct:monster_type	access:public
+monster_type::fx	types.h	/^  int8u fx;		\/* X Pointer into map	*\/$/;"	m	struct:monster_type	access:public
+monster_type::fy	types.h	/^  int8u fy;		\/* Y Pointer into map	*\/$/;"	m	struct:monster_type	access:public
+monster_type::hp	types.h	/^  int16 hp;		\/* Hit points		*\/$/;"	m	struct:monster_type	access:public
+monster_type::ml	types.h	/^  int8u ml;$/;"	m	struct:monster_type	access:public
+monster_type::mptr	types.h	/^  int16u mptr;		\/* Pointer into creature*\/$/;"	m	struct:monster_type	access:public
+monster_type::stunned	types.h	/^  int8u stunned;$/;"	m	struct:monster_type	access:public
+monval	create.c	/^static int monval (i)$/;"	f	file:
+monval	create.c	/^static int monval(int8u);$/;"	p	file:
+moria_main	main.c	/^int moria_main(argc, argv)$/;"	f
+moriaterm	externs.h	/^void moriaterm();$/;"	p	signature:()
+moriaterm	externs.h	/^void moriaterm(void);$/;"	p	signature:(void)
+moriaterm	io.c	/^void moriaterm()$/;"	f
+move_char	externs.h	/^void move_char();$/;"	p	signature:()
+move_char	externs.h	/^void move_char(int, int);$/;"	p	signature:(int, int)
+move_char	moria3.c	/^void move_char(dir, do_pickup)$/;"	f
+move_cursor	externs.h	/^void move_cursor();$/;"	p	signature:()
+move_cursor	externs.h	/^void move_cursor(int, int);$/;"	p	signature:(int, int)
+move_cursor	io.c	/^void move_cursor(row, col)$/;"	f
+move_cursor_relative	externs.h	/^void move_cursor_relative();$/;"	p	signature:()
+move_cursor_relative	externs.h	/^void move_cursor_relative(int, int);$/;"	p	signature:(int, int)
+move_cursor_relative	io.c	/^void move_cursor_relative(row, col)$/;"	f
+move_light	externs.h	/^void move_light();$/;"	p	signature:()
+move_light	externs.h	/^void move_light(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+move_light	moria1.c	/^void move_light(y1, x1, y2, x2)$/;"	f
+move_rec	externs.h	/^void move_rec();$/;"	p	signature:()
+move_rec	externs.h	/^void move_rec(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+move_rec	moria1.c	/^void move_rec(y1, x1, y2, x2)$/;"	f
+movement_rate	creature.c	/^static int movement_rate(int16);$/;"	p	file:
+movement_rate	creature.c	/^static int movement_rate(speed)$/;"	f	file:
+mptr	types.h	/^  int16u mptr;		\/* Pointer into creature*\/$/;"	m	struct:monster_type	access:public
+msav	types.h	/^  int8u msav;		\/* Class modifier to save	*\/$/;"	m	struct:class_type	access:public
+msdos_getch	externs.h	/^int msdos_getch();$/;"	p	signature:()
+msdos_getch	externs.h	/^int msdos_getch(void);$/;"	p	signature:(void)
+msdos_init	externs.h	/^void msdos_init();$/;"	p	signature:()
+msdos_init	externs.h	/^void msdos_init(void);$/;"	p	signature:(void)
+msdos_intro	externs.h	/^void msdos_intro();$/;"	p	signature:()
+msdos_intro	externs.h	/^void msdos_intro(void);$/;"	p	signature:(void)
+msdos_noraw	externs.h	/^void msdos_noraw();$/;"	p	signature:()
+msdos_noraw	externs.h	/^void msdos_noraw(void);$/;"	p	signature:(void)
+msdos_raw	externs.h	/^void msdos_raw();$/;"	p	signature:()
+msdos_raw	externs.h	/^void msdos_raw(void);$/;"	p	signature:(void)
+msg_flag	variable.c	/^int msg_flag;			\/* Set with first msg  *\/$/;"	v
+msg_print	externs.h	/^void msg_print();$/;"	p	signature:()
+msg_print	externs.h	/^void msg_print(char *);$/;"	p	signature:(char *)
+msg_print	io.c	/^void msg_print(str_buff)$/;"	f
+msrh	types.h	/^  int8u msrh;		\/* modifier to searching	*\/$/;"	m	struct:class_type	access:public
+mstl	types.h	/^  int8u mstl;		\/* modifier to stealth		*\/$/;"	m	struct:class_type	access:public
+multiply_monster	creature.c	/^int multiply_monster(y, x, cr_index, monptr)$/;"	f
+multiply_monster	externs.h	/^int multiply_monster();$/;"	p	signature:()
+multiply_monster	externs.h	/^int multiply_monster(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+mushrooms	tables.c	/^char **mushrooms;$/;"	v
+mushrooms	tables.c	/^char *mushrooms[MAX_MUSH] = {$/;"	v
+name	types.h	/^      char name[PLAYER_NAME_SIZE];	\/* Name of character	*\/$/;"	m	struct:player_type::misc	access:public
+name	types.h	/^  char *name;		\/* Descrip of creature	*\/$/;"	m	struct:creature_type	access:public
+name	types.h	/^  char *name;		\/* Object name		*\/$/;"	m	struct:treasure_type	access:public
+name	types.h	/^  char name[PLAYER_NAME_SIZE];$/;"	m	struct:high_scores	access:public
+name2	types.h	/^  int8u name2;		\/* Object special name  *\/$/;"	m	struct:inven_type	access:public
+new_level_flag	variable.c	/^int new_level_flag;		\/* Next level when true	 *\/$/;"	v
+new_spells	types.h	/^      int8u new_spells;		\/* Number of spells can learn. *\/$/;"	m	struct:player_type::flags	access:public
+new_spot	generate.c	/^static void new_spot(int16 *, int16 *);$/;"	p	file:	signature:(int16 *, int16 *)
+new_spot	generate.c	/^static void new_spot(y, x)$/;"	f	file:
+next	types.h	/^  int8u next;		\/* Pointer to next table	*\/$/;"	m	struct:background_type	access:public
+next_to	generate.c	/^static int next_to(int, int);$/;"	p	file:	signature:(int, int)
+next_to	generate.c	/^static int next_to(y, x)$/;"	f	file:
+next_to_corr	externs.h	/^int next_to_corr();$/;"	p	signature:()
+next_to_corr	externs.h	/^int next_to_corr(int, int);$/;"	p	signature:(int, int)
+next_to_corr	misc1.c	/^int next_to_corr(y, x)$/;"	f
+next_to_wall	externs.h	/^int next_to_wall(int, int);$/;"	p	signature:(int, int)
+next_to_walls	externs.h	/^int next_to_walls();$/;"	p	signature:()
+next_to_walls	misc1.c	/^int next_to_walls(y, x)$/;"	f
+no_light	externs.h	/^int no_light();$/;"	p	signature:()
+no_light	externs.h	/^int no_light(void);$/;"	p	signature:(void)
+no_light	moria1.c	/^int no_light()$/;"	f
+noneedtobargain	externs.h	/^int noneedtobargain();$/;"	p	signature:()
+noneedtobargain	externs.h	/^int noneedtobargain(int, int32);$/;"	p	signature:(int, int32)
+noneedtobargain	store1.c	/^int noneedtobargain(store_num, minprice)$/;"	f
+normal_table	tables.c	/^int16u normal_table[NORMAL_TABLE_SIZE] = {$/;"	v
+noscore	variable.c	/^int16 noscore = FALSE;		\/* Don't log the game. -CJS- *\/$/;"	v
+nosignals	externs.h	/^void nosignals();$/;"	p	signature:()
+nosignals	externs.h	/^void nosignals(void);$/;"	p	signature:(void)
+nosignals	signals.c	/^void nosignals()$/;"	f
+number	types.h	/^  int8u number;		\/* Number of items	*\/$/;"	m	struct:inven_type	access:public
+number	types.h	/^  int8u number;		\/* Number of items	*\/$/;"	m	struct:treasure_type	access:public
+o_prompt	misc2.c	/^static struct opt_desc { char *o_prompt; int *o_var; } options[] = {$/;"	m	struct:opt_desc	file:	access:public
+o_var	misc2.c	/^static struct opt_desc { char *o_prompt; int *o_var; } options[] = {$/;"	m	struct:opt_desc	file:	access:public
+objdes	desc.c	/^void objdes(out_val, i_ptr, pref)$/;"	f
+objdes	externs.h	/^void objdes();$/;"	p	signature:()
+objdes	externs.h	/^void objdes(char *, struct inven_type *, int);$/;"	p	signature:(char *, struct inven_type *, int)
+object_ident	treasure.c	/^int8u object_ident[OBJECT_IDENT_SIZE];$/;"	v
+object_list	treasure.c	/^treasure_type *object_list;$/;"	v
+object_list	treasure.c	/^treasure_type object_list[MAX_OBJECTS] = {$/;"	v
+object_offset	desc.c	/^int16 object_offset(t_ptr)$/;"	f
+object_offset	externs.h	/^int16 object_offset();$/;"	p	signature:()
+object_offset	externs.h	/^int16 object_offset(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+old_msg	variable.c	/^vtype old_msg[MAX_SAVE_MSG];	\/* Last message	      *\/$/;"	v
+old_seed	misc1.c	/^static int32u old_seed;$/;"	v	file:
+open	externs.h	1286;"	d
+open	unix.c	336;"	d	file:
+opengetch	externs.h	/^int opengetch ();$/;"	p	signature:()
+opengetch	externs.h	/^int opengetch (void);$/;"	p	signature:(void)
+openobject	externs.h	/^void openobject();$/;"	p	signature:()
+openobject	externs.h	/^void openobject(void);$/;"	p	signature:(void)
+openobject	moria3.c	/^void openobject()$/;"	f
+opt_desc	misc2.c	/^static struct opt_desc { char *o_prompt; int *o_var; } options[] = {$/;"	s	file:
+opt_desc::o_prompt	misc2.c	/^static struct opt_desc { char *o_prompt; int *o_var; } options[] = {$/;"	m	struct:opt_desc	file:	access:public
+opt_desc::o_var	misc2.c	/^static struct opt_desc { char *o_prompt; int *o_var; } options[] = {$/;"	m	struct:opt_desc	file:	access:public
+options	misc2.c	/^static struct opt_desc { char *o_prompt; int *o_var; } options[] = {$/;"	v	typeref:struct:opt_desc	file:
+original_commands	dungeon.c	/^static char original_commands();$/;"	p	file:
+original_commands	dungeon.c	/^static char original_commands(char);$/;"	p	file:	signature:(char)
+original_commands	dungeon.c	/^static char original_commands(com_val)$/;"	f	file:
+owner	types.h	/^  int8u owner;$/;"	m	struct:store_type	access:public
+owner_name	types.h	/^  char *owner_name;$/;"	m	struct:owner_type	access:public
+owner_race	types.h	/^  int8u owner_race;$/;"	m	struct:owner_type	access:public
+owner_type	types.h	/^typedef struct owner_type$/;"	s
+owner_type	types.h	/^} owner_type;$/;"	t	typeref:struct:owner_type
+owner_type::haggle_per	types.h	/^  int8u haggle_per;$/;"	m	struct:owner_type	access:public
+owner_type::insult_max	types.h	/^  int8u insult_max;$/;"	m	struct:owner_type	access:public
+owner_type::max_cost	types.h	/^  int16 max_cost;$/;"	m	struct:owner_type	access:public
+owner_type::max_inflate	types.h	/^  int8u max_inflate;$/;"	m	struct:owner_type	access:public
+owner_type::min_inflate	types.h	/^  int8u min_inflate;$/;"	m	struct:owner_type	access:public
+owner_type::owner_name	types.h	/^  char *owner_name;$/;"	m	struct:owner_type	access:public
+owner_type::owner_race	types.h	/^  int8u owner_race;$/;"	m	struct:owner_type	access:public
+owners	tables.c	/^owner_type *owners;$/;"	v
+owners	tables.c	/^owner_type owners[MAX_OWNERS] = {$/;"	v
+p1	types.h	/^  int16 p1;		\/* Misc. use variable	*\/$/;"	m	struct:inven_type	access:public
+p1	types.h	/^  int16 p1;		\/* Misc. use variable	*\/$/;"	m	struct:treasure_type	access:public
+pac	types.h	/^      int16 pac;	\/* Total AC		*\/$/;"	m	struct:player_type::misc	access:public
+pack_heavy	variable.c	/^int pack_heavy = FALSE;$/;"	v
+panel_bounds	externs.h	/^void panel_bounds();$/;"	p	signature:()
+panel_bounds	externs.h	/^void panel_bounds(void);$/;"	p	signature:(void)
+panel_bounds	misc1.c	/^void panel_bounds()$/;"	f
+panel_col	variable.c	/^int panel_row,panel_col;$/;"	v
+panel_col_max	variable.c	/^int panel_col_min,panel_col_max;$/;"	v
+panel_col_min	variable.c	/^int panel_col_min,panel_col_max;$/;"	v
+panel_col_prt	variable.c	/^int panel_col_prt,panel_row_prt;$/;"	v
+panel_contains	externs.h	/^int panel_contains();$/;"	p	signature:()
+panel_contains	externs.h	/^int panel_contains(int, int);$/;"	p	signature:(int, int)
+panel_contains	misc1.c	/^int panel_contains(y, x)$/;"	f
+panel_row	variable.c	/^int panel_row,panel_col;$/;"	v
+panel_row_max	variable.c	/^int panel_row_min,panel_row_max;$/;"	v
+panel_row_min	variable.c	/^int panel_row_min,panel_row_max;$/;"	v
+panel_row_prt	variable.c	/^int panel_col_prt,panel_row_prt;$/;"	v
+panic_save	variable.c	/^int16 panic_save = FALSE;	\/* this is true if playing from a panic save *\/$/;"	v
+paralysis	types.h	/^      int16 paralysis;		\/* Paralysis counter   *\/$/;"	m	struct:player_type::flags	access:public
+pause_exit	externs.h	/^void pause_exit();$/;"	p	signature:()
+pause_exit	externs.h	/^void pause_exit(int, int);$/;"	p	signature:(int, int)
+pause_exit	io.c	/^void pause_exit(prt_line, delay)$/;"	f
+pause_line	externs.h	/^void pause_line();$/;"	p	signature:()
+pause_line	externs.h	/^void pause_line(int);$/;"	p	signature:(int)
+pause_line	io.c	/^void pause_line(prt_line)$/;"	f
+pclass	types.h	/^      int8u pclass;	\/* # of class		*\/$/;"	m	struct:player_type::misc	access:public
+pdamroll	externs.h	/^int pdamroll();$/;"	p	signature:()
+pdamroll	externs.h	/^int pdamroll(unsigned char *);$/;"	p	signature:(unsigned char *)
+pdamroll	misc1.c	/^int pdamroll(array)$/;"	f
+perror	main.c	/^void perror();$/;"	p	file:
+pl	types.h	/^  unsigned char pl : 1;$/;"	m	struct:cave_type	access:public
+pl	types.h	/^  unsigned int pl : 1;	\/* permanent light, used for walls and lighted rooms *\/$/;"	m	struct:cave_type	access:public
+pl	types.h	/^  unsigned pl : 1;$/;"	m	struct:cave_type	access:public
+place_boundary	generate.c	/^static void place_boundary()$/;"	f	file:
+place_boundary	generate.c	/^static void place_boundary(void);$/;"	p	file:	signature:(void)
+place_broken_door	generate.c	/^static void place_broken_door(int, int);$/;"	p	file:	signature:(int, int)
+place_broken_door	generate.c	/^static void place_broken_door(y, x)$/;"	f	file:
+place_closed_door	generate.c	/^static void place_closed_door(int, int);$/;"	p	file:	signature:(int, int)
+place_closed_door	generate.c	/^static void place_closed_door(y, x)$/;"	f	file:
+place_door	generate.c	/^static void place_door(int, int);$/;"	p	file:	signature:(int, int)
+place_door	generate.c	/^static void place_door(y, x)$/;"	f	file:
+place_down_stairs	generate.c	/^static void place_down_stairs(int, int);$/;"	p	file:	signature:(int, int)
+place_down_stairs	generate.c	/^static void place_down_stairs(y, x)$/;"	f	file:
+place_gold	externs.h	/^void place_gold();$/;"	p	signature:()
+place_gold	externs.h	/^void place_gold(int, int);$/;"	p	signature:(int, int)
+place_gold	misc3.c	/^void place_gold(y, x)$/;"	f
+place_locked_door	generate.c	/^static void place_locked_door(int, int);$/;"	p	file:	signature:(int, int)
+place_locked_door	generate.c	/^static void place_locked_door(y, x)$/;"	f	file:
+place_monster	externs.h	/^int place_monster();$/;"	p	signature:()
+place_monster	externs.h	/^int place_monster(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+place_monster	misc1.c	/^int place_monster(y, x, z, slp)$/;"	f
+place_object	externs.h	/^void place_object();$/;"	p	signature:()
+place_object	externs.h	/^void place_object(int, int, int);$/;"	p	signature:(int, int, int)
+place_object	misc3.c	/^void place_object(y, x, must_be_small)$/;"	f
+place_open_door	generate.c	/^static void place_open_door(int, int);$/;"	p	file:	signature:(int, int)
+place_open_door	generate.c	/^static void place_open_door(y, x)$/;"	f	file:
+place_rubble	externs.h	/^void place_rubble();$/;"	p	signature:()
+place_rubble	externs.h	/^void place_rubble(int, int);$/;"	p	signature:(int, int)
+place_rubble	misc3.c	/^void place_rubble(y, x)$/;"	f
+place_secret_door	generate.c	/^static void place_secret_door(int, int);$/;"	p	file:	signature:(int, int)
+place_secret_door	generate.c	/^static void place_secret_door(y, x)$/;"	f	file:
+place_stairs	generate.c	/^static void place_stairs(int, int, int);$/;"	p	file:	signature:(int, int, int)
+place_stairs	generate.c	/^static void place_stairs(typ, num, walls)$/;"	f	file:
+place_streamer	generate.c	/^static void place_streamer(fval, treas_chance)$/;"	f	file:
+place_streamer	generate.c	/^static void place_streamer(int, int);$/;"	p	file:	signature:(int, int)
+place_stuck_door	generate.c	/^static void place_stuck_door(int, int);$/;"	p	file:	signature:(int, int)
+place_stuck_door	generate.c	/^static void place_stuck_door(y, x)$/;"	f	file:
+place_trap	externs.h	/^void place_trap();$/;"	p	signature:()
+place_trap	externs.h	/^void place_trap(int, int, int);$/;"	p	signature:(int, int, int)
+place_trap	misc3.c	/^void place_trap(y, x, subval)$/;"	f
+place_up_stairs	generate.c	/^static void place_up_stairs(int, int);$/;"	p	file:	signature:(int, int)
+place_up_stairs	generate.c	/^static void place_up_stairs(y, x)$/;"	f	file:
+place_win_monster	externs.h	/^void place_win_monster();$/;"	p	signature:()
+place_win_monster	externs.h	/^void place_win_monster(void);$/;"	p	signature:(void)
+place_win_monster	misc1.c	/^void place_win_monster()$/;"	f
+player_exp	player.c	/^int32u player_exp[MAX_PLAYER_LEVEL] = {$/;"	v
+player_hp	player.c	/^int16u player_hp[MAX_PLAYER_LEVEL];$/;"	v
+player_init	player.c	/^int16u player_init[MAX_CLASS][5] = {$/;"	v
+player_light	variable.c	/^int player_light;		\/* Player carrying light *\/$/;"	v
+player_saves	externs.h	/^int player_saves();$/;"	p	signature:()
+player_saves	externs.h	/^int player_saves(void);$/;"	p	signature:(void)
+player_saves	misc3.c	/^int player_saves()$/;"	f
+player_title	player.c	/^char *(*player_title)[MAX_PLAYER_LEVEL];$/;"	v
+player_title	player.c	/^char *player_title[MAX_CLASS][MAX_PLAYER_LEVEL] = {$/;"	v
+player_type	types.h	/^typedef struct player_type$/;"	s
+player_type	types.h	/^} player_type;$/;"	t	typeref:struct:player_type
+player_type::flags	types.h	/^    } flags;$/;"	m	struct:player_type	typeref:struct:player_type::flags	access:public
+player_type::flags	types.h	/^  struct flags$/;"	s	struct:player_type	access:public
+player_type::flags::acid_resist	types.h	/^      int8u acid_resist;	\/* Resistance to acid  *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::afraid	types.h	/^      int16 afraid;		\/* Fear		       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::aggravate	types.h	/^      int8u aggravate;		\/* Aggravate monsters  *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::blessed	types.h	/^      int16 blessed;		\/* Blessed	       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::blind	types.h	/^      int16 blind;		\/* Blindness counter   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::cold_resist	types.h	/^      int8u cold_resist;	\/* Resistance to cold  *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::confuse_monster	types.h	/^      int8u confuse_monster;	\/* Glowing hands.    *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::confused	types.h	/^      int16 confused;		\/* Confusion counter   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::detect_inv	types.h	/^      int16 detect_inv;		\/* Timed see invisible *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::fast	types.h	/^      int16 fast;		\/* Temp speed change   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::ffall	types.h	/^      int8u ffall;		\/* No damage falling   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::fire_resist	types.h	/^      int8u fire_resist;	\/* Resistance to fire  *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::food	types.h	/^      int16 food;		\/* Food counter	       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::food_digested	types.h	/^      int16 food_digested;	\/* Food per round      *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::free_act	types.h	/^      int8u free_act;		\/* Never paralyzed     *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::hero	types.h	/^      int16 hero;		\/* Heroism	       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::image	types.h	/^      int16 image;		\/* Hallucinate	       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::invuln	types.h	/^      int16 invuln;		\/* Increases AC	       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::lght_resist	types.h	/^      int8u lght_resist;	\/* Resistance to light *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::new_spells	types.h	/^      int8u new_spells;		\/* Number of spells can learn. *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::paralysis	types.h	/^      int16 paralysis;		\/* Paralysis counter   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::poisoned	types.h	/^      int16 poisoned;		\/* Poisoned	       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::protection	types.h	/^      int16 protection;		\/* Protection fr. evil *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::protevil	types.h	/^      int16 protevil;		\/* Protect VS evil     *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::regenerate	types.h	/^      int8u regenerate;		\/* Regenerate hit pts  *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::resist_cold	types.h	/^      int16 resist_cold;	\/* Timed cold resist   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::resist_heat	types.h	/^      int16 resist_heat;	\/* Timed heat resist   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::rest	types.h	/^      int16 rest;		\/* Rest counter	       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::see_infra	types.h	/^      int16 see_infra;		\/* See warm creatures  *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::see_inv	types.h	/^      int8u see_inv;		\/* Can see invisible   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::shero	types.h	/^      int16 shero;		\/* Super Heroism       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::slow	types.h	/^      int16 slow;		\/* Temp speed change   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::slow_digest	types.h	/^      int8u slow_digest;	\/* Lower food needs    *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::speed	types.h	/^      int16 speed;		\/* Cur speed adjust    *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::status	types.h	/^      int32u status;		\/* Status of player    *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::sustain_chr	types.h	/^      int8u sustain_chr;	\/* Keep charisma       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::sustain_con	types.h	/^      int8u sustain_con;	\/* Keep constitution   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::sustain_dex	types.h	/^      int8u sustain_dex;	\/* Keep dexterity      *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::sustain_int	types.h	/^      int8u sustain_int;	\/* Keep intelligence   *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::sustain_str	types.h	/^      int8u sustain_str;	\/* Keep strength       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::sustain_wis	types.h	/^      int8u sustain_wis;	\/* Keep wisdom	       *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::teleport	types.h	/^      int8u teleport;		\/* Random teleportation*\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::tim_infra	types.h	/^      int16 tim_infra;		\/* Timed infra vision  *\/$/;"	m	struct:player_type::flags	access:public
+player_type::flags::word_recall	types.h	/^      int16 word_recall;	\/* Timed teleport level*\/$/;"	m	struct:player_type::flags	access:public
+player_type::misc	types.h	/^    } misc;$/;"	m	struct:player_type	typeref:struct:player_type::misc	access:public
+player_type::misc	types.h	/^  struct misc$/;"	s	struct:player_type	access:public
+player_type::misc::age	types.h	/^      int16u age;	\/* Characters age	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::au	types.h	/^      int32 au;		\/* Gold			*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::bth	types.h	/^      int16 bth;	\/* Base to hit		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::bthb	types.h	/^      int16 bthb;	\/* BTH with bows	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::chp	types.h	/^      int16 chp;	\/* Cur hit pts		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::chp_frac	types.h	/^      int16u chp_frac;	\/* Cur hit fraction * 2^16 *\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::cmana	types.h	/^      int16 cmana;	\/* Cur mana pts		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::cmana_frac	types.h	/^      int16u cmana_frac; \/* Cur mana fraction * 2^16 *\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::dis_ac	types.h	/^      int16 dis_ac;	\/* Display +ToAC	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::dis_tac	types.h	/^      int16 dis_tac;	\/* Display +ToTAC	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::dis_td	types.h	/^      int16 dis_td;	\/* Display +ToDam	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::dis_th	types.h	/^      int16 dis_th;	\/* Display +ToHit	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::disarm	types.h	/^      int16 disarm;	\/* % to Disarm		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::exp	types.h	/^      int32 exp;	\/* Cur experience	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::exp_frac	types.h	/^      int16u exp_frac;	\/* Cur exp fraction * 2^16 *\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::expfact	types.h	/^      int8u expfact;	\/* Experience factor	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::fos	types.h	/^      int16 fos;	\/* Frenq of search	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::history	types.h	/^      char history[4][60]; \/* History record	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::hitdie	types.h	/^      int8u hitdie;	\/* Char hit die		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::ht	types.h	/^      int16u ht;	\/* Height		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::lev	types.h	/^      int16u lev;	\/* Level		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::male	types.h	/^      int8u male;	\/* Sex of character	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::mana	types.h	/^      int16 mana;	\/* Mana points		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::max_dlv	types.h	/^      int16u max_dlv;	\/* Max level explored	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::max_exp	types.h	/^      int32 max_exp;	\/* Max experience	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::mhp	types.h	/^      int16 mhp;	\/* Max hit pts		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::name	types.h	/^      char name[PLAYER_NAME_SIZE];	\/* Name of character	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::pac	types.h	/^      int16 pac;	\/* Total AC		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::pclass	types.h	/^      int8u pclass;	\/* # of class		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::prace	types.h	/^      int8u prace;	\/* # of race		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::ptoac	types.h	/^      int16 ptoac;	\/* Magical AC		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::ptodam	types.h	/^      int16 ptodam;	\/* Plusses to dam	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::ptohit	types.h	/^      int16 ptohit;	\/* Plusses to hit	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::save	types.h	/^      int16 save;	\/* Saving throw		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::sc	types.h	/^      int16 sc;		\/* Social Class		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::srh	types.h	/^      int16 srh;	\/* Chance in search	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::stl	types.h	/^      int16 stl;	\/* Stealth factor	*\/$/;"	m	struct:player_type::misc	access:public
+player_type::misc::wt	types.h	/^      int16u wt;	\/* Weight		*\/$/;"	m	struct:player_type::misc	access:public
+player_type::stats	types.h	/^    } stats;$/;"	m	struct:player_type	typeref:struct:player_type::stats	access:public
+player_type::stats	types.h	/^  struct stats$/;"	s	struct:player_type	access:public
+player_type::stats::cur_stat	types.h	/^      int8u cur_stat[6];	\/* What is natural *\/$/;"	m	struct:player_type::stats	access:public
+player_type::stats::max_stat	types.h	/^      int8u max_stat[6];	\/* What is restored *\/$/;"	m	struct:player_type::stats	access:public
+player_type::stats::mod_stat	types.h	/^      int16 mod_stat[6];	\/* What is modified, may be +\/- *\/$/;"	m	struct:player_type::stats	access:public
+player_type::stats::use_stat	types.h	/^      int8u use_stat[6];	\/* What is used *\/$/;"	m	struct:player_type::stats	access:public
+plural	recall.c	122;"	d	file:
+points	types.h	/^  int32 points;$/;"	m	struct:high_scores	access:public
+poison_gas	externs.h	/^void poison_gas();$/;"	p	signature:()
+poison_gas	externs.h	/^void poison_gas(int, char *);$/;"	p	signature:(int, char *)
+poison_gas	moria2.c	/^void poison_gas(dam, kb_str)$/;"	f
+poisoned	types.h	/^      int16 poisoned;		\/* Poisoned	       *\/$/;"	m	struct:player_type::flags	access:public
+poly_monster	externs.h	/^int poly_monster();$/;"	p	signature:()
+poly_monster	externs.h	/^int poly_monster(int, int, int);$/;"	p	signature:(int, int, int)
+poly_monster	spells.c	/^int poly_monster(dir, y, x)$/;"	f
+popm	externs.h	/^int popm();$/;"	p	signature:()
+popm	externs.h	/^int popm(void);$/;"	p	signature:(void)
+popm	misc1.c	/^int popm()$/;"	f
+popt	externs.h	/^int popt();$/;"	p	signature:()
+popt	externs.h	/^int popt(void);$/;"	p	signature:(void)
+popt	misc1.c	/^int popt()$/;"	f
+prace	types.h	/^      int8u prace;	\/* # of race		*\/$/;"	m	struct:player_type::misc	access:public
+pray	externs.h	/^void pray();$/;"	p	signature:()
+pray	externs.h	/^void pray(void);$/;"	p	signature:(void)
+pray	prayer.c	/^void pray()$/;"	f
+price_adjust	main.c	/^static void price_adjust()$/;"	f	file:
+price_adjust	main.c	/^static void price_adjust();$/;"	p	file:
+price_adjust	main.c	/^static void price_adjust(void);$/;"	p	file:	signature:(void)
+print	externs.h	/^void print();$/;"	p	signature:()
+print	externs.h	/^void print(char, int, int);$/;"	p	signature:(char, int, int)
+print	io.c	/^void print(ch, row, col)$/;"	f
+print_history	create.c	/^static void print_history()$/;"	f	file:
+print_history	create.c	/^static void print_history(void);$/;"	p	file:	signature:(void)
+print_objects	externs.h	/^void print_objects();$/;"	p	signature:()
+print_objects	externs.h	/^void print_objects(void);$/;"	p	signature:(void)
+print_objects	files.c	/^void print_objects()$/;"	f
+print_spells	externs.h	/^void print_spells();$/;"	p	signature:()
+print_spells	externs.h	/^void print_spells(int *, int, int, int);$/;"	p	signature:(int *, int, int, int)
+print_spells	misc3.c	/^void print_spells(spell, num, comment, nonconsec)$/;"	f
+print_tomb	death.c	/^static void print_tomb()$/;"	f	file:
+print_tomb	death.c	/^static void print_tomb(void);$/;"	p	file:	signature:(void)
+prompt_carry_flag	variable.c	/^int prompt_carry_flag = FALSE;$/;"	v
+protect_evil	externs.h	/^int protect_evil();$/;"	p	signature:()
+protect_evil	externs.h	/^int protect_evil(void);$/;"	p	signature:(void)
+protect_evil	spells.c	/^int protect_evil()$/;"	f
+protection	types.h	/^      int16 protection;		\/* Protection fr. evil *\/$/;"	m	struct:player_type::flags	access:public
+protevil	types.h	/^      int16 protevil;		\/* Protect VS evil     *\/$/;"	m	struct:player_type::flags	access:public
+prt	externs.h	/^void prt();$/;"	p	signature:()
+prt	externs.h	/^void prt(char *, int, int);$/;"	p	signature:(char *, int, int)
+prt	io.c	/^void prt(str_buff, row, col)$/;"	f
+prt_7lnum	misc3.c	/^static void prt_7lnum(char *, int32, int, int);$/;"	p	file:	signature:(char *, int32, int, int)
+prt_7lnum	misc3.c	/^static void prt_7lnum(header, num, row, column)$/;"	f	file:
+prt_afraid	externs.h	/^void prt_afraid();$/;"	p	signature:()
+prt_afraid	externs.h	/^void prt_afraid(void);$/;"	p	signature:(void)
+prt_afraid	misc3.c	/^void prt_afraid()$/;"	f
+prt_blind	externs.h	/^void prt_blind();$/;"	p	signature:()
+prt_blind	externs.h	/^void prt_blind(void);$/;"	p	signature:(void)
+prt_blind	misc3.c	/^void prt_blind()$/;"	f
+prt_chp	externs.h	/^void prt_chp();$/;"	p	signature:()
+prt_chp	externs.h	/^void prt_chp(void);$/;"	p	signature:(void)
+prt_chp	misc3.c	/^void prt_chp()$/;"	f
+prt_cmana	externs.h	/^void prt_cmana();$/;"	p	signature:()
+prt_cmana	externs.h	/^void prt_cmana(void);$/;"	p	signature:(void)
+prt_cmana	misc3.c	/^void prt_cmana()$/;"	f
+prt_comment1	store2.c	/^static void prt_comment1()$/;"	f	file:
+prt_comment1	store2.c	/^static void prt_comment1(void);$/;"	p	file:	signature:(void)
+prt_comment2	store2.c	/^static void prt_comment2(int32, int32, int);$/;"	p	file:	signature:(int32, int32, int)
+prt_comment2	store2.c	/^static void prt_comment2(offer, asking, final)$/;"	f	file:
+prt_comment3	store2.c	/^static void prt_comment3(int32, int32, int);$/;"	p	file:	signature:(int32, int32, int)
+prt_comment3	store2.c	/^static void prt_comment3(offer, asking, final)$/;"	f	file:
+prt_comment4	store2.c	/^static void prt_comment4()$/;"	f	file:
+prt_comment4	store2.c	/^static void prt_comment4(void);$/;"	p	file:	signature:(void)
+prt_comment5	store2.c	/^static void prt_comment5()$/;"	f	file:
+prt_comment5	store2.c	/^static void prt_comment5(void);$/;"	p	file:	signature:(void)
+prt_comment6	store2.c	/^static void prt_comment6()$/;"	f	file:
+prt_comment6	store2.c	/^static void prt_comment6(void);$/;"	p	file:	signature:(void)
+prt_confused	externs.h	/^void prt_confused();$/;"	p	signature:()
+prt_confused	externs.h	/^void prt_confused(void);$/;"	p	signature:(void)
+prt_confused	misc3.c	/^void prt_confused()$/;"	f
+prt_depth	externs.h	/^void prt_depth();$/;"	p	signature:()
+prt_depth	externs.h	/^void prt_depth(void);$/;"	p	signature:(void)
+prt_depth	misc3.c	/^void prt_depth()$/;"	f
+prt_experience	externs.h	/^void prt_experience();$/;"	p	signature:()
+prt_experience	externs.h	/^void prt_experience(void);$/;"	p	signature:(void)
+prt_experience	misc3.c	/^void prt_experience()$/;"	f
+prt_field	externs.h	/^void prt_field();$/;"	p	signature:()
+prt_field	externs.h	/^void prt_field(char *, int, int);$/;"	p	signature:(char *, int, int)
+prt_field	misc3.c	/^void prt_field(info, row, column)$/;"	f
+prt_gold	externs.h	/^void prt_gold();$/;"	p	signature:()
+prt_gold	externs.h	/^void prt_gold(void);$/;"	p	signature:(void)
+prt_gold	misc3.c	/^void prt_gold()$/;"	f
+prt_hunger	externs.h	/^void prt_hunger();$/;"	p	signature:()
+prt_hunger	externs.h	/^void prt_hunger(void);$/;"	p	signature:(void)
+prt_hunger	misc3.c	/^void prt_hunger()$/;"	f
+prt_int	misc3.c	/^static void prt_int(int, int, int);$/;"	p	file:	signature:(int, int, int)
+prt_int	misc3.c	/^static void prt_int(num, row, column)$/;"	f	file:
+prt_level	externs.h	/^void prt_level();$/;"	p	signature:()
+prt_level	externs.h	/^void prt_level(void);$/;"	p	signature:(void)
+prt_level	misc3.c	/^void prt_level()$/;"	f
+prt_lnum	misc3.c	/^static void prt_lnum(char *, int32, int, int);$/;"	p	file:	signature:(char *, int32, int, int)
+prt_lnum	misc3.c	/^static void prt_lnum(header, num, row, column)$/;"	f	file:
+prt_long	misc3.c	/^static void prt_long(int32, int, int);$/;"	p	file:	signature:(int32, int, int)
+prt_long	misc3.c	/^static void prt_long(num, row, column)$/;"	f	file:
+prt_map	externs.h	/^void prt_map();$/;"	p	signature:()
+prt_map	externs.h	/^void prt_map(void);$/;"	p	signature:(void)
+prt_map	misc1.c	/^void prt_map()$/;"	f
+prt_mhp	externs.h	/^void prt_mhp();$/;"	p	signature:()
+prt_mhp	externs.h	/^void prt_mhp(void);$/;"	p	signature:(void)
+prt_mhp	misc3.c	/^void prt_mhp()$/;"	f
+prt_num	misc3.c	/^static void prt_num(char *, int, int, int);$/;"	p	file:	signature:(char *, int, int, int)
+prt_num	misc3.c	/^static void prt_num(header, num, row, column)$/;"	f	file:
+prt_pac	externs.h	/^void prt_pac();$/;"	p	signature:()
+prt_pac	externs.h	/^void prt_pac(void);$/;"	p	signature:(void)
+prt_pac	misc3.c	/^void prt_pac()$/;"	f
+prt_poisoned	externs.h	/^void prt_poisoned();$/;"	p	signature:()
+prt_poisoned	externs.h	/^void prt_poisoned(void);$/;"	p	signature:(void)
+prt_poisoned	misc3.c	/^void prt_poisoned()$/;"	f
+prt_speed	externs.h	/^void prt_speed();$/;"	p	signature:()
+prt_speed	externs.h	/^void prt_speed(void);$/;"	p	signature:(void)
+prt_speed	misc3.c	/^void prt_speed ()$/;"	f
+prt_stat	externs.h	/^void prt_stat();$/;"	p	signature:()
+prt_stat	externs.h	/^void prt_stat(int);$/;"	p	signature:(int)
+prt_stat	misc3.c	/^void prt_stat(stat)$/;"	f
+prt_stat_block	externs.h	/^void prt_stat_block();$/;"	p	signature:()
+prt_stat_block	externs.h	/^void prt_stat_block(void);$/;"	p	signature:(void)
+prt_stat_block	misc3.c	/^void prt_stat_block()$/;"	f
+prt_state	externs.h	/^void prt_state();$/;"	p	signature:()
+prt_state	externs.h	/^void prt_state(void);$/;"	p	signature:(void)
+prt_state	misc3.c	/^void prt_state()$/;"	f
+prt_study	externs.h	/^void prt_study();$/;"	p	signature:()
+prt_study	externs.h	/^void prt_study(void);$/;"	p	signature:(void)
+prt_study	misc3.c	/^void prt_study()$/;"	f
+prt_title	externs.h	/^void prt_title();$/;"	p	signature:()
+prt_title	externs.h	/^void prt_title(void);$/;"	p	signature:(void)
+prt_title	misc3.c	/^void prt_title()$/;"	f
+prt_winner	externs.h	/^void prt_winner();$/;"	p	signature:()
+prt_winner	externs.h	/^void prt_winner(void);$/;"	p	signature:(void)
+prt_winner	misc3.c	/^void prt_winner()$/;"	f
+ptoac	types.h	/^      int16 ptoac;	\/* Magical AC		*\/$/;"	m	struct:player_type::misc	access:public
+ptodam	types.h	/^      int16 ptodam;	\/* Plusses to dam	*\/$/;"	m	struct:player_type::misc	access:public
+ptohit	types.h	/^      int16 ptohit;	\/* Plusses to hit	*\/$/;"	m	struct:player_type::misc	access:public
+purchase_haggle	store2.c	/^static int purchase_haggle(int, int32 *, struct inven_type *);$/;"	p	file:	signature:(int, int32 *, struct inven_type *)
+purchase_haggle	store2.c	/^static int purchase_haggle(store_num, price, item)$/;"	f	file:
+pusht	externs.h	/^void pusht();$/;"	p	signature:()
+pusht	externs.h	/^void pusht(int8u);$/;"	p	signature:(int8u)
+pusht	misc1.c	/^void pusht(x)$/;"	f
+put_buffer	externs.h	/^void put_buffer();$/;"	p	signature:()
+put_buffer	externs.h	/^void put_buffer(char *, int, int);$/;"	p	signature:(char *, int, int)
+put_buffer	io.c	/^void put_buffer(out_str, row, col)$/;"	f
+put_character	externs.h	/^void put_character();$/;"	p	signature:()
+put_character	externs.h	/^void put_character(void);$/;"	p	signature:(void)
+put_character	misc3.c	/^void put_character()$/;"	f
+put_misc1	externs.h	/^void put_misc1();$/;"	p	signature:()
+put_misc1	externs.h	/^void put_misc1(void);$/;"	p	signature:(void)
+put_misc1	misc3.c	/^void put_misc1()$/;"	f
+put_misc2	externs.h	/^void put_misc2();$/;"	p	signature:()
+put_misc2	externs.h	/^void put_misc2(void);$/;"	p	signature:(void)
+put_misc2	misc3.c	/^void put_misc2()$/;"	f
+put_misc3	externs.h	/^void put_misc3();$/;"	p	signature:()
+put_misc3	externs.h	/^void put_misc3(void);$/;"	p	signature:(void)
+put_misc3	misc3.c	/^void put_misc3()$/;"	f
+put_qio	externs.h	/^void put_qio();$/;"	p	signature:()
+put_qio	externs.h	/^void put_qio(void);$/;"	p	signature:(void)
+put_qio	io.c	/^void put_qio()$/;"	f
+put_stats	externs.h	/^void put_stats();$/;"	p	signature:()
+put_stats	externs.h	/^void put_stats(void);$/;"	p	signature:(void)
+put_stats	misc3.c	/^void put_stats()$/;"	f
+py	player.c	/^player_type py;$/;"	v
+py_attack	externs.h	/^void py_attack();$/;"	p	signature:()
+py_attack	externs.h	/^void py_attack(int, int);$/;"	p	signature:(int, int)
+py_attack	moria3.c	/^void py_attack(y, x)$/;"	f
+py_bash	moria4.c	/^static void py_bash(int, int);$/;"	p	file:	signature:(int, int)
+py_bash	moria4.c	/^static void py_bash(y, x)$/;"	f	file:
+py_bonuses	externs.h	/^void py_bonuses();$/;"	p	signature:()
+py_bonuses	externs.h	/^void py_bonuses(struct inven_type *, int);$/;"	p	signature:(struct inven_type *, int)
+py_bonuses	moria1.c	/^void py_bonuses(t_ptr, factor)$/;"	f
+quaff	externs.h	/^void quaff();$/;"	p	signature:()
+quaff	externs.h	/^void quaff(void);$/;"	p	signature:(void)
+quaff	potions.c	/^void quaff()$/;"	f
+r_attacks	types.h	/^    int8u r_attacks[MAX_MON_NATTACK];$/;"	m	struct:recall_type	access:public
+r_cdefense	types.h	/^    int16u r_cdefense;$/;"	m	struct:recall_type	access:public
+r_cmove	types.h	/^    int32u r_cmove;$/;"	m	struct:recall_type	access:public
+r_deaths	types.h	/^    int16u r_kills, r_deaths;$/;"	m	struct:recall_type	access:public
+r_ignore	types.h	/^    int8u r_wake, r_ignore;$/;"	m	struct:recall_type	access:public
+r_kills	types.h	/^    int16u r_kills, r_deaths;$/;"	m	struct:recall_type	access:public
+r_spells	types.h	/^    int32u r_spells;$/;"	m	struct:recall_type	access:public
+r_wake	types.h	/^    int8u r_wake, r_ignore;$/;"	m	struct:recall_type	access:public
+race	player.c	/^race_type *race;$/;"	v
+race	player.c	/^race_type race[MAX_RACES] = {$/;"	v
+race	types.h	/^  int8u race;$/;"	m	struct:high_scores	access:public
+race_type	types.h	/^typedef struct race_type$/;"	s
+race_type	types.h	/^} race_type;$/;"	t	typeref:struct:race_type
+race_type::b_age	types.h	/^  int8u b_age;	       \/* Base age of character		*\/$/;"	m	struct:race_type	access:public
+race_type::b_dis	types.h	/^  int16 b_dis;	       \/* base chance to disarm		*\/$/;"	m	struct:race_type	access:public
+race_type::b_exp	types.h	/^  int8u b_exp;	       \/* Base experience factor	*\/$/;"	m	struct:race_type	access:public
+race_type::bhitdie	types.h	/^  int8u bhitdie;	       \/* Base hit points for race	*\/$/;"	m	struct:race_type	access:public
+race_type::bsav	types.h	/^  int16 bsav;	       \/* Race base for saving throw	*\/$/;"	m	struct:race_type	access:public
+race_type::bth	types.h	/^  int16 bth;	       \/* adj base chance to hit	*\/$/;"	m	struct:race_type	access:public
+race_type::bthb	types.h	/^  int16 bthb;	       \/* adj base to hit with bows	*\/$/;"	m	struct:race_type	access:public
+race_type::chr_adj	types.h	/^  int16 chr_adj;$/;"	m	struct:race_type	access:public
+race_type::con_adj	types.h	/^  int16 con_adj;$/;"	m	struct:race_type	access:public
+race_type::dex_adj	types.h	/^  int16 dex_adj;$/;"	m	struct:race_type	access:public
+race_type::f_b_ht	types.h	/^  int8u f_b_ht;	      \/* base height females		*\/$/;"	m	struct:race_type	access:public
+race_type::f_b_wt	types.h	/^  int8u f_b_wt;	      \/* base weight for female	*\/$/;"	m	struct:race_type	access:public
+race_type::f_m_ht	types.h	/^  int8u f_m_ht;	      \/* mod height for females	*\/$/;"	m	struct:race_type	access:public
+race_type::f_m_wt	types.h	/^  int8u f_m_wt;	      \/* mod weight for females	*\/$/;"	m	struct:race_type	access:public
+race_type::fos	types.h	/^  int16 fos;	       \/* frequency of auto search	*\/$/;"	m	struct:race_type	access:public
+race_type::infra	types.h	/^  int8u infra;	       \/* See infra-red			*\/$/;"	m	struct:race_type	access:public
+race_type::int_adj	types.h	/^  int16 int_adj;$/;"	m	struct:race_type	access:public
+race_type::m_age	types.h	/^  int8u m_age;	       \/* Maximum age of character	*\/$/;"	m	struct:race_type	access:public
+race_type::m_b_ht	types.h	/^  int8u m_b_ht;	      \/* base height for males		*\/$/;"	m	struct:race_type	access:public
+race_type::m_b_wt	types.h	/^  int8u m_b_wt;	      \/* base weight for males		*\/$/;"	m	struct:race_type	access:public
+race_type::m_m_ht	types.h	/^  int8u m_m_ht;	      \/* mod height for males		*\/$/;"	m	struct:race_type	access:public
+race_type::m_m_wt	types.h	/^  int8u m_m_wt;	      \/* mod weight for males		*\/$/;"	m	struct:race_type	access:public
+race_type::rtclass	types.h	/^  int8u rtclass;       \/* Bit field for class types	*\/$/;"	m	struct:race_type	access:public
+race_type::srh	types.h	/^  int16 srh;	       \/* base chance for search	*\/$/;"	m	struct:race_type	access:public
+race_type::stl	types.h	/^  int16 stl;	       \/* Stealth of character		*\/$/;"	m	struct:race_type	access:public
+race_type::str_adj	types.h	/^  int16 str_adj;	\/* adjustments			*\/$/;"	m	struct:race_type	access:public
+race_type::trace	types.h	/^  char	*trace;		\/* Type of race			*\/$/;"	m	struct:race_type	access:public
+race_type::wis_adj	types.h	/^  int16 wis_adj;$/;"	m	struct:race_type	access:public
+rand_dir	generate.c	/^static void rand_dir(int *,int *);$/;"	p	file:	signature:(int *,int *)
+rand_dir	generate.c	/^static void rand_dir(rdir, cdir)$/;"	f	file:
+randes_seed	variable.c	/^int32u randes_seed;		\/* for restarting randes_state *\/$/;"	v
+randint	externs.h	/^int randint();$/;"	p	signature:()
+randint	externs.h	/^int randint(int);$/;"	p	signature:(int)
+randint	misc1.c	/^int randint(maxval)$/;"	f
+randnor	externs.h	/^int randnor();$/;"	p	signature:()
+randnor	externs.h	/^int randnor(int, int);$/;"	p	signature:(int, int)
+randnor	misc1.c	/^int randnor(mean, stand)$/;"	f
+random_object	externs.h	/^void random_object();$/;"	p	signature:()
+random_object	externs.h	/^void random_object(int, int, int);$/;"	p	signature:(int, int, int)
+random_object	misc3.c	/^void random_object(y, x, num)$/;"	f
+rd_byte	save.c	/^static void rd_byte();$/;"	p	file:
+rd_byte	save.c	/^static void rd_byte(int8u *);$/;"	p	file:	signature:(int8u *)
+rd_byte	save.c	/^static void rd_byte(ptr)$/;"	f	file:
+rd_bytes	save.c	/^static void rd_bytes();$/;"	p	file:
+rd_bytes	save.c	/^static void rd_bytes(ch_ptr, count)$/;"	f	file:
+rd_bytes	save.c	/^static void rd_bytes(int8u *, int);$/;"	p	file:	signature:(int8u *, int)
+rd_highscore	externs.h	/^void rd_highscore();$/;"	p	signature:()
+rd_highscore	externs.h	/^void rd_highscore(high_scores *);$/;"	p	signature:(high_scores *)
+rd_highscore	save.c	/^void rd_highscore(score)$/;"	f
+rd_item	save.c	/^static void rd_item();$/;"	p	file:
+rd_item	save.c	/^static void rd_item(inven_type *);$/;"	p	file:	signature:(inven_type *)
+rd_item	save.c	/^static void rd_item(item)$/;"	f	file:
+rd_long	save.c	/^static void rd_long();$/;"	p	file:
+rd_long	save.c	/^static void rd_long(int32u *);$/;"	p	file:	signature:(int32u *)
+rd_long	save.c	/^static void rd_long(ptr)$/;"	f	file:
+rd_monster	save.c	/^static void rd_monster();$/;"	p	file:
+rd_monster	save.c	/^static void rd_monster(mon)$/;"	f	file:
+rd_monster	save.c	/^static void rd_monster(monster_type *);$/;"	p	file:	signature:(monster_type *)
+rd_short	save.c	/^static void rd_short();$/;"	p	file:
+rd_short	save.c	/^static void rd_short(int16u *);$/;"	p	file:	signature:(int16u *)
+rd_short	save.c	/^static void rd_short(ptr)$/;"	f	file:
+rd_shorts	save.c	/^static void rd_shorts();$/;"	p	file:
+rd_shorts	save.c	/^static void rd_shorts(int16u *, int);$/;"	p	file:	signature:(int16u *, int)
+rd_shorts	save.c	/^static void rd_shorts(ptr, count)$/;"	f	file:
+rd_string	save.c	/^static void rd_string();$/;"	p	file:
+rd_string	save.c	/^static void rd_string(char *);$/;"	p	file:	signature:(char *)
+rd_string	save.c	/^static void rd_string(str)$/;"	f	file:
+read_scroll	externs.h	/^void read_scroll();$/;"	p	signature:()
+read_scroll	externs.h	/^void read_scroll(void);$/;"	p	signature:(void)
+read_scroll	scrolls.c	/^void read_scroll()$/;"	f
+read_times	externs.h	/^void read_times();$/;"	p	signature:()
+read_times	externs.h	/^void read_times(void);$/;"	p	signature:(void)
+read_times	files.c	/^void read_times()$/;"	f
+recall_type	types.h	/^  } recall_type;$/;"	t	typeref:struct:recall_type
+recall_type	types.h	/^typedef struct recall_type	\/* Monster memories. -CJS- *\/$/;"	s
+recall_type::r_attacks	types.h	/^    int8u r_attacks[MAX_MON_NATTACK];$/;"	m	struct:recall_type	access:public
+recall_type::r_cdefense	types.h	/^    int16u r_cdefense;$/;"	m	struct:recall_type	access:public
+recall_type::r_cmove	types.h	/^    int32u r_cmove;$/;"	m	struct:recall_type	access:public
+recall_type::r_deaths	types.h	/^    int16u r_kills, r_deaths;$/;"	m	struct:recall_type	access:public
+recall_type::r_ignore	types.h	/^    int8u r_wake, r_ignore;$/;"	m	struct:recall_type	access:public
+recall_type::r_kills	types.h	/^    int16u r_kills, r_deaths;$/;"	m	struct:recall_type	access:public
+recall_type::r_spells	types.h	/^    int32u r_spells;$/;"	m	struct:recall_type	access:public
+recall_type::r_wake	types.h	/^    int8u r_wake, r_ignore;$/;"	m	struct:recall_type	access:public
+receive_offer	store2.c	/^static int receive_offer(int, char *, int32 *, int32, int, int);$/;"	p	file:	signature:(int, char *, int32 *, int32, int, int)
+receive_offer	store2.c	/^static int receive_offer(store_num, comment, new_offer, last_offer,$/;"	f	file:
+recharge	externs.h	/^int recharge();$/;"	p	signature:()
+recharge	externs.h	/^int recharge(int);$/;"	p	signature:(int)
+recharge	spells.c	/^int recharge(num)$/;"	f
+refill_lamp	dungeon.c	/^static void refill_lamp()$/;"	f	file:
+refill_lamp	dungeon.c	/^static void refill_lamp();$/;"	p	file:
+refill_lamp	dungeon.c	/^static void refill_lamp(void);$/;"	p	file:	signature:(void)
+regenerate	types.h	/^      int8u regenerate;		\/* Regenerate hit pts  *\/$/;"	m	struct:player_type::flags	access:public
+regenhp	dungeon.c	/^static void regenhp();$/;"	p	file:
+regenhp	dungeon.c	/^static void regenhp(int);$/;"	p	file:	signature:(int)
+regenhp	dungeon.c	/^static void regenhp(percent)$/;"	f	file:
+regenmana	dungeon.c	/^static void regenmana();$/;"	p	file:
+regenmana	dungeon.c	/^static void regenmana(int);$/;"	p	file:	signature:(int)
+regenmana	dungeon.c	/^static void regenmana(percent)$/;"	f	file:
+register	config.h	291;"	d
+remove_curse	externs.h	/^int remove_curse();$/;"	p	signature:()
+remove_curse	externs.h	/^int remove_curse(void);$/;"	p	signature:(void)
+remove_curse	spells.c	/^int remove_curse()$/;"	f
+remove_fear	externs.h	/^int remove_fear();$/;"	p	signature:()
+remove_fear	externs.h	/^int remove_fear(void);$/;"	p	signature:(void)
+remove_fear	spells.c	/^int remove_fear()$/;"	f
+replace_spot	spells.c	/^static void replace_spot();$/;"	p	file:
+replace_spot	spells.c	/^static void replace_spot(int, int, int);$/;"	p	file:	signature:(int, int, int)
+replace_spot	spells.c	/^static void replace_spot(y, x, typ)$/;"	f	file:
+res_stat	externs.h	/^int res_stat();$/;"	p	signature:()
+res_stat	externs.h	/^int res_stat(int);$/;"	p	signature:(int)
+res_stat	misc3.c	/^int res_stat (stat)$/;"	f
+reset_seed	externs.h	/^void reset_seed();$/;"	p	signature:()
+reset_seed	externs.h	/^void reset_seed(void);$/;"	p	signature:(void)
+reset_seed	misc1.c	/^void reset_seed()$/;"	f
+resist_cold	types.h	/^      int16 resist_cold;	\/* Timed cold resist   *\/$/;"	m	struct:player_type::flags	access:public
+resist_heat	types.h	/^      int16 resist_heat;	\/* Timed heat resist   *\/$/;"	m	struct:player_type::flags	access:public
+rest	externs.h	/^void rest();$/;"	p	signature:()
+rest	externs.h	/^void rest(void);$/;"	p	signature:(void)
+rest	moria1.c	/^void rest()$/;"	f
+rest	types.h	/^      int16 rest;		\/* Rest counter	       *\/$/;"	m	struct:player_type::flags	access:public
+rest_off	externs.h	/^void rest_off();$/;"	p	signature:()
+rest_off	externs.h	/^void rest_off(void);$/;"	p	signature:(void)
+rest_off	moria1.c	/^void rest_off()$/;"	f
+restore_level	externs.h	/^int restore_level();$/;"	p	signature:()
+restore_level	externs.h	/^int restore_level(void);$/;"	p	signature:(void)
+restore_level	spells.c	/^int restore_level()$/;"	f
+restore_screen	externs.h	/^void restore_screen();$/;"	p	signature:()
+restore_screen	externs.h	/^void restore_screen(void);$/;"	p	signature:(void)
+restore_screen	io.c	/^void restore_screen()$/;"	f
+restore_signals	externs.h	/^void restore_signals();$/;"	p	signature:()
+restore_signals	externs.h	/^void restore_signals(void);$/;"	p	signature:(void)
+restore_signals	signals.c	/^void restore_signals()$/;"	f
+restore_term	externs.h	/^void restore_term();$/;"	p	signature:()
+restore_term	externs.h	/^void restore_term(void);$/;"	p	signature:(void)
+restore_term	io.c	/^void restore_term()$/;"	f
+rgold_adj	tables.c	/^int8u rgold_adj[MAX_RACES][MAX_RACES] = {$/;"	v
+rnd	externs.h	/^int32 rnd();$/;"	p	signature:()
+rnd	externs.h	/^int32 rnd(void);$/;"	p	signature:(void)
+rnd	rnd.c	/^int32 rnd ()$/;"	f
+rnd_seed	rnd.c	/^static int32u rnd_seed;$/;"	v	file:
+rocks	tables.c	/^char **rocks;$/;"	v
+rocks	tables.c	/^char *rocks[MAX_ROCKS] = {$/;"	v
+roff	recall.c	/^static void roff();$/;"	p	file:
+roff	recall.c	/^static void roff(char *);$/;"	p	file:	signature:(char *)
+roff	recall.c	/^static void roff(p)$/;"	f	file:
+roff_recall	externs.h	/^int roff_recall();$/;"	p	signature:()
+roff_recall	externs.h	/^int roff_recall(int);$/;"	p	signature:(int)
+roff_recall	recall.c	/^int roff_recall(mon_num)$/;"	f
+roffbuf	recall.c	/^static vtype roffbuf;		\/* Line buffer. *\/$/;"	v	file:
+roffp	recall.c	/^static char *roffp;		\/* Pointer into line buffer. *\/$/;"	v	file:
+roffpline	recall.c	/^static int roffpline;		\/* Place to print line now being loaded. *\/$/;"	v	file:
+rogue_like_commands	variable.c	/^int rogue_like_commands;	\/* set in config.h\/main.c *\/$/;"	v
+roll	types.h	/^  int8u roll;		\/* Die roll needed for history	*\/$/;"	m	struct:background_type	access:public
+rtclass	types.h	/^  int8u rtclass;       \/* Bit field for class types	*\/$/;"	m	struct:race_type	access:public
+sample	desc.c	/^void sample (i_ptr)$/;"	f
+sample	externs.h	/^void sample();$/;"	p	signature:()
+sample	externs.h	/^void sample(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+save	types.h	/^      int16 save;	\/* Saving throw		*\/$/;"	m	struct:player_type::misc	access:public
+save_char	externs.h	/^int save_char();$/;"	p	signature:()
+save_char	externs.h	/^int save_char(int);$/;"	p	signature:(int)
+save_char	externs.h	/^int save_char(void);$/;"	p	signature:(void)
+save_char	save.c	/^int save_char()$/;"	f
+save_char	save.c	/^int save_char(always_ask)$/;"	f
+save_local_chars	io.c	/^static int save_local_chars;$/;"	v	file:
+save_screen	externs.h	/^void save_screen();$/;"	p	signature:()
+save_screen	externs.h	/^void save_screen(void);$/;"	p	signature:(void)
+save_screen	io.c	/^void save_screen()$/;"	f
+save_special_chars	io.c	/^static struct ltchars save_special_chars;$/;"	v	typeref:struct:ltchars	file:
+save_tchars	io.c	/^static struct tchars save_tchars;$/;"	v	typeref:struct:tchars	file:
+save_termio	io.c	/^static struct termio save_termio;$/;"	v	typeref:struct:termio	file:
+save_termio	io.c	/^static struct termios save_termio;$/;"	v	typeref:struct:termios	file:
+save_ttyb	io.c	/^static struct sgttyb save_ttyb;$/;"	v	typeref:struct:sgttyb	file:
+savefile	variable.c	/^vtype savefile;			\/* The savefile to use. *\/$/;"	v
+savescr	io.c	/^static WINDOW *savescr;		\/* Spare window for saving the screen. -CJS-*\/$/;"	v	file:
+sc	types.h	/^      int16 sc;		\/* Social Class		*\/$/;"	m	struct:player_type::misc	access:public
+scost	types.h	/^  int32 scost;$/;"	m	struct:inven_record	access:public
+scr_base	moria1.c	/^static int scr_state, scr_left, scr_base;$/;"	v	file:
+scr_left	moria1.c	/^static int scr_state, scr_left, scr_base;$/;"	v	file:
+scr_state	moria1.c	/^static int scr_state, scr_left, scr_base;$/;"	v	file:
+screen	io.c	/^struct screen { int dumb; };$/;"	s	file:
+screen	unix.c	/^struct screen { int dumb; };$/;"	s	file:
+screen::dumb	io.c	/^struct screen { int dumb; };$/;"	m	struct:screen	file:	access:public
+screen::dumb	unix.c	/^struct screen { int dumb; };$/;"	m	struct:screen	file:	access:public
+screen_change	variable.c	/^int screen_change = FALSE;	\/* Track screen updates for inven_commands. *\/$/;"	v
+screen_map	externs.h	/^void screen_map();$/;"	p	signature:()
+screen_map	externs.h	/^void screen_map(void);$/;"	p	signature:(void)
+screen_map	io.c	/^void screen_map()$/;"	f
+scribe_object	externs.h	/^void scribe_object();$/;"	p	signature:()
+scribe_object	externs.h	/^void scribe_object(void);$/;"	p	signature:(void)
+scribe_object	misc4.c	/^void scribe_object()$/;"	f
+search	externs.h	/^void search();$/;"	p	signature:()
+search	externs.h	/^void search(int, int, int);$/;"	p	signature:(int, int, int)
+search	moria2.c	/^void search(y, x, chance)$/;"	f
+search_off	externs.h	/^void search_off();$/;"	p	signature:()
+search_off	externs.h	/^void search_off(void);$/;"	p	signature:(void)
+search_off	moria1.c	/^void search_off()$/;"	f
+search_on	externs.h	/^void search_on();$/;"	p	signature:()
+search_on	externs.h	/^void search_on(void);$/;"	p	signature:(void)
+search_on	moria1.c	/^void search_on()$/;"	f
+see_infra	types.h	/^      int16 see_infra;		\/* See warm creatures  *\/$/;"	m	struct:player_type::flags	access:public
+see_inv	types.h	/^      int8u see_inv;		\/* Can see invisible   *\/$/;"	m	struct:player_type::flags	access:public
+see_nothing	moria2.c	/^static int see_nothing(dir, y, x)$/;"	f	file:
+see_nothing	moria2.c	/^static int see_nothing(int, int, int);$/;"	p	file:	signature:(int, int, int)
+see_wall	moria2.c	/^static int see_wall();$/;"	p	file:
+see_wall	moria2.c	/^static int see_wall(dir, y, x)$/;"	f	file:
+see_wall	moria2.c	/^static int see_wall(int, int, int);$/;"	p	file:	signature:(int, int, int)
+sell_haggle	store2.c	/^static int sell_haggle(int, int32 *, struct inven_type *);$/;"	p	file:	signature:(int, int32 *, struct inven_type *)
+sell_haggle	store2.c	/^static int sell_haggle(store_num, price, item)$/;"	f	file:
+sell_price	externs.h	/^int32 sell_price();$/;"	p	signature:()
+sell_price	externs.h	/^int32 sell_price(int, int32 *, int32 *, struct inven_type *);$/;"	p	signature:(int, int32 *, int32 *, struct inven_type *)
+sell_price	store1.c	/^int32 sell_price(snum, max_sell, min_sell, item)$/;"	f
+set_acid_affect	externs.h	/^int set_acid_affect();$/;"	p	signature:()
+set_acid_affect	externs.h	/^int set_acid_affect(inven_type *);$/;"	p	signature:(inven_type *)
+set_acid_affect	sets.c	/^int set_acid_affect(item)$/;"	f
+set_acid_destroy	externs.h	/^int set_acid_destroy();$/;"	p	signature:()
+set_acid_destroy	externs.h	/^int set_acid_destroy(inven_type *);$/;"	p	signature:(inven_type *)
+set_acid_destroy	sets.c	/^int set_acid_destroy(item)$/;"	f
+set_corr	externs.h	/^int set_corr();$/;"	p	signature:()
+set_corr	externs.h	/^int set_corr(int);$/;"	p	signature:(int)
+set_corr	sets.c	/^int set_corr(element)$/;"	f
+set_corrodes	externs.h	/^int set_corrodes();$/;"	p	signature:()
+set_corrodes	externs.h	/^int set_corrodes(inven_type *);$/;"	p	signature:(inven_type *)
+set_corrodes	sets.c	/^int set_corrodes(item)$/;"	f
+set_fileptr	externs.h	/^void set_fileptr();$/;"	p	signature:()
+set_fileptr	externs.h	/^void set_fileptr(FILE *);$/;"	p	signature:(FILE *)
+set_fileptr	save.c	/^void set_fileptr(file)$/;"	f
+set_fire_destroy	externs.h	/^int set_fire_destroy();$/;"	p	signature:()
+set_fire_destroy	externs.h	/^int set_fire_destroy(inven_type *);$/;"	p	signature:(inven_type *)
+set_fire_destroy	sets.c	/^int set_fire_destroy(item)$/;"	f
+set_flammable	externs.h	/^int set_flammable();$/;"	p	signature:()
+set_flammable	externs.h	/^int set_flammable(inven_type *);$/;"	p	signature:(inven_type *)
+set_flammable	sets.c	/^int set_flammable(item)$/;"	f
+set_floor	externs.h	/^int set_floor();$/;"	p	signature:()
+set_floor	externs.h	/^int set_floor(int);$/;"	p	signature:(int)
+set_floor	sets.c	/^int set_floor(element)$/;"	f
+set_frost_destroy	externs.h	/^int set_frost_destroy();$/;"	p	signature:()
+set_frost_destroy	externs.h	/^int set_frost_destroy(inven_type *);$/;"	p	signature:(inven_type *)
+set_frost_destroy	sets.c	/^int set_frost_destroy(item)$/;"	f
+set_fxx	moria4.c	/^static int set_fxx[] = { 0,  0, -1,  1,	 0 };$/;"	v	file:
+set_fxy	moria4.c	/^static int set_fxy[] = { 0,  1,	 0,  0, -1 };$/;"	v	file:
+set_fyx	moria4.c	/^static int set_fyx[] = { 0,  1,	 0,  0, -1 };$/;"	v	file:
+set_fyy	moria4.c	/^static int set_fyy[] = { 0,  0,	 1, -1,	 0 };$/;"	v	file:
+set_large	externs.h	/^int set_large();$/;"	p	signature:()
+set_large	externs.h	/^int set_large(inven_type *);$/;"	p	signature:(inven_type *)
+set_large	sets.c	/^int set_large(item) \/* Items too large to fit in chests 	-DJG- *\/$/;"	f
+set_lightning_destroy	externs.h	/^int set_lightning_destroy();$/;"	p	signature:()
+set_lightning_destroy	externs.h	/^int set_lightning_destroy(inven_type *);$/;"	p	signature:(inven_type *)
+set_lightning_destroy	sets.c	/^int set_lightning_destroy(item)$/;"	f
+set_null	externs.h	/^int set_null();$/;"	p	signature:()
+set_null	externs.h	/^int set_null(inven_type *);$/;"	p	signature:(inven_type *)
+set_null	sets.c	/^int set_null(item)$/;"	f
+set_options	externs.h	/^void set_options();$/;"	p	signature:()
+set_options	externs.h	/^void set_options(void);$/;"	p	signature:(void)
+set_options	misc2.c	/^void set_options()$/;"	f
+set_rnd_seed	externs.h	/^void set_rnd_seed();$/;"	p	signature:()
+set_rnd_seed	externs.h	/^void set_rnd_seed(int32u);$/;"	p	signature:(int32u)
+set_rnd_seed	rnd.c	/^void set_rnd_seed (seedval)$/;"	f
+set_room	externs.h	/^int set_room();$/;"	p	signature:()
+set_room	externs.h	/^int set_room(int);$/;"	p	signature:(int)
+set_room	sets.c	/^int set_room(element)$/;"	f
+set_seed	externs.h	/^void set_seed();$/;"	p	signature:()
+set_seed	externs.h	/^void set_seed(int32u);$/;"	p	signature:(int32u)
+set_seed	misc1.c	/^void set_seed(seed)$/;"	f
+set_use_stat	externs.h	/^void set_use_stat();$/;"	p	signature:()
+set_use_stat	externs.h	/^void set_use_stat(int);$/;"	p	signature:(int)
+set_use_stat	misc3.c	/^void set_use_stat(stat)$/;"	f
+sex	types.h	/^  int8u sex;$/;"	m	struct:high_scores	access:public
+sexp	types.h	/^  int8u sexp;	\/* 1\/4 of exp gained for learning spell *\/$/;"	m	struct:spell_type	access:public
+sfail	types.h	/^  int8u sfail;$/;"	m	struct:spell_type	access:public
+shell_out	externs.h	/^void shell_out();$/;"	p	signature:()
+shell_out	externs.h	/^void shell_out(void);$/;"	p	signature:(void)
+shell_out	io.c	/^void shell_out()$/;"	f
+shero	types.h	/^      int16 shero;		\/* Super Heroism       *\/$/;"	m	struct:player_type::flags	access:public
+show_equip	externs.h	/^int show_equip();$/;"	p	signature:()
+show_equip	externs.h	/^int show_equip(int, int);$/;"	p	signature:(int, int)
+show_equip	moria1.c	/^int show_equip(weight, col)$/;"	f
+show_inven	externs.h	/^int show_inven();$/;"	p	signature:()
+show_inven	externs.h	/^int show_inven(int, int, int, int, char *);$/;"	p	signature:(int, int, int, int, char *)
+show_inven	moria1.c	/^int show_inven(r1, r2, weight, col, mask)$/;"	f
+show_weight_flag	variable.c	/^int show_weight_flag = FALSE;$/;"	v
+signal_count	signals.c	/^static int signal_count = 0;$/;"	v	file:
+signal_handler	signals.c	/^static void signal_handler(sig, code, scp)$/;"	f	file:
+signals	externs.h	/^void signals();$/;"	p	signature:()
+signals	externs.h	/^void signals(void);$/;"	p	signature:(void)
+signals	signals.c	/^void signals()$/;"	f
+sitem	types.h	/^  inven_type sitem;$/;"	m	struct:inven_record	access:public
+sleep	externs.h	/^unsigned int sleep();$/;"	p	signature:()
+sleep	externs.h	/^unsigned int sleep(int);$/;"	p	signature:(int)
+sleep	externs.h	/^void sleep();$/;"	p	signature:()
+sleep	externs.h	/^void sleep(unsigned);$/;"	p	signature:(unsigned)
+sleep	io.c	/^unsigned sleep();$/;"	p	file:
+sleep	io.c	/^void sleep();$/;"	p	file:
+sleep	signals.c	/^unsigned sleep();$/;"	p	file:
+sleep	signals.c	/^void sleep();$/;"	p	file:
+sleep	types.h	/^  int8u sleep;		\/* Inactive counter\/10	*\/$/;"	m	struct:creature_type	access:public
+sleep_monster	externs.h	/^int sleep_monster();$/;"	p	signature:()
+sleep_monster	externs.h	/^int sleep_monster(int, int, int);$/;"	p	signature:(int, int, int)
+sleep_monster	spells.c	/^int sleep_monster(dir, y, x)$/;"	f
+sleep_monsters1	externs.h	/^int sleep_monsters1();$/;"	p	signature:()
+sleep_monsters1	externs.h	/^int sleep_monsters1(int, int);$/;"	p	signature:(int, int)
+sleep_monsters1	spells.c	/^int sleep_monsters1(y, x)$/;"	f
+sleep_monsters2	externs.h	/^int sleep_monsters2();$/;"	p	signature:()
+sleep_monsters2	externs.h	/^int sleep_monsters2(void);$/;"	p	signature:(void)
+sleep_monsters2	spells.c	/^int sleep_monsters2()$/;"	f
+slevel	types.h	/^  int8u slevel;$/;"	m	struct:spell_type	access:public
+slow	types.h	/^      int16 slow;		\/* Temp speed change   *\/$/;"	m	struct:player_type::flags	access:public
+slow_digest	types.h	/^      int8u slow_digest;	\/* Lower food needs    *\/$/;"	m	struct:player_type::flags	access:public
+slow_poison	externs.h	/^int slow_poison();$/;"	p	signature:()
+slow_poison	externs.h	/^int slow_poison(void);$/;"	p	signature:(void)
+slow_poison	spells.c	/^int slow_poison()$/;"	f
+smana	types.h	/^  int8u smana;$/;"	m	struct:spell_type	access:public
+sorted_objects	treasure.c	/^int16 sorted_objects[MAX_DUNGEON_OBJ];$/;"	v
+sound_beep_flag	variable.c	/^int sound_beep_flag = TRUE;$/;"	v
+special_names	treasure.c	/^char *special_names[SN_ARRAY_SIZE] = {$/;"	v
+speed	types.h	/^      int16 speed;		\/* Cur speed adjust    *\/$/;"	m	struct:player_type::flags	access:public
+speed	types.h	/^  int8u speed;		\/* Movement speed+10	*\/$/;"	m	struct:creature_type	access:public
+speed_monster	externs.h	/^int speed_monster();$/;"	p	signature:()
+speed_monster	externs.h	/^int speed_monster(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+speed_monster	spells.c	/^int speed_monster(dir, y, x, spd)$/;"	f
+speed_monsters	externs.h	/^int speed_monsters();$/;"	p	signature:()
+speed_monsters	externs.h	/^int speed_monsters(int);$/;"	p	signature:(int)
+speed_monsters	spells.c	/^int speed_monsters(spd)$/;"	f
+spell	types.h	/^  int8u spell;		\/* class use mage spells	*\/$/;"	m	struct:class_type	access:public
+spell_chance	externs.h	/^int spell_chance();$/;"	p	signature:()
+spell_chance	externs.h	/^int spell_chance(int);$/;"	p	signature:(int)
+spell_chance	misc3.c	/^int spell_chance(spell)$/;"	f
+spell_forgotten	player.c	/^int32u spell_forgotten = 0;	\/* bit mask of spells learned but forgotten *\/$/;"	v
+spell_learned	player.c	/^int32u spell_learned = 0;	\/* bit mask of spells learned *\/$/;"	v
+spell_names	player.c	/^char *spell_names[62] = {$/;"	v
+spell_order	player.c	/^int8u spell_order[32];		\/* order spells learned\/remembered\/forgotten *\/$/;"	v
+spell_type	types.h	/^typedef struct spell_type$/;"	s
+spell_type	types.h	/^} spell_type;$/;"	t	typeref:struct:spell_type
+spell_type::sexp	types.h	/^  int8u sexp;	\/* 1\/4 of exp gained for learning spell *\/$/;"	m	struct:spell_type	access:public
+spell_type::sfail	types.h	/^  int8u sfail;$/;"	m	struct:spell_type	access:public
+spell_type::slevel	types.h	/^  int8u slevel;$/;"	m	struct:spell_type	access:public
+spell_type::smana	types.h	/^  int8u smana;$/;"	m	struct:spell_type	access:public
+spell_worked	player.c	/^int32u spell_worked = 0;	\/* bit mask of spells tried and worked *\/$/;"	v
+spells	types.h	/^  int32u spells;	\/* Creature spells	*\/$/;"	m	struct:creature_type	access:public
+srh	types.h	/^      int16 srh;	\/* Chance in search	*\/$/;"	m	struct:player_type::misc	access:public
+srh	types.h	/^  int16 srh;	       \/* base chance for search	*\/$/;"	m	struct:race_type	access:public
+starlite	externs.h	/^void starlite();$/;"	p	signature:()
+starlite	externs.h	/^void starlite(int, int);$/;"	p	signature:(int, int)
+starlite	spells.c	/^void starlite(y, x)$/;"	f
+start_time	save.c	/^static int32u start_time;	\/* time that play started *\/$/;"	v	file:
+stat_adj	externs.h	/^int stat_adj();$/;"	p	signature:()
+stat_adj	externs.h	/^int stat_adj(int);$/;"	p	signature:(int)
+stat_adj	misc3.c	/^int stat_adj(stat)$/;"	f
+stat_names	misc3.c	/^static char *stat_names[] = { "STR : ", "INT : ", "WIS : ",$/;"	v	file:
+stat_type	types.h	/^typedef char stat_type[7];$/;"	t
+stats	types.h	/^    } stats;$/;"	m	struct:player_type	typeref:struct:player_type::stats	access:public
+stats	types.h	/^  struct stats$/;"	s	struct:player_type	access:public
+status	types.h	/^      int32u status;		\/* Status of player    *\/$/;"	m	struct:player_type::flags	access:public
+stl	types.h	/^      int16 stl;	\/* Stealth factor	*\/$/;"	m	struct:player_type::misc	access:public
+stl	types.h	/^  int16 stl;	       \/* Stealth of character		*\/$/;"	m	struct:race_type	access:public
+store	tables.c	/^store_type *store;$/;"	v
+store	tables.c	/^store_type store[MAX_STORES];$/;"	v
+store_bought	desc.c	/^void store_bought(i_ptr)$/;"	f
+store_bought	externs.h	/^void store_bought();$/;"	p	signature:()
+store_bought	externs.h	/^void store_bought(inven_type *);$/;"	p	signature:(inven_type *)
+store_bought_p	desc.c	/^int store_bought_p(i_ptr)$/;"	f
+store_bought_p	externs.h	/^int store_bought_p();$/;"	p	signature:()
+store_bought_p	externs.h	/^int store_bought_p(inven_type *);$/;"	p	signature:(inven_type *)
+store_buy	externs.h	/^int store_buy();$/;"	p	signature:()
+store_buy	externs.h	/^int store_buy(int, int);$/;"	p	signature:(int, int)
+store_buy	sets.c	/^int store_buy(storeno, element)$/;"	f
+store_buy	tables.c	/^int (*store_buy[MAX_STORES])() = {$/;"	v
+store_carry	externs.h	/^void store_carry();$/;"	p	signature:()
+store_carry	externs.h	/^void store_carry(int, int *, struct inven_type *);$/;"	p	signature:(int, int *, struct inven_type *)
+store_carry	store1.c	/^void store_carry(store_num, ipos, t_ptr)$/;"	f
+store_check_num	externs.h	/^int store_check_num();$/;"	p	signature:()
+store_check_num	externs.h	/^int store_check_num(struct inven_type *, int);$/;"	p	signature:(struct inven_type *, int)
+store_check_num	store1.c	/^int store_check_num(t_ptr, store_num)$/;"	f
+store_choice	tables.c	/^int16u store_choice[MAX_STORES][STORE_CHOICES] = {$/;"	v
+store_create	store1.c	/^static void store_create();$/;"	p	file:
+store_create	store1.c	/^static void store_create(int);$/;"	p	file:	signature:(int)
+store_create	store1.c	/^static void store_create(store_num)$/;"	f	file:
+store_ctr	types.h	/^  int8u store_ctr;$/;"	m	struct:store_type	access:public
+store_destroy	externs.h	/^void store_destroy();$/;"	p	signature:()
+store_destroy	externs.h	/^void store_destroy(int, int, int);$/;"	p	signature:(int, int, int)
+store_destroy	store1.c	/^void store_destroy(store_num, item_val, one_of)$/;"	f
+store_init	externs.h	/^void store_init();$/;"	p	signature:()
+store_init	externs.h	/^void store_init(void);$/;"	p	signature:(void)
+store_init	store1.c	/^void store_init()$/;"	f
+store_inven	types.h	/^  inven_record store_inven[STORE_INVEN_MAX];$/;"	m	struct:store_type	access:public
+store_maint	externs.h	/^void store_maint();$/;"	p	signature:()
+store_maint	externs.h	/^void store_maint(void);$/;"	p	signature:(void)
+store_maint	store1.c	/^void store_maint()$/;"	f
+store_open	types.h	/^  int32 store_open;$/;"	m	struct:store_type	access:public
+store_prt_gold	store2.c	/^static void store_prt_gold()$/;"	f	file:
+store_prt_gold	store2.c	/^static void store_prt_gold(void);$/;"	p	file:	signature:(void)
+store_purchase	store2.c	/^static int store_purchase(int, int *);$/;"	p	file:	signature:(int, int *)
+store_purchase	store2.c	/^static int store_purchase(store_num, cur_top)$/;"	f	file:
+store_sell	store2.c	/^static int store_sell(int, int *);$/;"	p	file:	signature:(int, int *)
+store_sell	store2.c	/^static int store_sell(store_num, cur_top)$/;"	f	file:
+store_type	types.h	/^typedef struct store_type$/;"	s
+store_type	types.h	/^} store_type;$/;"	t	typeref:struct:store_type
+store_type::bad_buy	types.h	/^  int16u bad_buy;$/;"	m	struct:store_type	access:public
+store_type::good_buy	types.h	/^  int16u good_buy;$/;"	m	struct:store_type	access:public
+store_type::insult_cur	types.h	/^  int16 insult_cur;$/;"	m	struct:store_type	access:public
+store_type::owner	types.h	/^  int8u owner;$/;"	m	struct:store_type	access:public
+store_type::store_ctr	types.h	/^  int8u store_ctr;$/;"	m	struct:store_type	access:public
+store_type::store_inven	types.h	/^  inven_record store_inven[STORE_INVEN_MAX];$/;"	m	struct:store_type	access:public
+store_type::store_open	types.h	/^  int32 store_open;$/;"	m	struct:store_type	access:public
+str_adj	types.h	/^  int16 str_adj;	\/* adjustments			*\/$/;"	m	struct:race_type	access:public
+strcat	creature.c	/^char *strcat();$/;"	p	file:
+strcat	files.c	/^char *strcat();$/;"	p	file:
+strcat	moria1.c	/^char *strcat();$/;"	p	file:
+strcpy	creature.c	/^char *strcpy();$/;"	p	file:
+strlen	moria1.c	/^int strlen();$/;"	p	file:
+stuff	io.c	/^typedef struct { int stuff; } fpvmach;$/;"	m	struct:__anon1	file:	access:public
+stuff	signals.c	/^typedef struct { int stuff; } fpvmach;$/;"	m	struct:__anon3	file:	access:public
+stuff	unix.c	/^typedef struct { int stuff; } fpvmach;$/;"	m	struct:__anon2	file:	access:public
+stunned	types.h	/^  int8u stunned;$/;"	m	struct:monster_type	access:public
+sub1_move_light	moria1.c	/^static void sub1_move_light(int, int, int, int);$/;"	p	file:	signature:(int, int, int, int)
+sub1_move_light	moria1.c	/^static void sub1_move_light(y1, x1, y2, x2)$/;"	f	file:
+sub3_move_light	moria1.c	/^static void sub3_move_light(int, int, int, int);$/;"	p	file:	signature:(int, int, int, int)
+sub3_move_light	moria1.c	/^static void sub3_move_light(y1, x1, y2, x2)$/;"	f	file:
+subval	types.h	/^  int8u subval;		\/* Sub-category number	*\/$/;"	m	struct:inven_type	access:public
+subval	types.h	/^  int8u subval;		\/* Sub-category number	*\/$/;"	m	struct:treasure_type	access:public
+summon_monster	externs.h	/^int summon_monster();$/;"	p	signature:()
+summon_monster	externs.h	/^int summon_monster(int * ,int *, int);$/;"	p	signature:(int * ,int *, int)
+summon_monster	misc1.c	/^int summon_monster(y, x, slp)$/;"	f
+summon_object	moria3.c	/^static int summon_object(int, int, int, int);$/;"	p	file:	signature:(int, int, int, int)
+summon_object	moria3.c	/^static int summon_object(y, x, num, typ)$/;"	f	file:
+summon_undead	externs.h	/^int summon_undead();$/;"	p	signature:()
+summon_undead	externs.h	/^int summon_undead(int *, int *);$/;"	p	signature:(int *, int *)
+summon_undead	misc1.c	/^int summon_undead(y, x)$/;"	f
+suspend	externs.h	/^int suspend();$/;"	p	signature:()
+suspend	externs.h	/^int suspend(void);$/;"	p	signature:(void)
+suspend	io.c	/^int suspend()$/;"	f
+sustain_chr	types.h	/^      int8u sustain_chr;	\/* Keep charisma       *\/$/;"	m	struct:player_type::flags	access:public
+sustain_con	types.h	/^      int8u sustain_con;	\/* Keep constitution   *\/$/;"	m	struct:player_type::flags	access:public
+sustain_dex	types.h	/^      int8u sustain_dex;	\/* Keep dexterity      *\/$/;"	m	struct:player_type::flags	access:public
+sustain_int	types.h	/^      int8u sustain_int;	\/* Keep intelligence   *\/$/;"	m	struct:player_type::flags	access:public
+sustain_str	types.h	/^      int8u sustain_str;	\/* Keep strength       *\/$/;"	m	struct:player_type::flags	access:public
+sustain_wis	types.h	/^      int8u sustain_wis;	\/* Keep wisdom	       *\/$/;"	m	struct:player_type::flags	access:public
+sv_write	save.c	/^static int sv_write()$/;"	f	file:
+sv_write	save.c	/^static int sv_write();$/;"	p	file:
+sv_write	save.c	/^static int sv_write(void);$/;"	p	file:	signature:(void)
+syllables	tables.c	/^char **syllables;$/;"	v
+syllables	tables.c	/^char *syllables[MAX_SYLLABLES] = {$/;"	v
+t_level	treasure.c	/^int16 t_level[MAX_OBJ_LEVEL+1];$/;"	v
+t_list	treasure.c	/^inven_type t_list[MAX_TALLOC];$/;"	v
+take_hit	externs.h	/^void take_hit();$/;"	p	signature:()
+take_hit	externs.h	/^void take_hit(int, char *);$/;"	p	signature:(int, char *)
+take_hit	moria1.c	/^void take_hit(damage, hit_from)$/;"	f
+take_one_item	externs.h	/^void take_one_item();$/;"	p	signature:()
+take_one_item	externs.h	/^void take_one_item(struct inven_type *, struct inven_type *);$/;"	p	signature:(struct inven_type *, struct inven_type *)
+take_one_item	misc3.c	/^void take_one_item (s_ptr, i_ptr)$/;"	f
+takeoff	externs.h	/^void takeoff();$/;"	p	signature:()
+takeoff	externs.h	/^void takeoff(int, int);$/;"	p	signature:(int, int)
+takeoff	moria1.c	/^void takeoff(item_val, posn)$/;"	f
+tchar	types.h	/^  int8u tchar;		\/* Character representation*\/$/;"	m	struct:inven_type	access:public
+tchar	types.h	/^  int8u tchar;		\/* Character representation*\/$/;"	m	struct:treasure_type	access:public
+tcptr	treasure.c	/^int16 tcptr;			\/* Cur treasure heap ptr	*\/$/;"	v
+td_destroy	externs.h	/^int td_destroy();$/;"	p	signature:()
+td_destroy	externs.h	/^int td_destroy(void);$/;"	p	signature:(void)
+td_destroy	spells.c	/^int td_destroy()$/;"	f
+td_destroy2	externs.h	/^int td_destroy2();$/;"	p	signature:()
+td_destroy2	externs.h	/^int td_destroy2(int, int, int);$/;"	p	signature:(int, int, int)
+td_destroy2	spells.c	/^int td_destroy2(dir, y, x)$/;"	f
+teleport	externs.h	/^void teleport();$/;"	p	signature:()
+teleport	externs.h	/^void teleport(int);$/;"	p	signature:(int)
+teleport	misc3.c	/^void teleport(dis)$/;"	f
+teleport	types.h	/^      int8u teleport;		\/* Random teleportation*\/$/;"	m	struct:player_type::flags	access:public
+teleport_away	externs.h	/^void teleport_away();$/;"	p	signature:()
+teleport_away	externs.h	/^void teleport_away(int, int);$/;"	p	signature:(int, int)
+teleport_away	spells.c	/^void teleport_away(monptr, dis)$/;"	f
+teleport_flag	variable.c	/^int teleport_flag;		\/* Handle teleport traps  *\/$/;"	v
+teleport_monster	externs.h	/^int teleport_monster();$/;"	p	signature:()
+teleport_monster	externs.h	/^int teleport_monster(int, int, int);$/;"	p	signature:(int, int, int)
+teleport_monster	spells.c	/^int teleport_monster(dir, y, x)$/;"	f
+teleport_to	externs.h	/^void teleport_to();$/;"	p	signature:()
+teleport_to	externs.h	/^void teleport_to(int, int);$/;"	p	signature:(int, int)
+teleport_to	spells.c	/^void teleport_to(ny, nx)$/;"	f
+temple	externs.h	/^int temple();$/;"	p	signature:()
+temple	externs.h	/^int temple(int);$/;"	p	signature:(int)
+temple	sets.c	/^int temple(element)$/;"	f
+temple	tables.c	/^extern int general_store(), armory(), weaponsmith(), temple(),$/;"	p	file:
+tempscr	io.c	/^static WINDOW *tempscr;		\/* Spare window for VMS CTRL('R'). *\/$/;"	v	file:
+test_hit	externs.h	/^int test_hit();$/;"	p	signature:()
+test_hit	externs.h	/^int test_hit(int, int, int, int, int);$/;"	p	signature:(int, int, int, int, int)
+test_hit	moria1.c	/^int test_hit(bth, level, pth, ac, attack_type)$/;"	f
+test_light	externs.h	/^int test_light();$/;"	p	signature:()
+test_light	externs.h	/^int test_light(int, int);$/;"	p	signature:(int, int)
+test_light	misc1.c	/^int test_light(y, x)$/;"	f
+tfopen	externs.h	/^FILE *tfopen();$/;"	p	signature:()
+tfopen	externs.h	/^FILE *tfopen(char *, char *);$/;"	p	signature:(char *, char *)
+tfopen	unix.c	/^FILE *tfopen(file, mode)$/;"	f
+throw_object	externs.h	/^void throw_object();$/;"	p	signature:()
+throw_object	externs.h	/^void throw_object(void);$/;"	p	signature:(void)
+throw_object	moria4.c	/^void throw_object()$/;"	f
+tilde	externs.h	/^int tilde();$/;"	p	signature:()
+tilde	externs.h	/^int tilde(char *, char *);$/;"	p	signature:(char *, char *)
+tilde	unix.c	/^int tilde(file, exp)$/;"	f
+tim_infra	types.h	/^      int16 tim_infra;		\/* Timed infra vision  *\/$/;"	m	struct:player_type::flags	access:public
+time	death.c	/^long time();$/;"	p	file:
+time	main.c	/^long time();$/;"	p	file:
+time	misc1.c	/^long time();$/;"	p	file:
+time	save.c	/^long time();$/;"	p	file:
+title	types.h	/^  char *title;		\/* type of class		*\/$/;"	m	struct:class_type	access:public
+title_string	externs.h	/^char *title_string();$/;"	p	signature:()
+title_string	externs.h	/^char *title_string(void);$/;"	p	signature:(void)
+title_string	misc3.c	/^char *title_string()$/;"	f
+titles	desc.c	/^char titles[MAX_TITLES][10];$/;"	v
+tl	types.h	/^  unsigned char tl : 1;$/;"	m	struct:cave_type	access:public
+tl	types.h	/^  unsigned int tl : 1;	\/* temporary light, used for player's lamp light,etc.*\/$/;"	m	struct:cave_type	access:public
+tl	types.h	/^  unsigned tl : 1;$/;"	m	struct:cave_type	access:public
+tlink	generate.c	/^static void tlink()$/;"	f	file:
+tlink	generate.c	/^static void tlink(void);$/;"	p	file:	signature:(void)
+to_be_wizard	variable.c	/^int to_be_wizard = FALSE;	\/* used during startup, when -w option used *\/$/;"	v
+toac	types.h	/^  int16 toac;		\/* Plusses to AC	*\/$/;"	m	struct:inven_type	access:public
+toac	types.h	/^  int16 toac;		\/* Plusses to AC	*\/$/;"	m	struct:treasure_type	access:public
+toac_adj	externs.h	/^int toac_adj();$/;"	p	signature:()
+toac_adj	externs.h	/^int toac_adj(void);$/;"	p	signature:(void)
+toac_adj	misc3.c	/^int toac_adj()$/;"	f
+todam	types.h	/^  int16 todam;		\/* Plusses to damage	*\/$/;"	m	struct:inven_type	access:public
+todam	types.h	/^  int16 todam;		\/* Plusses to damage	*\/$/;"	m	struct:treasure_type	access:public
+todam_adj	externs.h	/^int todam_adj();$/;"	p	signature:()
+todam_adj	externs.h	/^int todam_adj(void);$/;"	p	signature:(void)
+todam_adj	misc3.c	/^int todam_adj()$/;"	f
+todis_adj	externs.h	/^int todis_adj();$/;"	p	signature:()
+todis_adj	externs.h	/^int todis_adj(void);$/;"	p	signature:(void)
+todis_adj	misc3.c	/^int todis_adj()$/;"	f
+tohit	types.h	/^  int16 tohit;		\/* Plusses to hit	*\/$/;"	m	struct:inven_type	access:public
+tohit	types.h	/^  int16 tohit;		\/* Plusses to hit	*\/$/;"	m	struct:treasure_type	access:public
+tohit_adj	externs.h	/^int tohit_adj();$/;"	p	signature:()
+tohit_adj	externs.h	/^int tohit_adj(void);$/;"	p	signature:(void)
+tohit_adj	misc3.c	/^int tohit_adj()$/;"	f
+topen	externs.h	/^int topen();$/;"	p	signature:()
+topen	externs.h	/^int topen(char *, int, int);$/;"	p	signature:(char *, int, int)
+topen	unix.c	/^int topen(file, flags, mode)$/;"	f
+tot_dam	externs.h	/^int tot_dam();$/;"	p	signature:()
+tot_dam	externs.h	/^int tot_dam(struct inven_type *, int, int);$/;"	p	signature:(struct inven_type *, int, int)
+tot_dam	misc3.c	/^int tot_dam(i_ptr, tdam, monster)$/;"	f
+total_points	death.c	/^int32 total_points()$/;"	f
+total_points	externs.h	/^int32 total_points();$/;"	p	signature:()
+total_points	externs.h	/^int32 total_points(void);$/;"	p	signature:(void)
+total_winner	variable.c	/^int16 total_winner = FALSE;$/;"	v
+town_gen	generate.c	/^static void town_gen()$/;"	f	file:
+town_gen	generate.c	/^static void town_gen(void);$/;"	p	file:	signature:(void)
+town_seed	variable.c	/^int32u town_seed;		\/* for restarting town_seed *\/$/;"	v
+tptr	types.h	/^  unsigned int tptr : 8;$/;"	m	struct:cave_type	access:public
+trace	types.h	/^  char	*trace;		\/* Type of race			*\/$/;"	m	struct:race_type	access:public
+trap_creation	externs.h	/^int trap_creation();$/;"	p	signature:()
+trap_creation	externs.h	/^int trap_creation(void);$/;"	p	signature:(void)
+trap_creation	spells.c	/^int trap_creation()$/;"	f
+treasure_type	types.h	/^typedef struct treasure_type$/;"	s
+treasure_type	types.h	/^} treasure_type;$/;"	t	typeref:struct:treasure_type
+treasure_type::ac	types.h	/^  int16 ac;		\/* Normal AC		*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::cost	types.h	/^  int32 cost;		\/* Cost of item		*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::damage	types.h	/^  int8u damage[2];	\/* Damage when hits	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::flags	types.h	/^  int32u flags;		\/* Special flags	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::level	types.h	/^  int8u level;		\/* Level item first found *\/$/;"	m	struct:treasure_type	access:public
+treasure_type::name	types.h	/^  char *name;		\/* Object name		*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::number	types.h	/^  int8u number;		\/* Number of items	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::p1	types.h	/^  int16 p1;		\/* Misc. use variable	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::subval	types.h	/^  int8u subval;		\/* Sub-category number	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::tchar	types.h	/^  int8u tchar;		\/* Character representation*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::toac	types.h	/^  int16 toac;		\/* Plusses to AC	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::todam	types.h	/^  int16 todam;		\/* Plusses to damage	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::tohit	types.h	/^  int16 tohit;		\/* Plusses to hit	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::tval	types.h	/^  int8u tval;		\/* Category number	*\/$/;"	m	struct:treasure_type	access:public
+treasure_type::weight	types.h	/^  int16u weight;	\/* Weight		*\/$/;"	m	struct:treasure_type	access:public
+try_door	generate.c	/^static void try_door(int, int);$/;"	p	file:	signature:(int, int)
+try_door	generate.c	/^static void try_door(y, x)$/;"	f	file:
+tunnel	externs.h	/^void tunnel();$/;"	p	signature:()
+tunnel	externs.h	/^void tunnel(int);$/;"	p	signature:(int)
+tunnel	moria4.c	/^void tunnel(dir)$/;"	f
+turn	variable.c	/^int32 turn = -1;		\/* Cur turn of game    *\/$/;"	v
+turn_undead	externs.h	/^int turn_undead();$/;"	p	signature:()
+turn_undead	externs.h	/^int turn_undead(void);$/;"	p	signature:(void)
+turn_undead	spells.c	/^int turn_undead()$/;"	f
+tval	types.h	/^  int8u tval;		\/* Category number	*\/$/;"	m	struct:inven_type	access:public
+tval	types.h	/^  int8u tval;		\/* Category number	*\/$/;"	m	struct:treasure_type	access:public
+twall	externs.h	/^int twall();$/;"	p	signature:()
+twall	externs.h	/^int twall(int, int, int, int);$/;"	p	signature:(int, int, int, int)
+twall	moria3.c	/^int twall(y, x, t1, t2)$/;"	f
+uexit	externs.h	/^void uexit ();$/;"	p	signature:()
+uexit	externs.h	/^void uexit (int);$/;"	p	signature:(int)
+uid	types.h	/^  int16 uid;$/;"	m	struct:high_scores	access:public
+ultrix	config.h	281;"	d
+ultrix	config.h	287;"	d
+unix	config.h	67;"	d
+unlight_area	externs.h	/^int unlight_area();$/;"	p	signature:()
+unlight_area	externs.h	/^int unlight_area(int, int);$/;"	p	signature:(int, int)
+unlight_area	spells.c	/^int unlight_area(y, x)$/;"	f
+unlink	config.h	309;"	d
+unmagic_name	desc.c	/^void unmagic_name(i_ptr)$/;"	f
+unmagic_name	externs.h	/^void unmagic_name();$/;"	p	signature:()
+unmagic_name	externs.h	/^void unmagic_name(struct inven_type *);$/;"	p	signature:(struct inven_type *)
+unsample	desc.c	/^static void unsample();$/;"	p	file:
+unsample	desc.c	/^static void unsample(i_ptr)$/;"	f	file:
+unsample	desc.c	/^static void unsample(struct inven_type *);$/;"	p	file:	signature:(struct inven_type *)
+update_mon	creature.c	/^void update_mon(monptr)$/;"	f
+update_mon	externs.h	/^void update_mon();$/;"	p	signature:()
+update_mon	externs.h	/^void update_mon(int);$/;"	p	signature:(int)
+updatebargain	externs.h	/^void updatebargain();$/;"	p	signature:()
+updatebargain	externs.h	/^void updatebargain(int, int32, int32);$/;"	p	signature:(int, int32, int32)
+updatebargain	store1.c	/^void updatebargain(store_num, price, minprice)$/;"	f
+use	externs.h	/^void use();$/;"	p	signature:()
+use	externs.h	/^void use(void);$/;"	p	signature:(void)
+use	staffs.c	/^void use()$/;"	f
+use_stat	types.h	/^      int8u use_stat[6];	\/* What is used *\/$/;"	m	struct:player_type::stats	access:public
+use_value	io.c	162;"	d	file:
+use_value	io.c	164;"	d	file:
+use_value2	io.c	172;"	d	file:
+use_value2	io.c	174;"	d	file:
+user_name	externs.h	/^void user_name ();$/;"	p	signature:()
+user_name	externs.h	/^void user_name (char *);$/;"	p	signature:(char *)
+user_name	externs.h	/^void user_name();$/;"	p	signature:()
+user_name	externs.h	/^void user_name(char * buf);$/;"	p	signature:(char * buf)
+user_name	externs.h	/^void user_name(char *);$/;"	p	signature:(char *)
+user_name	unix.c	/^void user_name(buf)$/;"	f
+valid_countcommand	dungeon.c	/^static int valid_countcommand();$/;"	p	file:
+valid_countcommand	dungeon.c	/^static int valid_countcommand(c)$/;"	f	file:
+valid_countcommand	dungeon.c	/^static int valid_countcommand(char);$/;"	p	file:	signature:(char)
+vault_monster	generate.c	/^static void vault_monster(int, int, int);$/;"	p	file:	signature:(int, int, int)
+vault_monster	generate.c	/^static void vault_monster(y, x, num)$/;"	f	file:
+vault_trap	generate.c	/^static void vault_trap(int, int, int, int, int);$/;"	p	file:	signature:(int, int, int, int, int)
+vault_trap	generate.c	/^static void vault_trap(y, x, yd, xd, num)$/;"	f	file:
+verify	externs.h	/^int verify();$/;"	p	signature:()
+verify	externs.h	/^int verify(char *, int);$/;"	p	signature:(char *, int)
+verify	moria1.c	/^int verify(prompt, item)$/;"	f
+vms_crmode	externs.h	/^void vms_crmode ();$/;"	p	signature:()
+vms_crmode	externs.h	/^void vms_crmode (void);$/;"	p	signature:(void)
+vms_getch	externs.h	/^char vms_getch ();$/;"	p	signature:()
+vms_getch	externs.h	/^char vms_getch (void);$/;"	p	signature:(void)
+vms_nocrmode	externs.h	/^void vms_nocrmode ();$/;"	p	signature:()
+vms_nocrmode	externs.h	/^void vms_nocrmode (void);$/;"	p	signature:(void)
+vtype	types.h	/^typedef char vtype[VTYPESIZ];$/;"	t
+wait_for_more	variable.c	/^int wait_for_more = FALSE;	\/* used when ^C hit during -more- prompt *\/$/;"	v
+wall_to_mud	externs.h	/^int wall_to_mud();$/;"	p	signature:()
+wall_to_mud	externs.h	/^int wall_to_mud(int, int, int);$/;"	p	signature:(int, int, int)
+wall_to_mud	spells.c	/^int wall_to_mud(dir, y, x)$/;"	f
+warding_glyph	externs.h	/^void warding_glyph();$/;"	p	signature:()
+warding_glyph	externs.h	/^void warding_glyph(void);$/;"	p	signature:(void)
+warding_glyph	spells.c	/^void warding_glyph()$/;"	f
+warn	externs.h	/^void warn (char *fmt, ...);$/;"	p	signature:(char *fmt, ...)
+warn	externs.h	/^void warn(char *, ...);$/;"	p	signature:(char *, ...)
+weapon_heavy	variable.c	/^int weapon_heavy = FALSE;$/;"	v
+weaponsmith	externs.h	/^int weaponsmith();$/;"	p	signature:()
+weaponsmith	externs.h	/^int weaponsmith(int);$/;"	p	signature:(int)
+weaponsmith	sets.c	/^int weaponsmith(element)$/;"	f
+weaponsmith	tables.c	/^extern int general_store(), armory(), weaponsmith(), temple(),$/;"	p	file:
+wear_high	moria1.c	/^static int wear_low, wear_high;$/;"	v	file:
+wear_low	moria1.c	/^static int wear_low, wear_high;$/;"	v	file:
+weight	types.h	/^  int16u weight;	\/* Weight		*\/$/;"	m	struct:inven_type	access:public
+weight	types.h	/^  int16u weight;	\/* Weight		*\/$/;"	m	struct:treasure_type	access:public
+weight_limit	externs.h	/^int weight_limit();$/;"	p	signature:()
+weight_limit	externs.h	/^int weight_limit(void);$/;"	p	signature:(void)
+weight_limit	misc3.c	/^int weight_limit()$/;"	f
+wgetch	io.c	/^long wgetch();$/;"	p	file:
+wis_adj	types.h	/^  int16 wis_adj;$/;"	m	struct:race_type	access:public
+wizard	variable.c	/^int wizard = FALSE;		\/* Wizard flag	      *\/$/;"	v
+wizard_create	externs.h	/^void wizard_create();$/;"	p	signature:()
+wizard_create	externs.h	/^void wizard_create(void);$/;"	p	signature:(void)
+wizard_create	wizard.c	/^void wizard_create()$/;"	f
+wizard_light	externs.h	/^void wizard_light();$/;"	p	signature:()
+wizard_light	externs.h	/^void wizard_light(void);$/;"	p	signature:(void)
+wizard_light	wizard.c	/^void wizard_light()$/;"	f
+woods	tables.c	/^char **woods;$/;"	v
+woods	tables.c	/^char *woods[MAX_WOODS] = {$/;"	v
+word_recall	types.h	/^      int16 word_recall;	\/* Timed teleport level*\/$/;"	m	struct:player_type::flags	access:public
+wr_byte	save.c	/^static void wr_byte();$/;"	p	file:
+wr_byte	save.c	/^static void wr_byte(c)$/;"	f	file:
+wr_byte	save.c	/^static void wr_byte(int8u);$/;"	p	file:
+wr_bytes	save.c	/^static void wr_bytes();$/;"	p	file:
+wr_bytes	save.c	/^static void wr_bytes(c, count)$/;"	f	file:
+wr_bytes	save.c	/^static void wr_bytes(int8u *, int);$/;"	p	file:	signature:(int8u *, int)
+wr_highscore	externs.h	/^void wr_highscore();$/;"	p	signature:()
+wr_highscore	externs.h	/^void wr_highscore(high_scores *);$/;"	p	signature:(high_scores *)
+wr_highscore	save.c	/^void wr_highscore(score)$/;"	f
+wr_item	save.c	/^static void wr_item();$/;"	p	file:
+wr_item	save.c	/^static void wr_item(inven_type *);$/;"	p	file:	signature:(inven_type *)
+wr_item	save.c	/^static void wr_item(item)$/;"	f	file:
+wr_long	save.c	/^static void wr_long();$/;"	p	file:
+wr_long	save.c	/^static void wr_long(int32u);$/;"	p	file:
+wr_long	save.c	/^static void wr_long(l)$/;"	f	file:
+wr_monster	save.c	/^static void wr_monster();$/;"	p	file:
+wr_monster	save.c	/^static void wr_monster(mon)$/;"	f	file:
+wr_monster	save.c	/^static void wr_monster(monster_type *);$/;"	p	file:	signature:(monster_type *)
+wr_short	save.c	/^static void wr_short();$/;"	p	file:
+wr_short	save.c	/^static void wr_short(int16u);$/;"	p	file:
+wr_short	save.c	/^static void wr_short(s)$/;"	f	file:
+wr_shorts	save.c	/^static void wr_shorts();$/;"	p	file:
+wr_shorts	save.c	/^static void wr_shorts(int16u *, int);$/;"	p	file:	signature:(int16u *, int)
+wr_shorts	save.c	/^static void wr_shorts(s, count)$/;"	f	file:
+wr_string	save.c	/^static void wr_string();$/;"	p	file:
+wr_string	save.c	/^static void wr_string(char *);$/;"	p	file:	signature:(char *)
+wr_string	save.c	/^static void wr_string(str)$/;"	f	file:
+wt	types.h	/^      int16u wt;	\/* Weight		*\/$/;"	m	struct:player_type::misc	access:public
+x	generate.c	/^  int x, y;$/;"	m	struct:coords	file:	access:public
+xor_byte	save.c	/^static int8u xor_byte;$/;"	v	file:
+y	generate.c	/^  int x, y;$/;"	m	struct:coords	file:	access:public
