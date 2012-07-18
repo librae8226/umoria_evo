@@ -199,8 +199,8 @@ some of the system defines set up here.
 #else
 
 /* This must be unix; change MORIA_LIB as appropriate.  */
-#define MORIA_SAV	"moria.save"
-#define MORIA_LIB(xxx)  "/home/yrliao/workspace/moria/files/" #xxx
+#define MORIA_SAV	"work/moria/files/moria.save"
+#define MORIA_LIB(xxx)  "/home/librae/work/moria/files/" #xxx
 #define MORIA_HOU	MORIA_LIB(hours)
 #define MORIA_MOR	MORIA_LIB(news)
 #define MORIA_TOP	MORIA_LIB(scores)

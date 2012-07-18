@@ -5,6 +5,7 @@ If you have a character based environment, it is enough.
 I pick the essential resources of the original tarball and did a little
 modification in order to make it pass compilation, then share them here.
 NOTE: For now, UNIX or its variant only!
+Ps: excute like `/path/to/moria -r' to use rogue like command set.
 
 Below is original README. Great thanks to all those excellent antecessors :)
 

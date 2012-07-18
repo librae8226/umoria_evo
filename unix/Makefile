@@ -3,10 +3,10 @@
 # LIBDIR must be the same directory defined in config.h
 # OWNER is who you want the game to be chown to.
 # GROUP is who you wnat the game to be chgrp to.
-BINDIR = /home/yrliao/bin
-LIBDIR = /home/yrliao/workspace/moria/files
-OWNER = yrliao
-GROUP = yrliao
+BINDIR = /home/librae/bin
+LIBDIR = /home/librae/work/moria/files
+OWNER = librae
+GROUP = librae
 
 # For testing and debugging the program, it is best to use this line.
 # CFLAGS = -g
